@@ -1,0 +1,44 @@
+name: Fetch AMFI NAV
+
+on:
+  schedule:
+    # 3 runs daily — all 7 days (debt/liquid funds publish Saturday NAVs)
+    # 9:30 PM IST = 4:00 PM UTC
+    # 10:30 PM IST = 5:00 PM UTC
+    # 11:30 PM IST = 6:00 PM UTC
+    - cron: '0 16 * * *'
+    - cron: '0 17 * * *'
+    - cron: '0 18 * * *'
+  workflow_dispatch:  # Manual trigger anytime from GitHub UI
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed to push commits back to repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch AMFI NAV data
+        run: python scripts/fetch_nav.py
+
+      - name: Run monthly consolidation
+        run: python scripts/consolidate.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "NAV Bot"
+          git config user.email "nav-bot@users.noreply.github.com"
+          git add data/ metadata/
+          git diff --cached --quiet || git commit -m "NAV update: $(date -u +%Y-%m-%d)"
+          git push
