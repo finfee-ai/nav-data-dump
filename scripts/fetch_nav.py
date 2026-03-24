@@ -1,18 +1,26 @@
 """
-AMFI NAV Fetchr — Fetches daily NAV data for all Direct Growth mutual funds.
+AMFI NAV Fetcher — Fetches daily NAV data for all Direct Growth mutual funds.
 
 Source: https://www.amfiindia.com/spages/NAVAll.txt
-# Schedule: 4x/day via GitHub Actions (6:00 AM, 10:30 AM, 2:10 PM, 10:00 PM IST)
+Schedule: 4x/day via GitHub Actions (6:00 AM, 10:30 AM, 2:10 PM, 10:00 PM IST)
+
+How daily files work:
+  - 10:00 PM run  → creates data/daily/YYYY-MM-DD.csv for TODAY
+  - Morning/afternoon runs → UPDATE previous date files with late-declaring AMCs
+    e.g. PPFAS declares March 24 NAV on March 25 morning → added to 2026-03-24.csv
+
+  Each daily file is the COMPLETE, FINAL record for that date.
+  Each fund's NAV is stored under its OWN declared date, never mismatched.
 
 Output:
-  - data/daily/YYYY-MM-DD.csv   (daily snapshot)
-  - data/latest.csv             (always the freshest fetch)
-  - metadata/fetch_log.json    (run history)
-  - metadata/last_success.txt   (ISO timestamp of last success)
+  - data/daily/YYYY-MM-DD.csv   — complete NAV record for that date (updated as AMCs declare)
+  - data/latest.csv             — today's NAVs only (majority date, for quick access)
+  - metadata/fetch_log.json     — run history
+  - metadata/last_success.txt   — ISO timestamp of last successful run
+  - metadata/scheme_master.csv  — full Direct Growth scheme list with ISINs
 """
 
 import json
-import os
 import sys
 import time
 from datetime import datetime, timezone, timedelta
@@ -24,42 +32,43 @@ import requests
 # ---------------------------------------------------------------------------
 # Paths (relative to repo root)
 # ---------------------------------------------------------------------------
-REPO_ROOT = Path(__file__).resolve().parent.parent
-DAILY_DIR = REPO_ROOT / "data" / "daily"
-LATEST_CSV = REPO_ROOT / "data" / "latest.csv"
-FETCH_LOG = REPO_ROOT / "metadata" / "fetch_log.json"
+REPO_ROOT    = Path(__file__).resolve().parent.parent
+DAILY_DIR    = REPO_ROOT / "data" / "daily"
+LATEST_CSV   = REPO_ROOT / "data" / "latest.csv"
+FETCH_LOG    = REPO_ROOT / "metadata" / "fetch_log.json"
 LAST_SUCCESS = REPO_ROOT / "metadata" / "last_success.txt"
-SCHEME_MASTER = REPO_ROOT / "metadata" / "scheme_master.csv"
+SCHEME_MASTER= REPO_ROOT / "metadata" / "scheme_master.csv"
 
 # ---------------------------------------------------------------------------
 # Constants
 # ---------------------------------------------------------------------------
-AMFI_NAV_URL = "https://www.amfiindia.com/spages/NAVAll.txt"
-REQUEST_TIMEOUT = 60  # seconds
-MAX_RETRIES = 3
-RETRY_DELAY = 60  # seconds between retries
-MIN_EXPECTED_SCHEMES = 1500  # sanity check — expect ~2000+ Direct Growth funds
+AMFI_NAV_URL       = "https://www.amfiindia.com/spages/NAVAll.txt"
+REQUEST_TIMEOUT    = 60    # seconds per attempt
+MAX_RETRIES        = 3
+RETRY_DELAY        = 60    # seconds between retries
+MIN_EXPECTED       = 1500  # sanity floor — expect ~3000+ Direct Growth funds
 
-# IST timezone for logging
 IST = timezone(timedelta(hours=5, minutes=30))
 
 
-def fetch_amfi_nav_text() -> str:
+# ---------------------------------------------------------------------------
+# Step 1 — Fetch
+# ---------------------------------------------------------------------------
+def fetch_amfi_text() -> str:
     """Fetch raw NAVAll.txt from AMFI with retry logic."""
     last_error = None
 
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             print(f"  Attempt {attempt}/{MAX_RETRIES} — fetching {AMFI_NAV_URL}")
-            response = requests.get(AMFI_NAV_URL, timeout=REQUEST_TIMEOUT)
-            response.raise_for_status()
+            resp = requests.get(AMFI_NAV_URL, timeout=REQUEST_TIMEOUT)
+            resp.raise_for_status()
 
-            # Basic sanity: file should be at least 100KB (typically ~2-3 MB)
-            if len(response.text) < 100_000:
-                raise ValueError(f"Response too small: {len(response.text)} bytes (expected >100KB)")
+            if len(resp.text) < 100_000:
+                raise ValueError(f"Response too small: {len(resp.text):,} bytes (expected >100 KB)")
 
-            print(f"  Fetched {len(response.text):,} bytes")
-            return response.text
+            print(f"  Fetched {len(resp.text):,} bytes")
+            return resp.text
 
         except Exception as e:
             last_error = e
@@ -71,6 +80,9 @@ def fetch_amfi_nav_text() -> str:
     raise ConnectionError(f"All {MAX_RETRIES} attempts failed. Last error: {last_error}")
 
 
+# ---------------------------------------------------------------------------
+# Step 2 — Parse
+# ---------------------------------------------------------------------------
 def parse_nav_data(raw_text: str) -> pd.DataFrame:
     """
     Parse AMFI NAVAll.txt into a DataFrame.
@@ -78,7 +90,7 @@ def parse_nav_data(raw_text: str) -> pd.DataFrame:
     File format (semicolon-delimited):
         Scheme Code;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date
 
-    Category headers appear as standalone lines (no semicolons or fewer than 5 fields).
+    Non-data lines (category headers) have fewer than 6 fields — skipped automatically.
     """
     rows = []
 
@@ -89,40 +101,36 @@ def parse_nav_data(raw_text: str) -> pd.DataFrame:
 
         parts = line.split(";")
         if len(parts) < 6:
-            continue  # Skip category headers and malformed lines
+            continue
 
         scheme_code_str = parts[0].strip()
-        isin_growth = parts[1].strip()
-        isin_div_reinv = parts[2].strip()
-        scheme_name = parts[3].strip()
-        nav_str = parts[4].strip()
-        date_str = parts[5].strip()
+        isin_growth     = parts[1].strip()
+        isin_div_reinv  = parts[2].strip()
+        scheme_name     = parts[3].strip()
+        nav_str         = parts[4].strip()
+        date_str        = parts[5].strip()
 
-        # Skip non-numeric scheme codes (header rows)
         if not scheme_code_str.isdigit():
             continue
 
-        # Skip invalid NAV values
         if nav_str in ("N.A.", "N.A", "-", "", "B.C."):
             continue
 
-        # Parse NAV as float
         try:
             nav_value = float(nav_str)
         except ValueError:
             continue
 
-        # NAV must be positive
         if nav_value <= 0:
             continue
 
         rows.append({
-            "scheme_code": int(scheme_code_str),
-            "isin_growth": isin_growth if isin_growth and isin_growth != "-" else "",
-            "isin_div_reinv": isin_div_reinv if isin_div_reinv and isin_div_reinv != "-" else "",
-            "scheme_name": scheme_name,
-            "nav": nav_value,
-            "date": date_str,
+            "scheme_code"  : int(scheme_code_str),
+            "isin_growth"  : isin_growth    if isin_growth    not in ("", "-") else "",
+            "isin_div_reinv": isin_div_reinv if isin_div_reinv not in ("", "-") else "",
+            "scheme_name"  : scheme_name,
+            "nav"          : nav_value,
+            "date"         : date_str,   # raw AMFI format e.g. "24-Mar-2026"
         })
 
     if not rows:
@@ -133,121 +141,189 @@ def parse_nav_data(raw_text: str) -> pd.DataFrame:
     return df
 
 
+# ---------------------------------------------------------------------------
+# Step 3 — Filter
+# ---------------------------------------------------------------------------
 def filter_direct_growth(df: pd.DataFrame) -> pd.DataFrame:
-    """Filter to Direct Growth schemes only (exclude IDCW/Dividend)."""
-    name_col = df["scheme_name"].str.lower()
-
-    mask_direct = name_col.str.contains("direct", na=False)
-    mask_exclude = name_col.str.contains("idcw|dividend", na=False)
-
-    filtered = df[mask_direct & ~mask_exclude].copy()
-    filtered = filtered.reset_index(drop=True)
-
-    print(f"  Filtered to {len(filtered):,} Direct Growth schemes")
-    return filtered
+    """Keep only Direct Growth schemes (exclude IDCW / Dividend)."""
+    name = df["scheme_name"].str.lower()
+    mask = name.str.contains("direct", na=False) & \
+          ~name.str.contains("idcw|dividend", na=False)
+    result = df[mask].copy().reset_index(drop=True)
+    print(f"  Filtered to {len(result):,} Direct Growth schemes")
+    return result
 
 
-def normalize_nav_date(date_str: str) -> str:
+# ---------------------------------------------------------------------------
+# Step 4 — Normalize dates
+# ---------------------------------------------------------------------------
+def normalize_date(date_str: str) -> str:
     """
-    Convert AMFI date format to ISO format.
-
-    AMFI uses formats like: '24-Mar-2026' or '24-03-2026'
-    Returns: '2026-03-24'
+    Convert AMFI date string to ISO format YYYY-MM-DD.
+    Handles: '24-Mar-2026', '24-03-2026', '24/03/2026'
     """
-    # Try common AMFI formats
     for fmt in ("%d-%b-%Y", "%d-%m-%Y", "%d/%m/%Y"):
         try:
             return datetime.strptime(date_str.strip(), fmt).strftime("%Y-%m-%d")
         except ValueError:
             continue
-
     raise ValueError(f"Cannot parse AMFI date: '{date_str}'")
 
 
-def should_save(nav_date_iso: str, new_count: int) -> bool:
+# ---------------------------------------------------------------------------
+# Step 5 — Smart per-date update (core logic)
+# ---------------------------------------------------------------------------
+def update_daily_files(df: pd.DataFrame) -> dict:
     """
-    Decide whether to save this fetch.
+    Update daily CSV files grouped by each fund's OWN NAV date.
 
-    Skip if a daily file already exists with the same or more schemes.
-    Overwrite if the new fetch has more schemes (catches corrections/late additions).
+    Logic:
+      - Group all funds by their declared NAV date
+      - For each date group, merge into existing daily/{date}.csv
+        → New funds are ADDED
+        → Existing funds are UPDATED (handles NAV corrections)
+        → No fund is ever lost
+      - Returns summary of what changed
+
+    This ensures:
+      - 2026-03-24.csv = complete record for March 24 (including PPFAS added next morning)
+      - Each fund's NAV is stored under its correct declared date
     """
-    daily_file = DAILY_DIR / f"{nav_date_iso}.csv"
-
-    if not daily_file.exists():
-        return True
-
-    try:
-        existing = pd.read_csv(daily_file)
-        existing_count = len(existing)
-
-        if new_count > existing_count:
-            print(f"  Existing file has {existing_count} schemes, new fetch has {new_count} — overwriting")
-            return True
-        else:
-            print(f"  Existing file has {existing_count} schemes, new fetch has {new_count} — skipping (no improvement)")
-            return False
-    except Exception:
-        # If we can't read the existing file, overwrite it
-        return True
-
-
-def save_data(df: pd.DataFrame, nav_date_iso: str) -> None:
-    """Save daily CSV and update latest.csv."""
     DAILY_DIR.mkdir(parents=True, exist_ok=True)
+    summary = {}  # {date: {"added": n, "updated": n, "unchanged": n, "total": n}}
 
-    daily_file = DAILY_DIR / f"{nav_date_iso}.csv"
-    df.to_csv(daily_file, index=False)
-    print(f"  Saved daily file: {daily_file.name} ({len(df)} schemes)")
+    # Group incoming data by each fund's own NAV date
+    for nav_date, group in df.groupby("date"):
+        daily_file = DAILY_DIR / f"{nav_date}.csv"
+        group = group.reset_index(drop=True)
 
-    df.to_csv(LATEST_CSV, index=False)
-    print(f"  Updated latest.csv")
+        if not daily_file.exists():
+            # Brand new date — save directly
+            group.to_csv(daily_file, index=False)
+            summary[nav_date] = {
+                "added": len(group), "updated": 0,
+                "unchanged": 0, "total": len(group), "action": "created"
+            }
+            print(f"  Created  {daily_file.name}: {len(group):,} schemes")
+
+        else:
+            # Merge into existing file
+            try:
+                existing = pd.read_csv(daily_file)
+            except Exception:
+                # Corrupted file — overwrite
+                group.to_csv(daily_file, index=False)
+                summary[nav_date] = {
+                    "added": len(group), "updated": 0,
+                    "unchanged": 0, "total": len(group), "action": "overwrite_corrupt"
+                }
+                print(f"  Replaced {daily_file.name} (was corrupt): {len(group):,} schemes")
+                continue
+
+            existing_idx = existing.set_index("scheme_code")
+            incoming_idx = group.set_index("scheme_code")
+
+            added     = 0
+            updated   = 0
+            unchanged = 0
+
+            for scheme_code, row in incoming_idx.iterrows():
+                if scheme_code not in existing_idx.index:
+                    # New fund not seen before for this date
+                    added += 1
+                else:
+                    existing_nav = existing_idx.at[scheme_code, "nav"]
+                    if existing_nav != row["nav"]:
+                        # NAV correction by AMC
+                        updated += 1
+                    else:
+                        unchanged += 1
+
+            if added > 0 or updated > 0:
+                # Merge: existing + incoming, incoming wins on duplicates
+                merged = pd.concat([existing, group], ignore_index=True)
+                merged = merged.drop_duplicates(subset=["scheme_code"], keep="last")
+                merged = merged.sort_values("scheme_code").reset_index(drop=True)
+                merged.to_csv(daily_file, index=False)
+
+                action_parts = []
+                if added:   action_parts.append(f"+{added} new")
+                if updated: action_parts.append(f"{updated} corrected")
+                action_str = ", ".join(action_parts)
+
+                summary[nav_date] = {
+                    "added": added, "updated": updated,
+                    "unchanged": unchanged, "total": len(merged), "action": "merged"
+                }
+                print(f"  Updated  {daily_file.name}: {action_str} ({len(merged):,} total)")
+            else:
+                summary[nav_date] = {
+                    "added": 0, "updated": 0,
+                    "unchanged": unchanged, "total": len(existing), "action": "skipped"
+                }
+                print(f"  Skipped  {daily_file.name}: no changes ({unchanged:,} schemes unchanged)")
+
+    return summary
 
 
+# ---------------------------------------------------------------------------
+# Step 6 — Update latest.csv (today's majority-date funds only)
+# ---------------------------------------------------------------------------
+def update_latest_csv(df: pd.DataFrame) -> str:
+    """
+    Write latest.csv with only the majority-date funds.
+    This gives a clean 'today's NAV' snapshot for quick access.
+    Returns the majority date.
+    """
+    majority_date = df["date"].mode()[0]
+    today_df = df[df["date"] == majority_date].copy()
+    today_df.to_csv(LATEST_CSV, index=False)
+    print(f"  Updated latest.csv: {len(today_df):,} schemes for {majority_date}")
+    return majority_date
+
+
+# ---------------------------------------------------------------------------
+# Helpers — scheme master, logging
+# ---------------------------------------------------------------------------
 def update_scheme_master(df: pd.DataFrame) -> None:
-    """
-    Update scheme_master.csv with the full list of Direct Growth schemes.
-    Contains scheme_code, isin_growth, isin_div_reinv, scheme_name (no NAV/date).
-    """
+    """Update scheme_master.csv — full Direct Growth list with ISINs (no NAV/date)."""
     master = df[["scheme_code", "isin_growth", "isin_div_reinv", "scheme_name"]].copy()
     master = master.drop_duplicates(subset=["scheme_code"], keep="last")
     master = master.sort_values("scheme_code").reset_index(drop=True)
-
     SCHEME_MASTER.parent.mkdir(parents=True, exist_ok=True)
     master.to_csv(SCHEME_MASTER, index=False)
-    print(f"  Updated scheme_master.csv ({len(master)} schemes)")
+    print(f"  Updated scheme_master.csv: {len(master):,} schemes")
 
 
-def log_fetch(status: str, scheme_count: int, nav_date: str, message: str = "") -> None:
-    """Append to fetch_log.json."""
+def log_run(status: str, majority_date: str, summary: dict, message: str = "") -> None:
+    """Append a run entry to fetch_log.json (keeps last 200 entries)."""
     FETCH_LOG.parent.mkdir(parents=True, exist_ok=True)
 
-    # Load existing log
-    log_entries = []
+    entries = []
     if FETCH_LOG.exists():
         try:
-            with open(FETCH_LOG, "r") as f:
-                log_entries = json.load(f)
-        except (json.JSONDecodeError, Exception):
-            log_entries = []
+            with open(FETCH_LOG) as f:
+                entries = json.load(f)
+        except Exception:
+            entries = []
 
-    # Keep last 100 entries to prevent unbounded growth
-    if len(log_entries) >= 100:
-        log_entries = log_entries[-99:]
+    if len(entries) >= 200:
+        entries = entries[-199:]
 
     now_utc = datetime.now(timezone.utc)
     now_ist = now_utc.astimezone(IST)
 
-    log_entries.append({
-        "timestamp_utc": now_utc.isoformat(),
-        "timestamp_ist": now_ist.strftime("%Y-%m-%d %H:%M:%S IST"),
-        "status": status,
-        "nav_date": nav_date,
-        "scheme_count": scheme_count,
-        "message": message,
+    entries.append({
+        "timestamp_utc" : now_utc.isoformat(),
+        "timestamp_ist" : now_ist.strftime("%Y-%m-%d %H:%M:%S IST"),
+        "status"        : status,
+        "majority_date" : majority_date,
+        "files_updated" : summary,
+        "message"       : message,
     })
 
     with open(FETCH_LOG, "w") as f:
-        json.dump(log_entries, f, indent=2)
+        json.dump(entries, f, indent=2)
 
 
 def update_last_success() -> None:
@@ -255,94 +331,88 @@ def update_last_success() -> None:
     LAST_SUCCESS.parent.mkdir(parents=True, exist_ok=True)
     now_utc = datetime.now(timezone.utc)
     now_ist = now_utc.astimezone(IST)
-
     with open(LAST_SUCCESS, "w") as f:
         f.write(f"{now_utc.isoformat()}\n")
         f.write(f"{now_ist.strftime('%Y-%m-%d %H:%M:%S IST')}\n")
 
 
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
 def main() -> int:
-    """
-    Main fetchr entry point.
-
-    Returns:
-        0 on success or expected skip (holiday/duplicate)
-        1 on unexpected failure
-    """
     print("=" * 60)
-    print("AMFI NAV Fetchr")
+    print("AMFI NAV Fetcher")
     print(f"Run time: {datetime.now(IST).strftime('%Y-%m-%d %H:%M:%S IST')}")
     print("=" * 60)
 
-    # --- Step 1: Fetch ---
+    # 1. Fetch
     try:
         print("\n[1/6] Fetching AMFI NAVAll.txt...")
-        raw_text = fetch_amfi_nav_text()
+        raw_text = fetch_amfi_text()
     except ConnectionError as e:
         print(f"\nFATAL: {e}")
-        log_fetch("fetch_failed", 0, "", str(e))
-        # Exit 0 to avoid GitHub Actions failure emails on AMFI downtime
-        return 0
+        log_run("fetch_failed", "", {}, str(e))
+        return 0  # Exit 0 — no failure emails on AMFI downtime
 
-    # --- Step 2: Parse ---
+    # 2. Parse
     try:
         print("\n[2/6] Parsing NAV data...")
         all_schemes = parse_nav_data(raw_text)
     except ValueError as e:
         print(f"\nFATAL: {e}")
-        log_fetch("parse_failed", 0, "", str(e))
+        log_run("parse_failed", "", {}, str(e))
         return 1
 
-    # --- Step 3: Filter ---
+    # 3. Filter
     print("\n[3/6] Filtering Direct Growth schemes...")
     direct_growth = filter_direct_growth(all_schemes)
 
     if len(direct_growth) == 0:
-        print("FATAL: No Direct Growth schemes found after filtering")
-        log_fetch("filter_empty", 0, "", "Zero schemes after Direct Growth filter")
+        print("FATAL: Zero schemes after filtering")
+        log_run("filter_empty", "", {}, "Zero Direct Growth schemes")
         return 1
 
-    # Validation: warn if fewer than expected
-    if len(direct_growth) < MIN_EXPECTED_SCHEMES:
-        print(f"  WARNING: Only {len(direct_growth)} schemes (expected >={MIN_EXPECTED_SCHEMES})")
+    if len(direct_growth) < MIN_EXPECTED:
+        print(f"  WARNING: Only {len(direct_growth):,} schemes (expected >={MIN_EXPECTED:,})")
 
-    # --- Step 4: Normalize each fund's date individually ---
-    # IMPORTANT: Different AMCs declare NAV on different days.
-    # e.g. PPFAS declares March 24th NAV on March 25th morning.
-    # Each fund row must keep its OWN date — never overwrite with a single date.
+    # 4. Normalize each fund's own date
     print("\n[4/6] Normalizing NAV dates...")
     try:
-        direct_growth["date"] = direct_growth["date"].apply(normalize_nav_date)
+        direct_growth["date"] = direct_growth["date"].apply(normalize_date)
     except ValueError as e:
         print(f"FATAL: {e}")
-        log_fetch("date_parse_failed", len(direct_growth), "", str(e))
+        log_run("date_parse_failed", "", {}, str(e))
         return 1
 
-    # Use the MOST COMMON date to name the daily file (majority of funds)
-    nav_date_iso = direct_growth["date"].mode()[0]
+    # Report date distribution
     date_counts = direct_growth["date"].value_counts()
-    print(f"  Majority NAV date: {nav_date_iso} ({date_counts.iloc[0]:,} funds)")
+    majority_date = date_counts.index[0]
+    print(f"  Majority date : {majority_date} ({date_counts.iloc[0]:,} funds)")
     if len(date_counts) > 1:
-        for date_val, count in date_counts.iloc[1:].items():
-            print(f"  Late declaration: {count} fund(s) dated {date_val} (stored with correct date)")
+        for d, c in date_counts.iloc[1:].items():
+            print(f"  Late declaring: {c:,} fund(s) with date {d}")
 
+    # 5. Update daily files (per-date merge)
+    print("\n[5/6] Updating daily files...")
+    summary = update_daily_files(direct_growth)
 
-    # --- Step 5: Dedup check ---
-    print("\n[5/6] Checking for duplicates...")
-    if not should_save(nav_date_iso, len(direct_growth)):
-        log_fetch("skipped_duplicate", len(direct_growth), nav_date_iso,
-                    "Daily file already exists with same or more schemes")
-        print("\nDone — no new data to save.")
-        return 0
-
-    # --- Step 6: Save ---
-    print("\n[6/6] Saving data...")
-    save_data(direct_growth, nav_date_iso)
+    # 6. Update latest.csv + scheme master
+    print("\n[6/6] Updating latest.csv and scheme master...")
+    update_latest_csv(direct_growth)
     update_scheme_master(direct_growth)
-    log_fetch("success", len(direct_growth), nav_date_iso)
+    log_run("success", majority_date, summary)
     update_last_success()
 
-    print(f"\nDone — saved {len(direct_growth)} schemes for {nav_date_iso}")
+    # Final summary
+    total_files = len(summary)
+    created  = sum(1 for s in summary.values() if s["action"] == "created")
+    merged   = sum(1 for s in summary.values() if s["action"] == "merged")
+    skipped  = sum(1 for s in summary.values() if s["action"] == "skipped")
+
+    print(f"\n{'='*60}")
+    print(f"Done — {total_files} date file(s) processed")
+    print(f"  Created : {created}  |  Updated : {merged}  |  Unchanged : {skipped}")
+    print(f"{'='*60}")
     return 0
 
 
