@@ -2,7 +2,7 @@
 AMFI NAV Fetchr — Fetches daily NAV data for all Direct Growth mutual funds.
 
 Source: https://www.amfiindia.com/spages/NAVAll.txt
-Schedule: 3x/day via GitHub Actions (9:30 PM, 10:30 PM, 11:30 PM IST)
+# Schedule: 4x/day via GitHub Actions (6:00 AM, 10:30 AM, 2:10 PM, 10:00 PM IST)
 
 Output:
   - data/daily/YYYY-MM-DD.csv   (daily snapshot)
@@ -306,20 +306,26 @@ def main() -> int:
     if len(direct_growth) < MIN_EXPECTED_SCHEMES:
         print(f"  WARNING: Only {len(direct_growth)} schemes (expected >={MIN_EXPECTED_SCHEMES})")
 
-    # --- Step 4: Extract NAV date ---
-    print("\n[4/6] Determining NAV date...")
-    raw_date = direct_growth["date"].iloc[0]
+    # --- Step 4: Normalize each fund's date individually ---
+    # IMPORTANT: Different AMCs declare NAV on different days.
+    # e.g. PPFAS declares March 24th NAV on March 25th morning.
+    # Each fund row must keep its OWN date — never overwrite with a single date.
+    print("\n[4/6] Normalizing NAV dates...")
     try:
-        nav_date_iso = normalize_nav_date(raw_date)
+        direct_growth["date"] = direct_growth["date"].apply(normalize_nav_date)
     except ValueError as e:
         print(f"FATAL: {e}")
         log_fetch("date_parse_failed", len(direct_growth), "", str(e))
         return 1
 
-    print(f"  NAV date: {nav_date_iso} (from AMFI file: '{raw_date}')")
+    # Use the MOST COMMON date to name the daily file (majority of funds)
+    nav_date_iso = direct_growth["date"].mode()[0]
+    date_counts = direct_growth["date"].value_counts()
+    print(f"  Majority NAV date: {nav_date_iso} ({date_counts.iloc[0]:,} funds)")
+    if len(date_counts) > 1:
+        for date_val, count in date_counts.iloc[1:].items():
+            print(f"  Late declaration: {count} fund(s) dated {date_val} (stored with correct date)")
 
-    # Normalize the date column to ISO format
-    direct_growth["date"] = nav_date_iso
 
     # --- Step 5: Dedup check ---
     print("\n[5/6] Checking for duplicates...")
