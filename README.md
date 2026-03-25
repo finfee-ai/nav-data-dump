@@ -2,7 +2,7 @@
 
 Automated daily scraper for Indian mutual fund NAV data from AMFI (Association of Mutual Funds in India).
 
-Builds a free, self-maintained historical NAV database — no third-party API dependency.
+Builds a free, self-maintained historical NAV database —no third-party API dependency.
 
 ## What It Does
 
