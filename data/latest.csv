@@ -134,30 +134,6 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 131061,INF109KA1O37,,ICICI Prudential Constant Maturity Gilt Fund - Direct Plan - Growth,25.7262,2026-03-27
 120137,INF200K01SK7,,SBI CONSTANT MATURITY 10 YEAR GILT FUND - DIRECT PLAN - GROWTH,67.1681,2026-03-27
 150410,INF789F1AVR7,,UTI Gilt Fund with 10 year Constant Duration - Direct Plan - Growth Option,12.9451,2026-03-27
-125345,INF579M01621,,360 ONE LIQUID FUND DIRECT PLAN  GROWTH,2109.022,2026-03-27
-119568,INF209K01VA3,,Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan,444.5525,2026-03-27
-120389,INF846K01CX4,,Axis Liquid Fund - Direct Plan - Growth Option,3061.2147,2026-03-27
-151833,INF0QA701011,,Bajaj Finserv Liquid Fund - Direct Plan - Growth,1201.028,2026-03-27
-118364,INF194K01I60,,BANDHAN LIQUID Fund -Direct Plan-Growth,3322.9072,2026-03-27
-118305,INF760K01FU6,,CANARA ROBECO LIQUID FUND - DIRECT PLAN - GROWTH OPTION,3299.3147,2026-03-27
-119125,INF740K01QL4,,DSP Liquidity Fund - Direct Plan - Growth,3936.1521,2026-03-27
-118577,INF090I01JV2,,Franklin India Liquid Fund - Super Institutional - Direct - Growth,4136.1148,2026-03-27
-120038,INF336L01CC8,,HSBC Liquid Fund -  Growth Direct,2741.6893,2026-03-27
-120197,INF109K01Q49,,ICICI Prudential Liquid Fund - Direct Plan - Growth,407.2677,2026-03-27
-120537,INF205K01MF9,,Invesco India Liquid Fund - Direct Plan - Growth,3776.4982,2026-03-27
-147157,INF00XX01283,,ITI Liquid Fund - Direct Plan - Growth Option,1430.6752,2026-03-27
-153651,INF22M001010,,JioBlackRock Liquid Fund - Direct Plan - Growth Option,1043.3013,2026-03-27
-118859,INF769K01CM1,,Mirae Asset Liquid Fund - Direct Plan - Growth,2906.7734,2026-03-27
-119164,INF959L01GF1,,Navi Liquid Fund-Direct Plan-Growth Option,29.8147,2026-03-27
-138299,INF223J01NS5,,PGIM India Liquid Fund - Direct Plan - Growth,359.0158,2026-03-27
-120837,INF966L01820,,quant Liquid Fund - Growth Option - Direct Plan,44.2197,2026-03-27
-119800,INF200K01UT4,,SBI Liquid Fund - DIRECT PLAN -Growth,4301.2379,2026-03-27
-149664,INF173K01GU0,,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Direct Plan - Growth Option,2431.3298,2026-03-27
-153887,,INF2F0001073,THE WEALTH COMPANY LIQUID FUND DIRECT DAILY ICDW,1002.0,2026-03-27
-153883,INF2F0001081,,THE WEALTH COMPANY LIQUID FUND DIRECT GROWTH,1027.4692,2026-03-27
-153889,INF2F0001123,INF2F0001115,THE WEALTH COMPANY LIQUID FUND DIRECT WEEKLY,1002.7297,2026-03-27
-153570,INF1MIY01056,,Unifi Liquid Fund- Direct Growth,1046.7357,2026-03-27
-145971,INF03VN01043,,WhiteOak Capital Liquid Fund- Direct plan-Growth Option,1473.5955,2026-03-27
 150484,INF209KB17J2,,Aditya Birla Sun Life Long Duration Fund-Direct Growth,12.8869,2026-03-27
 151179,INF846K014L3,,Axis Long Duration Fund - Direct Plan - Growth,1210.7209,2026-03-27
 152520,INF194KB1HY2,,Bandhan Long Duration Fund - Direct Plan - Growth,10.959,2026-03-27
@@ -257,28 +233,6 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 150513,INF0GCD01503,,TRUSTMF MONEY MARKET FUND-DIRECT PLAN-GROWTH,1279.7427,2026-03-27
 149117,INF582M01HG5,,Union Money Market Fund - Direct Plan -  Growth Option,1323.5957,2026-03-27
 120299,INF789F01XV6,,UTI MMF - Direct Plan - Growth Option,3262.2516,2026-03-27
-153703,INF579M01BG4,,360 ONE Overnight Fund - Direct Plan - Growth,1038.6516,2026-03-27
-145486,INF209KB1ZH2,,ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH,1455.7462,2026-03-27
-146675,INF846K01N65,,Axis Overnight Fund - Direct Plan - Growth Option,1424.7373,2026-03-27
-153438,INF0QA701AF0,,Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years Redemption Plan,1055.7933,2026-03-27
-151849,INF0QA701177,,Bajaj Finserv Overnight Fund - Direct Plan - Growth,1180.9867,2026-03-27
-146191,INF194KB1447,,BANDHAN Overnight Fund - Direct Plan - Growth,1435.5025,2026-03-27
-147531,INF760K01JM5,,CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - GROWTH OPTION,1389.4676,2026-03-27
-146062,INF740KA1MC8,,DSP Overnight Fund - Direct Plan - Growth,1441.8079,2026-03-27
-147214,INF090I01SS9,,Franklin India Overnight Fund- Growth - Direct,1403.91,2026-03-27
-147287,INF336L01OF6,,HSBC Overnight Fund - Direct Growth,1408.5217,2026-03-27
-145536,INF109KC11G1,,ICICI Prudential Overnight Fund - Direct Plan - Growth,1450.392,2026-03-27
-149409,INF109KC17H6,,ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Stable Scheme,1000.0,2026-03-27
-149410,INF109KC15H0,,ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Transitory Scheme,1279.7205,2026-03-27
-147883,INF205KA1163,,Invesco India Overnight Fund - Direct Plan - Growth,1359.885,2026-03-27
-147713,INF00XX01564,,ITI Overnight Fund - Direct Plan - Growth Option,1362.5197,2026-03-27
-153650,INF22M001036,,JioBlackRock Overnight Fund - Direct Plan - Growth Option,1039.2845,2026-03-27
-147736,INF769K01FG6,,Mirae Asset Overnight Fund Direct Plan Growth,1380.4383,2026-03-27
-147606,INF663L01T01,,PGIM India Overnight Fund - Direct Plan - Growth Option,1387.9856,2026-03-27
-151190,INF966L01AZ7,,quant Overnight Fund - Growth Option - Direct Plan,12.3042,2026-03-27
-150631,INF0K1H01040,,Samco Overnight Fund - Direct Plan - Growth Option,1229.5575,2026-03-27
-119833,INF200K01TK5,,SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH,4376.6507,2026-03-27
-146963,INF903JA1HG5,,Sundaram Overnight Fund Direct Plan - Growth,1429.6184,2026-03-27
 119498,INF209K01XK8,,Aditya Birla Sun Life Short Term Fund - Growth - Direct Plan,53.4654,2026-03-27
 120510,INF846K01EI1,,Axis Short Duration Fund - Direct Plan - Growth Option,35.0785,2026-03-27
 118407,INF194K01U07,,Bandhan Short Duration Fund - Direct Plan - Growth,63.513,2026-03-27
@@ -1132,6 +1086,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 150865,INF251K01RF2,,Baroda BNP Paribas Multi Asset Fund - Direct Plan - Growth Option,15.7201,2026-03-27
 153465,INF760K01LH1,,Canara Robeco Multi Asset Allocation Fund - Direct Plan - Growth,10.42,2026-03-27
 154232,INF226401059,,Capitalmind Multi Asset Allocation Fund-Direct-Growth,9.9895,2026-03-27
+152056,INF740KA1TE9,,DSP Multi Asset Allocation Fund - Direct - Growth,15.725,2026-03-27
 151792,INF754K01RS8,,Edelweiss Multi Asset Allocation Fund - Direct Plan - Growth,12.2638,2026-03-27
 153731,INF090I01YH0,,Franklin India Multi Asset Allocation Fund- Direct-Growth,10.3887,2026-03-27
 153821,INF666M01MA9,,Groww Multi Asset Allocation Fund Direct Growth,9.6914,2026-03-27
@@ -1814,42 +1769,6 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 150932,INF204KC1931,,Nippon India Fixed Maturity Plan - XLIV - Series 4-Direct Plan-Growth Option,12.5422,2026-03-27
 151674,INF204KC1BF1,,Nippon India Fixed Maturity Plan-XLV-Series 4-Direct Plan-Growth Option,12.3316,2026-03-27
 151708,INF204KC1BJ3,,Nippon India Fixed Maturity Plan-XLV-Series 5-Direct Plan-Growth Option,12.8451,2026-03-27
-146974,INF200KA1D03,,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Growth,17.2742,2026-03-27
-148387,INF200KA1Q73,,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Growth,14.4804,2026-03-27
-149043,INF200KA1X41,,SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Direct Plan - Growth,13.3306,2026-03-27
-149147,INF200KA1Z23,,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Direct Plan - Growth,13.2143,2026-03-27
-149174,INF200KA1Z64,,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth,13.0793,2026-03-27
-149195,INF200KA10A7,,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Growth,13.0692,2026-03-27
-149232,INF200KA14A9,,SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Direct Plan - Growth,13.0496,2026-03-27
-149279,INF200KA18A0,,SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Direct Plan - Growth,13.0666,2026-03-27
-149307,INF200KA12B1,,SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Growth,13.0515,2026-03-27
-149345,INF200KA16B2,,SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Direct Plan - Growth,13.022,2026-03-27
-149431,INF200KA14C5,,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Growth,12.9392,2026-03-27
-149460,INF200KA18C6,,SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Growth,13.054,2026-03-27
-149822,INF200KA19D2,,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Growth,12.8289,2026-03-27
-147248,INF200KA1F27,,SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Growth,16.8021,2026-03-27
-149878,INF200KA13E3,,SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Growth,12.9608,2026-03-27
-149993,INF200KA13F0,,SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Growth option,12.9852,2026-03-27
-149995,INF200KA14F8,,SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Income Distribution Cum Capital withdrawal option,12.9854,2026-03-27
-150379,INF200KA11M0,,SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Direct Plan - Growth,12.9039,2026-03-27
-150460,INF200KA15M1,,SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Direct Plan - Growth,12.9078,2026-03-27
-150649,INF200KA15O7,,SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Direct Plan - Growth,12.7298,2026-03-27
-151559,INF200KA19W2,,SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Direct Plan - Growth,12.402,2026-03-27
-151558,INF200KA10X9,,SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Payout,12.4023,2026-03-27
-148846,INF200KA1V19,,SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Direct Plan - Growth,13.5204,2026-03-27
-148967,INF200KA1W59,,SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Direct Plan - Growth,13.3582,2026-03-27
-148999,INF200KA1W91,,SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Direct Plan - Growth,13.348,2026-03-27
-150919,INF200KA17S4,,SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Direct Plan- Growth,12.5973,2026-03-27
-150916,INF200KA18S2,,SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout,12.5973,2026-03-27
-150984,INF200KA11T5,,SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Direct Plan - Growth,12.5641,2026-03-27
-151252,INF200KA11U3,,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Direct Plan- Growth,12.5514,2026-03-27
-151253,INF200KA12U1,,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Direct Plan- Income Distribution Cum Capital Withdrawal Payout,12.5513,2026-03-27
-151351,INF200KA19U6,,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Direct Plan - Growth,12.4578,2026-03-27
-151350,INF200KA10V3,,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Direct Plan - Income Distribution Cum Capital Withdrawal Payout,12.4579,2026-03-27
-151451,INF200KA19V4,,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Direct Plan- Growth,12.4479,2026-03-27
-151452,INF200KA10W1,,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout,12.4481,2026-03-27
-151639,INF200KA17X4,,SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Direct Plan- Growth,12.3604,2026-03-27
-151640,INF200KA18X2,,SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout,12.3605,2026-03-27
 151620,INF0GCD01651,,TRUSTMF FIXED MATURITY PLAN -SERIES II (1196 DAYS)-DIRECT PLAN -GROWTH,1273.6781,2026-03-27
 151622,INF582M01IW0,,Union Fixed Maturity Plan - Series 13 - Direct Plan - Growth Option,12.2796,2026-03-27
 123646,INF789F01VW8,,UTI Annual Interval Fund - I - Direct Plan - Growth Option,36.1288,2026-03-27
