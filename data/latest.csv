@@ -703,6 +703,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 133800,INF178L01AK1,INF178L01AJ3,Kotak Infrastructure & Economic Reform Fund- Direct Plan- Payout of Income Distribution cum capital withdrawal option,70.216,2026-03-27
 149841,INF174KA1IF4,,Kotak Manufacture in India Fund - Direct Plan Growth,19.755,2026-03-27
 152910,INF174KA1TG9,,Kotak MNC Fund-Direct Plan-Growth,10.424,2026-03-27
+147727,INF174KA1EZ1,,Kotak Pioneer Fund- Direct Plan- Growth Option,31.931,2026-03-27
+147725,INF174KA1EX6,INF174KA1EY4,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,31.926,2026-03-27
 151881,INF174KA1OL0,,Kotak Quant Fund - Direct Plan - Growth Option,13.992,2026-03-27
 153970,INF174KA1XW8,,Kotak Rural Opportunities Fund - Direct Plan - Growth,9.33,2026-03-27
 154149,INF174KA1YV8,,Kotak Services Fund - Direct - Growth,9.803,2026-03-27
@@ -1280,6 +1282,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148063,INF754K01LB7,,Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth,31.0146,2026-03-27
 140274,INF843K01EC1,,Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option,42.004,2026-03-27
 118551,INF090I01JR0,,Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth,85.7534,2026-03-27
+149180,INF179KC1BO4,,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,18.546,2026-03-27
 120035,INF336L01BY4,,HSBC Brazil Fund - Growth Direct,11.5522,2026-03-27
 120043,INF336L01CJ3,,HSBC Global Emerging Market Fund - Growth Direct,31.7082,2026-03-27
 123654,INF109KA1CE0,,ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth,33.57,2026-03-27
@@ -1290,6 +1293,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 126353,INF205K01A24,,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - Growth Option,24.5675,2026-03-27
 119779,INF174K01LW4,,Kotak Global Emerging Market overseas Equity Omni FOF - Growth - Direct,35.887,2026-03-27
 119778,INF174K01LX2,INF174K01LY0,Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct,36.038,2026-03-27
+149059,INF174KA1HG4,,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,12.6735,2026-03-27
 148646,INF174KA1FO2,,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth,11.526,2026-03-27
 148649,INF174KA1FN4,INF174KA1FP9,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option,11.526,2026-03-27
 148662,INF174KA1FQ7,,Kotak US Specific Equity Passive FOF- Direct Plan - Growth,22.3829,2026-03-27
