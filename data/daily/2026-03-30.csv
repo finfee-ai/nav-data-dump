@@ -260,6 +260,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 119595,INF903J01NH5,,Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund Direct Plan - Growth),89.3169,2026-03-30
 119597,INF903J01NB8,,Sundaram Financial Services Opportunities Fund Direct Plan - Growth,106.3512,2026-03-30
 119598,INF200K01QX4,,SBI Large Cap FUND-DIRECT PLAN -GROWTH,93.2646,2026-03-30
+119602,INF903J01OB6,,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,41.4796,2026-03-30
 119605,INF209K01XP7,,Aditya Birla Sun Life Government Securities Fund - Growth - Direct Plan,84.5537,2026-03-30
 119609,INF200K01RY0,,SBI EQUITY HYBRID FUND - DIRECT PLAN - Growth,312.607,2026-03-30
 119620,INF209K01Q30,,Aditya Birla Sun Life Midcap Fund - Growth - Direct Plan,780.83,2026-03-30
@@ -1411,6 +1412,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 152041,INF194KB1GK3,,Bandhan Nifty IT Index Fund - Direct Plan - Growth,9.8425,2026-03-30
 152045,INF174V01BQ4,,Mahindra Manulife Business Cycle Fund - Direct Plan - Growth,14.5067,2026-03-30
 152051,INF680P01406,,Shriram Multi Asset Allocation Fund - Direct Growth,12.8477,2026-03-30
+152056,INF740KA1TE9,,DSP Multi Asset Allocation Fund - Direct - Growth,15.6595,2026-03-30
 152059,INF179KC1HI3,,HDFC Technology Fund - Growth Option - Direct Plan,10.898,2026-03-30
 152062,INF959L01HK9,,NAVI BSE SENSEX INDEX FUND - DIRECT PLAN - GROWTH,11.1605,2026-03-30
 152064,INF174KA1PD4,,Kotak Multi Asset Allocation Fund - Direct Plan - Growth Option,15.11,2026-03-30
@@ -1886,6 +1888,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154157,INF00XX01DM9,,ITI Business Cycle Fund- Direct Plan- Growth,9.6294,2026-03-30
 154161,INF03VN01AD3,,WhiteOak Capital Consumption Opportunities Fund Direct Plan Growth,8.671,2026-03-30
 154164,INF666M01NR1,,Groww Nifty PSE ETF FOF Direct Growth,9.2745,2026-03-30
+154167,INF740KA1YE9,,DSP Multi Asset Omni Fund of Funds - Direct - Growth,9.4108,2026-03-30
 154171,INF846KA1424,,Axis BSE India Sectors Leaders Index Fund- Direct Plan- Growth Option,8.6029,2026-03-30
 154177,INF200KB1AG6,,SBI Quality Fund - Direct Plan - Growth,9.0686,2026-03-30
 154178,INF200KB1AH4,INF200KB1AI2,SBI Quality Fund - Direct Plan - Income Distribution Cum Capital Withdrawal,9.0687,2026-03-30
