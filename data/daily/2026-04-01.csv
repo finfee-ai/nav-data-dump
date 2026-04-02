@@ -357,6 +357,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 131375,INF174K01D36,INF174K01D51,Kotak Equity Savings Fund - Direct - Monthly Payout of Income Distribution cum capital withdrawal option,20.7284,2026-04-01
 131580,INF579M01902,,360 ONE Focused Fund-Direct Plan-Growth,48.155,2026-04-01
 131670,INF084M01DJ5,,Aditya Birla Sun Life Balanced Advantage Fund - Direct Plan - Growth Option,118.29,2026-04-01
+132009,INF084M01EH7,,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option,40.9014,2026-04-01
+132140,INF084M01EB0,,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option,29.8988,2026-04-01
 132756,INF277K01I86,,Tata ELSS Fund-Growth-Direct Plan,47.681,2026-04-01
 132995,INF209KA1TP9,,Aditya Birla Sun Life Equity Savings Fund - Direct Plan - Growth,24.93,2026-04-01
 133035,INF174K01F00,,Kotak Aggressive Hybrid Fund - Direct Plan -Growth,69.251,2026-04-01
@@ -621,6 +623,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148567,INF174V01AG7,,Mahindra Manulife Focused Fund - Direct Plan -Growth,27.577,2026-04-01
 148574,INF769K01GQ3,,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund Direct Growth,16.99,2026-04-01
 148592,INF582M01GY0,,Union Aggressive Hybrid Fund - Direct Plan - Growth Option,17.91,2026-04-01
+148595,INF740KA1PP3,,DSP Value Fund - Direct Plan - Growth,22.642,2026-04-01
 148600,INF109KC1O66,,ICICI Prudential Quant Fund Direct Plan Growth,21.69,2026-04-01
 148605,INF174KA1FH6,INF174KA1FJ2,Kotak ESG Exclusionary Strategy Fund - Direct Plan - Payout of Income Distribution cum capital withdrawal option,16.925,2026-04-01
 148606,INF174KA1FI4,,Kotak ESG Exclusionary Strategy Fund - Direct Plan - Growth Option,16.924,2026-04-01
