@@ -177,6 +177,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 119595,INF903J01NH5,,Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund Direct Plan - Growth),91.2185,2026-04-01
 119597,INF903J01NB8,,Sundaram Financial Services Opportunities Fund Direct Plan - Growth,109.1565,2026-04-01
 119598,INF200K01QX4,,SBI Large Cap FUND-DIRECT PLAN -GROWTH,94.8935,2026-04-01
+119602,INF903J01OB6,,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,42.8167,2026-04-01
 119609,INF200K01RY0,,SBI EQUITY HYBRID FUND - DIRECT PLAN - Growth,317.7229,2026-04-01
 119620,INF209K01Q30,,Aditya Birla Sun Life Midcap Fund - Growth - Direct Plan,796.33,2026-04-01
 119646,INF209K01VT3,,Aditya Birla Sun Life MNC Fund - Growth - Direct Plan,1308.34,2026-04-01
@@ -573,6 +574,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147666,INF846K01S29,,Axis Nifty 100 Index Fund - Direct Plan - Growth Option,20.7526,2026-04-01
 147704,INF247L01999,,Motilal Oswal Large and Midcap Fund - Direct Plan Growth,33.4457,2026-04-01
 147713,INF00XX01564,,ITI Overnight Fund - Direct Plan - Growth Option,1363.5792,2026-04-01
+147725,INF174KA1EX6,INF174KA1EY4,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,32.17,2026-04-01
+147727,INF174KA1EZ1,,Kotak Pioneer Fund- Direct Plan- Growth Option,32.175,2026-04-01
 147736,INF769K01FG6,,Mirae Asset Overnight Fund Direct Plan Growth,1381.5713,2026-04-01
 147750,INF582M01GA0,,Union Large & Midcap Fund - Direct Plan - Growth Option,25.29,2026-04-01
 147757,INF277K017X9,,Tata Focused Fund-Direct Plan-Growth,23.1971,2026-04-01
@@ -667,6 +670,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148993,INF846K01Z87,,Axis Quant Fund - Direct Plan - Growth,15.32,2026-04-01
 149019,INF663L01W06,,PGIM India Small Cap Fund - Direct Plan- Growth Option,15.64,2026-04-01
 149039,INF959L01FP2,,Navi Nifty 50 Index Fund-Direct Plan-Growth,14.8707,2026-04-01
+149059,INF174KA1HG4,,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,13.1906,2026-04-01
 149071,INF277KA1166,,Tata Business Cycle Fund-Direct Plan-Growth,18.023,2026-04-01
 149085,INF760K01JW4,,Canara Robeco Value Fund - Direct Plan - Growth Option,17.62,2026-04-01
 149091,INF789F1AVA3,,UTI Focused Fund - Direct Plan - Growth Option,14.8294,2026-04-01
