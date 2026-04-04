@@ -2,6 +2,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 103734,INF082J01127,,Quantum Liquid Fund - Direct Plan Growth Option,36.7768,2026-04-05
 118305,INF760K01FU6,,CANARA ROBECO LIQUID FUND - DIRECT PLAN - GROWTH OPTION,3309.6622,2026-04-05
 118701,INF204K01ZH0,,Nippon India Liquid Fund - Direct Plan Growth Plan - Growth Option,6758.7857,2026-04-05
+119303,INF582M01674,,Union Liquid Fund - Direct Plan - Growth Option,2663.0973,2026-04-05
 119369,INF761K01785,,BANK OF INDIA Liquid Fund- Direct Plan- Growth,3179.678,2026-04-05
 119415,INF955L01AL0,,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - GROWTH OPTION,3182.3728,2026-04-05
 119861,INF277K01YE6,,Tata Liquid Fund- Direct Plan-Growth Option,4358.0672,2026-04-05
@@ -20,6 +21,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 146963,INF903JA1HG5,,Sundaram Overnight Fund Direct Plan - Growth,1431.5737,2026-04-05
 146978,,INF277K019T3,TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1000.0,2026-04-05
 146980,INF277K018T5,,Tata Overnight Fund-Direct Plan-Growth,1422.8684,2026-04-05
+147003,INF582M01FA2,,Union Overnight Fund - Direct Plan - Growth Option,1418.7999,2026-04-05
 147157,INF00XX01283,,ITI Liquid Fund - Direct Plan - Growth Option,1435.0747,2026-04-05
 147196,INF955L01HV4,,Baroda BNP Paribas Overnight Fund - Direct Plan - Growth,1415.7704,2026-04-05
 147287,INF336L01OF6,,HSBC Overnight Fund - Direct Growth,1410.5444,2026-04-05
@@ -52,3 +54,4 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 153887,,INF2F0001073,THE WEALTH COMPANY LIQUID FUND DIRECT DAILY ICDW,1002.0,2026-04-05
 153889,INF2F0001123,INF2F0001115,THE WEALTH COMPANY LIQUID FUND DIRECT WEEKLY,1004.4109,2026-04-05
 154011,INF226401034,,Capitalmind Liquid Fund - Direct-Growth,1023.913,2026-04-05
+154051,INF2JJD01029,,Abakkus Liquid Fund - Direct Plan - Growth,101.7406,2026-04-05
