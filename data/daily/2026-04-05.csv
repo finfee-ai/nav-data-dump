@@ -7,6 +7,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 118859,INF769K01CM1,,Mirae Asset Liquid Fund - Direct Plan - Growth,2915.8043,2026-04-05
 119091,INF179KB1HP9,,HDFC Liquid Fund - Growth Option - Direct Plan,5422.3237,2026-04-05
 119110,INF179KB1HT1,,HDFC Overnight Fund - Growth Option - Direct Plan,3995.8168,2026-04-05
+119125,INF740K01QL4,,DSP Liquidity Fund - Direct Plan - Growth,3948.9743,2026-04-05
 119135,INF666M01451,,Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option,2676.8637,2026-04-05
 119136,,INF666M01469,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),1002.0907,2026-04-05
 119137,INF666M01527,INF666M01477,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1004.1864,2026-04-05
@@ -18,7 +19,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 119415,INF955L01AL0,,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - GROWTH OPTION,3182.3728,2026-04-05
 119568,INF209K01VA3,,Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan,446.0293,2026-04-05
 119764,,INF174K01NH1,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1222.81,2026-04-05
-119766,INF174K01NE8,,Kotak Liquid Fund - Direct Plan - Growth,5577.6662,2026-04-05
+119766,INF174K01NE8,,Kotak Liquid Fund - Direct Plan - Growth,5577.6749,2026-04-05
 119800,INF200K01UT4,,SBI Liquid Fund - DIRECT PLAN -Growth,4315.8298,2026-04-05
 119833,INF200K01TK5,,SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH,4382.7509,2026-04-05
 119861,INF277K01YE6,,Tata Liquid Fund- Direct Plan-Growth Option,4358.0672,2026-04-05
@@ -42,6 +43,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 145810,INF204KB1R31,,Nippon India Overnight Fund - Direct Plan - Growth Option,144.7975,2026-04-05
 145834,INF247L01734,,Motilal Oswal Liquid Fund - Direct Growth,14.5605,2026-04-05
 145971,INF03VN01043,,WhiteOak Capital Liquid Fund- Direct plan-Growth Option,1478.2691,2026-04-05
+146062,INF740KA1MC8,,DSP Overnight Fund - Direct Plan - Growth,1443.8528,2026-04-05
 146140,,INF174KA1BE2,Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option,1003.6055,2026-04-05
 146141,INF174KA1BF9,,Kotak Overnight Fund -Direct Plan-Growth Option,1438.1076,2026-04-05
 146191,INF194KB1447,,BANDHAN Overnight Fund - Direct Plan - Growth,1437.5182,2026-04-05
