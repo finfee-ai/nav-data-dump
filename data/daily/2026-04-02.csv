@@ -260,6 +260,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 119595,INF903J01NH5,,Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund Direct Plan - Growth),91.3293,2026-04-02
 119597,INF903J01NB8,,Sundaram Financial Services Opportunities Fund Direct Plan - Growth,109.5831,2026-04-02
 119598,INF200K01QX4,,SBI Large Cap FUND-DIRECT PLAN -GROWTH,94.8629,2026-04-02
+119602,INF903J01OB6,,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,42.1074,2026-04-02
 119605,INF209K01XP7,,Aditya Birla Sun Life Government Securities Fund - Growth - Direct Plan,83.941,2026-04-02
 119609,INF200K01RY0,,SBI EQUITY HYBRID FUND - DIRECT PLAN - Growth,317.9016,2026-04-02
 119620,INF209K01Q30,,Aditya Birla Sun Life Midcap Fund - Growth - Direct Plan,793.39,2026-04-02
@@ -858,6 +859,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147666,INF846K01S29,,Axis Nifty 100 Index Fund - Direct Plan - Growth Option,20.7806,2026-04-02
 147704,INF247L01999,,Motilal Oswal Large and Midcap Fund - Direct Plan Growth,33.291,2026-04-02
 147713,INF00XX01564,,ITI Overnight Fund - Direct Plan - Growth Option,1363.7535,2026-04-02
+147725,INF174KA1EX6,INF174KA1EY4,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,32.033,2026-04-02
+147727,INF174KA1EZ1,,Kotak Pioneer Fund- Direct Plan- Growth Option,32.038,2026-04-02
 147731,INF174V01887,,Mahindra Manulife Ultra Short Duration Fund - Direct Plan -Growth,1475.2613,2026-04-02
 147736,INF769K01FG6,,Mirae Asset Overnight Fund Direct Plan Growth,1381.7579,2026-04-02
 147750,INF582M01GA0,,Union Large & Midcap Fund - Direct Plan - Growth Option,25.19,2026-04-02
@@ -987,6 +990,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149039,INF959L01FP2,,Navi Nifty 50 Index Fund-Direct Plan-Growth,14.8927,2026-04-02
 149043,INF200KA1X41,,SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Direct Plan - Growth,13.3431,2026-04-02
 149049,INF846K014A6,,Axis Floater Fund - Direct Plan - Growth,1356.6169,2026-04-02
+149059,INF174KA1HG4,,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,12.999,2026-04-02
 149062,INF209KB16A3,,Aditya Birla Sun Life Fixed Term Plan - Series TJ (1838 days) - Direct Plan - Growth Option,13.3905,2026-04-02
 149071,INF277KA1166,,Tata Business Cycle Fund-Direct Plan-Growth,17.9945,2026-04-02
 149076,INF0GCD01370,,TRUSTMF Short Duration Fund-Direct Plan-Growth,1320.2249,2026-04-02
