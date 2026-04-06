@@ -1198,7 +1198,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 150822,INF174KA1KJ2,,Kotak Income Plus Arbitrage Omni FOF-Direct Plan-Growth,12.841,2026-04-02
 119777,INF174K01LN3,,Kotak Multi Asset Omni FOF - Direct Growth - Direct,259.241,2026-04-02
 119776,INF174K01LO1,INF174K01LP8,Kotak Multi Asset Omni FOF - Direct Payout of Income Distribution cum capital withdrawal option,254.576,2026-04-02
-154275,INF74KA1ZG6,,Kotak Multi Factor Passive FOF - Direct- Growth,10.09,2026-04-02
+154275,INF174KA1ZG6,,Kotak Multi Factor Passive FOF - Direct- Growth,10.09,2026-04-02
 151603,INF174KA1MQ3,,Kotak Silver ETF Fund of Fund - Direct Plan - Growth Option,30.0959,2026-04-02
 151974,INF397L01BU4,,LIC MF Gold ETF Fund of Fund-Direct Plan-Growth,39.5324,2026-04-02
 154007,INF174V01CU4,,Mahindra Manulife Income Plus Arbitrage Active FOF  - Direct - Growth,10.1417,2026-04-02
@@ -1282,6 +1282,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148063,INF754K01LB7,,Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth,31.3492,2026-04-02
 140274,INF843K01EC1,,Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option,41.7686,2026-04-02
 118551,INF090I01JR0,,Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth,87.908,2026-04-02
+149180,INF179KC1BO4,,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,18.54,2026-04-02
 120035,INF336L01BY4,,HSBC Brazil Fund - Growth Direct,11.8537,2026-04-02
 120043,INF336L01CJ3,,HSBC Global Emerging Market Fund - Growth Direct,30.869,2026-04-02
 123654,INF109KA1CE0,,ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth,33.4,2026-04-02
@@ -1669,7 +1670,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 151364,INF789F1AXL6,,UTI NIFTY SDL Plus AAA PSU Bond Apr 2026 75:25 Index Fund - Direct Plan - Growth Option,12.4801,2026-04-02
 151487,INF789F1AXR3,,UTI NIFTY SDL Plus AAA PSU Bond Apr 2028- 75:25 Index Fund - Direct Plan - Growth Option,12.5634,2026-04-02
 151762,INF789F1AYP5,,UTI Nifty50 Equal Weight Index Fund - Direct Plan - Growth Option,13.8415,2026-04-02
-154197,,,UTI Nifty500 Shariah Index Fund - Direct Plan Growth Option,9.2151,2026-04-02
+154197,INF789F1AD04,,UTI Nifty500 Shariah Index Fund - Direct Plan Growth Option,9.2151,2026-04-02
 152157,INF0R8F01026,,Zerodha ELSS Tax Saver Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option,12.7875,2026-04-02
 153906,INF0R8F01158,,Zerodha Nifty 50 Index Fund - Direct Plan - Growth,9.0245,2026-04-02
 152156,INF0R8F01018,,Zerodha Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option,12.7672,2026-04-02

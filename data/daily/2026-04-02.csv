@@ -1011,6 +1011,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149166,INF846K010C0,,Axis Value Fund - Direct Plan - Growth,18.53,2026-04-02
 149170,INF769K01HR9,,Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth,24.78,2026-04-02
 149174,INF200KA1Z64,,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth,13.0884,2026-04-02
+149180,INF179KC1BO4,,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,18.54,2026-04-02
 149185,INF174KA1HV3,,Kotak Multicap Fund-Direct Plan-Growth,19.08,2026-04-02
 149190,INF740KA1QH8,,DSP FMP Series - 264 - 60M - 17D - Direct - Growth,13.108,2026-04-02
 149195,INF200KA10A7,,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Growth,13.0781,2026-04-02
@@ -1890,7 +1891,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154185,INF2F0001479,,The Wealth Company Balanced Advantage Fund - Direct Growth,9.5153,2026-04-02
 154187,INF769K01QG3,,Mirae Asset BSE India Defence ETF FOF - Direct Plan - Growth,9.248,2026-04-02
 154195,INF251K01VP3,,Baroda BNP Paribas Best-in-Class Strategy Fund - Direct - Growth Option,9.9276,2026-04-02
-154197,,,UTI Nifty500 Shariah Index Fund - Direct Plan Growth Option,9.2151,2026-04-02
+154197,INF789F1AD04,,UTI Nifty500 Shariah Index Fund - Direct Plan Growth Option,9.2151,2026-04-02
 154200,INF666M01NX9,,Groww BSE Hospitals ETF FOF Direct Growth,9.2723,2026-04-02
 154204,INF0QA701CF6,,Bajaj Finserv Low Duration Fund - Direct - Growth,1004.3194,2026-04-02
 154206,INF1J2R01155,,ANGEL ONE SILVER ETF FOF -DIRECT GROWTH,7.8655,2026-04-02
@@ -1911,7 +1912,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154266,INF109K1A468,,ICICI Prudential Diversified Equity All Cap Active FOF - Direct Plan - Growth,9.9961,2026-04-02
 154269,INF2F0001537,,The Wealth Company Small Cap Fund- Direct-Growth,9.961,2026-04-02
 154271,INF204KC1GX3,,Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund- Direct Plan- Growth Option,10.045,2026-04-02
-154275,INF74KA1ZG6,,Kotak Multi Factor Passive FOF - Direct- Growth,10.09,2026-04-02
+154275,INF174KA1ZG6,,Kotak Multi Factor Passive FOF - Direct- Growth,10.09,2026-04-02
 154278,INF666M01OH0,,Groww Nifty PSU Bank Index Fund Direct Growth,9.709,2026-04-02
 154279,INF769K01QS8,,Mirae Asset Silver ETF FOF - Direct Plan - Growth,10.149,2026-04-02
 154287,INF174KA1ZI2,,Kotak Quality Overseas Equity Omni FOF - Direct Plan - Growth-,10.017,2026-04-02
