@@ -444,12 +444,14 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 120670,INF109K015A5,,ICICI Prudential Medium Term Bond Fund - Direct Plan - Growth,51.6484,2026-04-06
 120674,INF789F01SK9,,UTI Aggressive Hybrid Fund -Direct Plan - Growth,416.429,2026-04-06
 120676,INF109K01T04,,ICICI Prudential Ultra Short Term Fund - Direct Plan -  Growth,31.4284,2026-04-06
+120679,INF109K01X16,,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - Growth,130.4131,2026-04-06
 120682,INF789F01UD0,,UTI - MNC Fund - Growth Option - Direct,398.9212,2026-04-06
 120684,INF109K01Y80,,ICICI Prudential Nifty Next 50 Index Fund - Direct Plan -  Growth,58.3852,2026-04-06
 120685,INF109K01U92,,ICICI Prudential Gold ETF FOF - Direct Plan - Growth,47.535,2026-04-06
 120688,INF109K01W25,,ICICI Prudential Exports & Services Fund - Direct Plan - Growth,167.68,2026-04-06
 120689,INF789F01SQ6,,UTI Medium to Long Duration Fund-Growth - Direct,80.7074,2026-04-06
 120692,INF109K016B1,,ICICI Prudential Corporate Bond Fund - Direct Plan - Growth,32.4411,2026-04-06
+120700,INF109K01X40,,ICICI Prudential Aggressive Hybrid Active FOF - Direct Plan - Growth,224.5089,2026-04-06
 120702,INF109K01X73,,ICICI Prudential Diversified Debt Strategy Active FOF  - Direct Plan - Growth,48.1317,2026-04-06
 120705,INF209K01XH4,INF209K01XJ0,Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Direct Plan,75.8029,2026-04-06
 120711,INF109K01V00,,ICICI Prudential Credit Risk Fund - Direct Plan - Growth,37.1177,2026-04-06
@@ -499,10 +501,10 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 123646,INF789F01VW8,,UTI Annual Interval Fund - I - Direct Plan - Growth Option,36.1803,2026-04-06
 123692,INF174K01KK1,INF174K01KL9,Kotak Banking and PSU Debt Direct - Monthly Payout of Income Distribution cum capital withdrawal option,10.2021,2026-04-06
 123693,INF174K01KH7,,Kotak Banking and PSU Debt Direct - Growth,70.591,2026-04-06
-123704,INF666M01AC0,,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option,2478.1541,2026-04-06
-123705,INF666M01AG1,INF666M01AD8,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1017.173,2026-04-06
-123706,INF666M01AH9,INF666M01AE6,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1016.8442,2026-04-06
-123707,INF666M01AI7,INF666M01AF3,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1017.2393,2026-04-06
+123704,INF666M01AC0,,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option,2478.1541,2026-04-06
+123705,INF666M01AG1,INF666M01AD8,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1017.173,2026-04-06
+123706,INF666M01AH9,INF666M01AE6,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1016.8442,2026-04-06
+123707,INF666M01AI7,INF666M01AF3,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1017.2393,2026-04-06
 124175,INF740K01ZW2,,DSP Banking & PSU Debt Fund - Direct Plan - Growth,25.4973,2026-04-06
 124234,INF247L01247,,Motilal Oswal Ultra Short Term Fund (MOFUSTF) -Direct Plan- Growth,18.2215,2026-04-06
 125307,INF663L01DV3,,PGIM India Midcap Fund - Direct Plan - Growth Option,67.25,2026-04-06
@@ -730,11 +732,11 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 145486,INF209KB1ZH2,,ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH,1458.0162,2026-04-06
 145536,INF109KC11G1,,ICICI Prudential Overnight Fund - Direct Plan - Growth,1452.6944,2026-04-06
 145552,INF247L01718,,Motilal Oswal Nasdaq 100 Fund of Fund- Direct Plan Growth,51.1227,2026-04-06
-145589,INF666M01EK5,,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund) - Direct Plan - Growth option,1541.4637,2026-04-06
-145591,INF666M01EQ2,INF666M01ER0,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1009.0573,2026-04-06
-145595,INF666M01EO7,INF666M01EP4,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1017.7,2026-04-06
-145596,,INF666M01EL3,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),1015.2454,2026-04-06
-145597,INF666M01EM1,INF666M01EN9,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1013.8733,2026-04-06
+145589,INF666M01EK5,,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Direct Plan - Growth option,1541.4637,2026-04-06
+145591,INF666M01EQ2,INF666M01ER0,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1009.0573,2026-04-06
+145595,INF666M01EO7,INF666M01EP4,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1017.7,2026-04-06
+145596,,INF666M01EL3,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),1015.2454,2026-04-06
+145597,INF666M01EM1,INF666M01EN9,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1013.8733,2026-04-06
 145599,INF666M01FA3,,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund) - Direct Plan - Growth option,21.8583,2026-04-06
 145600,INF666M01FB1,INF666M01FC9,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),21.6711,2026-04-06
 145601,INF666M01FF2,INF666M01FG0,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),21.4141,2026-04-06
@@ -834,6 +836,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147622,INF247L01916,,Motilal Oswal Nifty Midcap 150 Index Fund - Direct Plan,36.383,2026-04-06
 147623,INF247L01932,,Motilal Oswal Nifty Smallcap 250 Index Fund- Direct Plan,33.2985,2026-04-06
 147625,INF247L01957,,Motilal Oswal Nifty 500 Index Fund - Direct Plan,24.6414,2026-04-06
+147648,INF109KC1F34,,ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option,20.6878,2026-04-06
 147662,INF109KC1F91,,ICICI Prudential Commodities Fund - Direct Plan - Growth Option,47.16,2026-04-06
 147666,INF846K01S29,,Axis Nifty 100 Index Fund - Direct Plan - Growth Option,21.024,2026-04-06
 147704,INF247L01999,,Motilal Oswal Large and Midcap Fund - Direct Plan Growth,33.8813,2026-04-06
@@ -862,6 +865,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147928,INF846K01W23,,Axis ESG Integration Strategy Fund - Direct Plan - Growth Option,20.9,2026-04-06
 147946,INF194KB1AL4,,BANDHAN SMALL CAP FUND - DIRECT PLAN GROWTH,47.015,2026-04-06
 147951,INF761K01EU7,,BANK OF INDIA Overnight Fund Direct Plan Growth,1369.1153,2026-04-06
+148035,INF109KC1I49,,ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - Growth,29.7123,2026-04-06
 148053,INF277K019Y3,,Tata Multi Asset Allocation Fund-Direct Plan-Growth,26.2205,2026-04-06
 148073,INF582M01GI3,,Union Midcap Fund - Direct Plan - Growth Option,48.54,2026-04-06
 148161,INF663L01T84,,PGIM India Money Market Fund - Direct Plan - Growth Option,1429.5815,2026-04-06
@@ -980,6 +984,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149166,INF846K010C0,,Axis Value Fund - Direct Plan - Growth,18.74,2026-04-06
 149170,INF769K01HR9,,Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth,24.933,2026-04-06
 149174,INF200KA1Z64,,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth,13.0987,2026-04-06
+149180,INF179KC1BO4,,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,18.458,2026-04-06
 149185,INF174KA1HV3,,Kotak Multicap Fund-Direct Plan-Growth,19.316,2026-04-06
 149190,INF740KA1QH8,,DSP FMP Series - 264 - 60M - 17D - Direct - Growth,13.1191,2026-04-06
 149195,INF200KA10A7,,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Growth,13.0884,2026-04-06
@@ -1841,6 +1846,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154157,INF00XX01DM9,,ITI Business Cycle Fund- Direct Plan- Growth,9.7552,2026-04-06
 154161,INF03VN01AD3,,WhiteOak Capital Consumption Opportunities Fund Direct Plan Growth,8.924,2026-04-06
 154164,INF666M01NR1,,Groww Nifty PSE ETF FOF Direct Growth,9.4535,2026-04-06
+154167,INF740KA1YE9,,DSP Multi Asset Omni Fund of Funds - Direct - Growth,9.6291,2026-04-06
 154171,INF846KA1424,,Axis BSE India Sectors Leaders Index Fund- Direct Plan- Growth Option,8.8906,2026-04-06
 154177,INF200KB1AG6,,SBI Quality Fund - Direct Plan - Growth,9.435,2026-04-06
 154178,INF200KB1AH4,INF200KB1AI2,SBI Quality Fund - Direct Plan - Income Distribution Cum Capital Withdrawal,9.4351,2026-04-06

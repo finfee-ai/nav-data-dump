@@ -357,7 +357,6 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name
 120046,INF336L01DH5,,HSBC Flexi Cap Fund - Direct Growth
 120059,INF336L01DE2,,HSBC Medium to Long Duration Fund - Direct Growth
 120073,INF336L01DW4,,HSBC Conservative Hybrid Fund - Direct Growth
-120079,INF336L01EE0,,HSBC Tax Saver Equity Fund - Growth Direct
 120084,INF663L01AD7,,PGIM India Dynamic Bond Fund - Direct Plan-Growth Option
 120137,INF200K01SK7,,SBI CONSTANT MATURITY 10 YEAR GILT FUND - DIRECT PLAN - GROWTH
 120152,INF174K01KW6,,Kotak Large Cap  Fund - Growth - Direct
@@ -644,10 +643,10 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name
 123654,INF109KA1CE0,,ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth
 123692,INF174K01KK1,INF174K01KL9,Kotak Banking and PSU Debt Direct - Monthly Payout of Income Distribution cum capital withdrawal option
 123693,INF174K01KH7,,Kotak Banking and PSU Debt Direct - Growth
-123704,INF666M01AC0,,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option
-123705,INF666M01AG1,INF666M01AD8,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
-123706,INF666M01AH9,INF666M01AE6,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
-123707,INF666M01AI7,INF666M01AF3,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
+123704,INF666M01AC0,,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option
+123705,INF666M01AG1,INF666M01AD8,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
+123706,INF666M01AH9,INF666M01AE6,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
+123707,INF666M01AI7,INF666M01AF3,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
 123742,INF204KA1UL1,,Reliance Fixed Horizon Fund - XXIV - Series 15-Direct Plan -Growth Option
 123792,INF174K01QF8,,Kotak FMP Series 113 (1094 Days) - Direct Growth
 123944,INF109KA1Q43,,ICICI Prudential Fixed Maturity Plan-Series 69-372 Days Plan K - Direct Plan - Cumulative
@@ -1887,11 +1886,11 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name
 145553,INF789F1AEF8,,UTI - Fixed Term Income Fund Series XXX-XII (1254 Days) - Direct Plan - Growth Option
 145586,INF174KA1AB0,,Kotak Fmp series 251-1265 days-Direct Plan-Payout of Income Distribution cum capital withdrawal option
 145588,INF174KA1AA2,,Kotak FMP Series 251-1265 days-Direct Paln-Gwoth option
-145589,INF666M01EK5,,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund) - Direct Plan - Growth option
-145591,INF666M01EQ2,INF666M01ER0,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
-145595,INF666M01EO7,INF666M01EP4,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
-145596,,INF666M01EL3,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment)
-145597,INF666M01EM1,INF666M01EN9,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
+145589,INF666M01EK5,,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Direct Plan - Growth option
+145591,INF666M01EQ2,INF666M01ER0,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
+145595,INF666M01EO7,INF666M01EP4,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
+145596,,INF666M01EL3,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment)
+145597,INF666M01EM1,INF666M01EN9,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
 145599,INF666M01FA3,,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund) - Direct Plan - Growth option
 145600,INF666M01FB1,INF666M01FC9,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
 145601,INF666M01FF2,INF666M01FG0,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)
@@ -2208,7 +2207,6 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name
 148726,INF204KB18Z7,,Nippon India Nifty Midcap 150 Index Fund - Direct Plan - Growth Option
 148729,INF174V01AM5,,Mahindra Manulife Short Duration Fund - Direct Plan -Growth
 148733,INF00XX01929,,ITI Mid Cap Fund - Direct Plan - Growth Option
-148737,INF336L01PV0,,HSBC Global Equity Climate Change Fund of Fund - Direct - Growth
 148745,INF174KA1GA9,,Kotak Nifty Next 50 Index Fund - Direct Plan - Growth Option
 148746,INF174KA1FZ8,INF174KA1GB7,Kotak Nifty Next 50 Index Fund - Direct Plan -Payout of Income Distribution cum capital withdrawal option
 148747,INF247L01AL2,,Motilal Oswal Asset Allocation FOF- A- Direct Growth
