@@ -1226,6 +1226,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 150688,INF209KB15M0,,Aditya Birla Sun Life Multi-Asset Passive FOF-Direct Growth,16.2259,2026-04-07
 149780,INF209KB16F2,,Aditya Birla Sun Life Silver ETF FOF-Direct Growth,35.7534,2026-04-07
 153827,INF1J2R01098,,ANGEL ONE GOLD ETF FOF- DIRECT GROWTH,13.4306,2026-04-07
+154206,INF1J2R01155,,ANGEL ONE SILVER ETF FOF -DIRECT GROWTH,8.0099,2026-04-07
 154078,INF846KA1408,,Axis Gold and Silver Passive FOF - Direct Plan - Growth,10.8114,2026-04-07
 120473,INF846K01DS2,,Axis Gold Fund - Direct Plan - Growth option,46.3992,2026-04-07
 147889,INF846K01U09,,Axis Income Plus Arbitrage Active FOF - Direct Plan - Growth Option,15.258,2026-04-07
@@ -1408,6 +1409,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 138528,INF223J01NF2,,PGIM India Global Equity Opportunities Fund of Fund- Direct Plan - Growth,49.33,2026-04-07
 149298,INF663L01W63,,PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option,12.84,2026-04-07
 148760,INF200KA1U28,,SBI US Specific Equity Active FoF - Direct Plan - Growth,22.4071,2026-04-07
+119602,INF903J01OB6,,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,42.068,2026-04-07
 153736,INF209KC1589,,Aditya Birla Sun Life BSE 500 Momentum 50 Index Fund-Direct Growth,9.4932,2026-04-07
 153740,INF209KC1613,,Aditya Birla Sun Life BSE 500 Quality 50 Index Fund - Direct Growth,9.9088,2026-04-07
 153081,INF209KC1332,,Aditya Birla Sun Life BSE India Infrastructure Index Fund-Direct Growth,8.8577,2026-04-07
@@ -1776,7 +1778,6 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 153906,INF0R8F01158,,Zerodha Nifty 50 Index Fund - Direct Plan - Growth,9.1872,2026-04-07
 152156,INF0R8F01018,,Zerodha Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option,12.9829,2026-04-07
 154109,INF0R8F01182,,Zerodha Nifty Short Duration G-Sec Index Fund - Direct Plan - Growth Option,1001.9869,2026-04-07
-154206,INF1J2R01155,,ANGEL ONE SILVER ETF FOF -DIRECT GROWTH,8.0099,2026-04-07
 146407,INF209KB1E84,,ADITYA BIRLA SUN LIFE BAL BHAVISHYA YOJNA DIRECT GROWTH,20.71,2026-04-07
 135762,INF846K01WO1,,Axis Children's Fund - Lock in - Direct Growth,28.0641,2026-04-07
 135764,INF846K01WR4,,Axis Children's Fund - No Lock in - Direct Growth,28.6008,2026-04-07
