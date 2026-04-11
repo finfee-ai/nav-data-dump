@@ -1,7 +1,9 @@
 scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 103490,INF082J01036,,Quantum Value Fund - Direct Plan Growth Option,123.13,2026-04-10
 111549,INF082J01069,,Quantum ELSS Tax Saver Fund - Direct Plan Growth Option,122.96,2026-04-10
+112039,INF082J01093,,Quantum Diversified Equity All Cap Active FOF - Direct Plan Growth Option,82.507,2026-04-10
 115132,INF082J01150,,Quantum Gold Savings Fund - Direct Plan Growth Option,57.1641,2026-04-10
+117608,INF082J01168,,Quantum Multi Asset Active FOF - Direct Plan Growth Option,36.7705,2026-04-10
 118267,INF760K01FO9,,CANARA ROBECO INFRASTRUCTURE FUND - DIRECT PLAN - GROWTH OPTION,186.15,2026-04-10
 118269,INF760K01FR2,,CANARA ROBECO LARGE CAP FUND - DIRECT PLAN - GROWTH OPTION,70.01,2026-04-10
 118272,INF760K01EZ8,,CANARA ROBECO EQUITY HYBRID FUND - DIRECT PLAN - GROWTH OPTION,404.77,2026-04-10
@@ -447,12 +449,14 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 120670,INF109K015A5,,ICICI Prudential Medium Term Bond Fund - Direct Plan - Growth,52.0912,2026-04-10
 120674,INF789F01SK9,,UTI Aggressive Hybrid Fund -Direct Plan - Growth,431.5171,2026-04-10
 120676,INF109K01T04,,ICICI Prudential Ultra Short Term Fund - Direct Plan -  Growth,31.5029,2026-04-10
+120679,INF109K01X16,,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - Growth,134.4591,2026-04-10
 120682,INF789F01UD0,,UTI - MNC Fund - Growth Option - Direct,415.3694,2026-04-10
 120684,INF109K01Y80,,ICICI Prudential Nifty Next 50 Index Fund - Direct Plan -  Growth,62.8207,2026-04-10
 120685,INF109K01U92,,ICICI Prudential Gold ETF FOF - Direct Plan - Growth,47.7816,2026-04-10
 120688,INF109K01W25,,ICICI Prudential Exports & Services Fund - Direct Plan - Growth,175.69,2026-04-10
 120689,INF789F01SQ6,,UTI Medium to Long Duration Fund-Growth - Direct,81.3224,2026-04-10
 120692,INF109K016B1,,ICICI Prudential Corporate Bond Fund - Direct Plan - Growth,32.6581,2026-04-10
+120700,INF109K01X40,,ICICI Prudential Aggressive Hybrid Active FOF - Direct Plan - Growth,232.0386,2026-04-10
 120702,INF109K01X73,,ICICI Prudential Diversified Debt Strategy Active FOF  - Direct Plan - Growth,48.561,2026-04-10
 120705,INF209K01XH4,INF209K01XJ0,Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Direct Plan,77.0207,2026-04-10
 120711,INF109K01V00,,ICICI Prudential Credit Risk Fund - Direct Plan - Growth,37.3965,2026-04-10
@@ -845,6 +849,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147622,INF247L01916,,Motilal Oswal Nifty Midcap 150 Index Fund - Direct Plan,38.5721,2026-04-10
 147623,INF247L01932,,Motilal Oswal Nifty Smallcap 250 Index Fund- Direct Plan,35.2457,2026-04-10
 147625,INF247L01957,,Motilal Oswal Nifty 500 Index Fund - Direct Plan,25.9806,2026-04-10
+147648,INF109KC1F34,,ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option,21.4892,2026-04-10
 147662,INF109KC1F91,,ICICI Prudential Commodities Fund - Direct Plan - Growth Option,50.14,2026-04-10
 147666,INF846K01S29,,Axis Nifty 100 Index Fund - Direct Plan - Growth Option,22.1207,2026-04-10
 147704,INF247L01999,,Motilal Oswal Large and Midcap Fund - Direct Plan Growth,36.5322,2026-04-10
@@ -872,6 +877,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147919,INF00XX01747,,ITI Small Cap Fund - Direct Plan - Growth Option,30.5988,2026-04-10
 147928,INF846K01W23,,Axis ESG Integration Strategy Fund - Direct Plan - Growth Option,21.87,2026-04-10
 147946,INF194KB1AL4,,BANDHAN SMALL CAP FUND - DIRECT PLAN GROWTH,49.488,2026-04-10
+148035,INF109KC1I49,,ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - Growth,31.2343,2026-04-10
 148053,INF277K019Y3,,Tata Multi Asset Allocation Fund-Direct Plan-Growth,27.1901,2026-04-10
 148063,INF754K01LB7,,Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth,32.787,2026-04-10
 148073,INF582M01GI3,,Union Midcap Fund - Direct Plan - Growth Option,51.67,2026-04-10
@@ -1127,6 +1133,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 150369,INF0J8L01081,,NJ Overnight Fund - Direct Plan - Growth Option,1248.2194,2026-04-10
 150376,INF754K01OP1,,Edelweiss Focused Fund - Direct Plan - Growth,17.076,2026-04-10
 150387,INF251K01QZ2,,Baroda BNP Paribas Flexi Cap Fund - Direct Plan - Growth Option,15.6857,2026-04-10
+150390,INF082J01416,,Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth,14.2419,2026-04-10
 150392,INF767K01RE0,,LIC MF Money Market Fund-Direct Plan-Growth,1265.1527,2026-04-10
 150404,INF194KB1DJ2,,BANDHAN MIDCAP FUND - GROWTH - DIRECT PLAN,17.907,2026-04-10
 150407,INF582M01HW2,,Union Gilt Fund - Direct Plan - Growth Option,12.1844,2026-04-10
@@ -1816,6 +1823,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 153948,INF767K01SD0,,LIC MF Consumption Fund-Direct Plan-Growth,9.306,2026-04-10
 153956,INF1J2R01122,,ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND - DIRECT GROWTH,9.817,2026-04-10
 153959,INF179KC1JY6,,HDFC BSE India Sector Leaders India Fund - Direct Plan - Growth Option,9.201,2026-04-10
+153960,INF846KA1366,,Axis Multi-Asset Active FoF - Direct Plan - Growth,10.1841,2026-04-10
 153970,INF174KA1XW8,,Kotak Rural Opportunities Fund - Direct Plan - Growth,9.928,2026-04-10
 153972,INF194KB1KF5,,Bandhan Healthcare Fund - Direct Plan - Growth,9.438,2026-04-10
 153979,INF0S5R01125,,Old Bridge Arbitrage Fund Direct Growth,10.2697,2026-04-10
@@ -1860,6 +1868,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154157,INF00XX01DM9,,ITI Business Cycle Fund- Direct Plan- Growth,10.0676,2026-04-10
 154161,INF03VN01AD3,,WhiteOak Capital Consumption Opportunities Fund Direct Plan Growth,9.355,2026-04-10
 154164,INF666M01NR1,,Groww Nifty PSE ETF FOF Direct Growth,9.8818,2026-04-10
+154167,INF740KA1YE9,,DSP Multi Asset Omni Fund of Funds - Direct - Growth,9.8638,2026-04-10
 154171,INF846KA1424,,Axis BSE India Sectors Leaders Index Fund- Direct Plan- Growth Option,9.3053,2026-04-10
 154177,INF200KB1AG6,,SBI Quality Fund - Direct Plan - Growth,9.8066,2026-04-10
 154178,INF200KB1AH4,INF200KB1AI2,SBI Quality Fund - Direct Plan - Income Distribution Cum Capital Withdrawal,9.8067,2026-04-10
