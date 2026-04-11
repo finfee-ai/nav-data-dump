@@ -2,12 +2,19 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 103734,INF082J01127,,Quantum Liquid Fund - Direct Plan Growth Option,36.8293,2026-04-12
 118305,INF760K01FU6,,CANARA ROBECO LIQUID FUND - DIRECT PLAN - GROWTH OPTION,3315.8721,2026-04-12
 119369,INF761K01785,,BANK OF INDIA Liquid Fund- Direct Plan- Growth,3185.5122,2026-04-12
+119861,INF277K01YE6,,Tata Liquid Fund- Direct Plan-Growth Option,4366.7295,2026-04-12
+120249,INF767K01DN1,,LIC MF Liquid Fund-Direct Plan-Growth,5021.9296,2026-04-12
 120304,INF789F01XQ6,,UTI-  Liquid Cash Plan - Direct Plan - Growth Option,4535.1946,2026-04-12
+120389,INF846K01CX4,,Axis Liquid Fund - Direct Plan - Growth Option,3077.148,2026-04-12
 120785,INF789FB1S71,,UTI - Overnight Fund - Direct Plan - Growth Option,3693.0843,2026-04-12
 139538,INF174V01044,,Mahindra Manulife Liquid Fund - Direct Plan -Growth,1801.7988,2026-04-12
 143269,INF879O01068,,Parag Parikh Liquid Fund- Direct Plan- Growth,1529.7137,2026-04-12
 145834,INF247L01734,,Motilal Oswal Liquid Fund - Direct Growth,14.5831,2026-04-12
 145971,INF03VN01043,,WhiteOak Capital Liquid Fund- Direct plan-Growth Option,1480.9929,2026-04-12
+146675,INF846K01N65,,Axis Overnight Fund - Direct Plan - Growth Option,1428.1709,2026-04-12
+146978,,INF277K019T3,TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1000.0008,2026-04-12
+146980,INF277K018T5,,Tata Overnight Fund-Direct Plan-Growth,1424.2208,2026-04-12
+147515,INF767K01QI3,,LIC MF Overnight Fund-Direct Plan-Growth,1398.5311,2026-04-12
 147531,INF760K01JM5,,CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - GROWTH OPTION,1392.6612,2026-04-12
 147564,INF174V01838,,Mahindra Manulife Overnight Fund - Direct Plan -Growth,1396.5479,2026-04-12
 147951,INF761K01EU7,,BANK OF INDIA Overnight Fund Direct Plan Growth,1370.1871,2026-04-12
@@ -17,4 +24,10 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148842,,INF0GCD01263,TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal,1272.6379,2026-04-12
 149797,INF0GCD01453,,TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH,1275.7492,2026-04-12
 150369,INF0J8L01081,,NJ Overnight Fund - Direct Plan - Growth Option,1248.542,2026-04-12
+150562,INF680P01323,,Shriram Overnight Fund -  Direct Growth,12.4589,2026-04-12
+151833,INF0QA701011,,Bajaj Finserv Liquid Fund - Direct Plan - Growth,1207.0359,2026-04-12
+151849,INF0QA701177,,Bajaj Finserv Overnight Fund - Direct Plan - Growth,1183.7246,2026-04-12
 152152,INF0R8701079,,Helios Overnight Fund - Direct Plan - Growth Option,1157.1548,2026-04-12
+153035,INF680P01430,,Shriram Liquid Fund - Direct Plan Growth Option,1092.5667,2026-04-12
+153436,INF0R8F01075,,Zerodha Overnight Fund - Direct Plan - Growth Option,10.5585,2026-04-12
+153438,INF0QA701AF0,,Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years Redemption Plan,1058.2441,2026-04-12
