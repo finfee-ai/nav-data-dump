@@ -2,17 +2,24 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 103734,INF082J01127,,Quantum Liquid Fund - Direct Plan Growth Option,36.8429,2026-04-14
 118305,INF760K01FU6,,CANARA ROBECO LIQUID FUND - DIRECT PLAN - GROWTH OPTION,3317.4008,2026-04-14
 118701,INF204K01ZH0,,Nippon India Liquid Fund - Direct Plan Growth Plan - Growth Option,6774.7711,2026-04-14
+119091,INF179KB1HP9,,HDFC Liquid Fund - Growth Option - Direct Plan,5434.7627,2026-04-14
+119110,INF179KB1HT1,,HDFC Overnight Fund - Growth Option - Direct Plan,4000.7351,2026-04-14
 119135,INF666M01451,,Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option,2682.5087,2026-04-14
 119136,,INF666M01469,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),1002.0907,2026-04-14
 119137,INF666M01527,INF666M01477,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1001.9368,2026-04-14
 119138,INF666M01501,INF666M01485,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1002.5357,2026-04-14
 119139,INF666M01519,INF666M01493,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1032.0485,2026-04-14
+119303,INF582M01674,,Union Liquid Fund - Direct Plan - Growth Option,2669.362,2026-04-14
 119369,INF761K01785,,BANK OF INDIA Liquid Fund- Direct Plan- Growth,3186.8828,2026-04-14
+119415,INF955L01AL0,,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - GROWTH OPTION,3189.7304,2026-04-14
 119764,,INF174K01NH1,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1222.81,2026-04-14
 119766,INF174K01NE8,,Kotak Liquid Fund - Direct Plan - Growth,5590.5526,2026-04-14
 119861,INF277K01YE6,,Tata Liquid Fund- Direct Plan-Growth Option,4368.6001,2026-04-14
+120038,INF336L01CC8,,HSBC Liquid Fund -  Growth Direct,2757.3038,2026-04-14
 120249,INF767K01DN1,,LIC MF Liquid Fund-Direct Plan-Growth,5024.1159,2026-04-14
+120304,INF789F01XQ6,,UTI-  Liquid Cash Plan - Direct Plan - Growth Option,4537.3029,2026-04-14
 120406,INF192K01CM6,,JM Liquid Fund (Direct) - Growth Option,75.5008,2026-04-14
+120785,INF789FB1S71,,UTI - Overnight Fund - Direct Plan - Growth Option,3694.0905,2026-04-14
 120837,INF966L01820,,quant Liquid Fund - Growth Option - Direct Plan,44.3932,2026-04-14
 125345,INF579M01621,,360 ONE LIQUID FUND DIRECT PLAN  GROWTH,2120.3053,2026-04-14
 138299,INF223J01NS5,,PGIM India Liquid Fund - Direct Plan - Growth,361.0526,2026-04-14
@@ -25,9 +32,13 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 145971,INF03VN01043,,WhiteOak Capital Liquid Fund- Direct plan-Growth Option,1481.6859,2026-04-14
 146140,,INF174KA1BE2,Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option,1003.6055,2026-04-14
 146141,INF174KA1BF9,,Kotak Overnight Fund -Direct Plan-Growth Option,1439.8566,2026-04-14
+146963,INF903JA1HG5,,Sundaram Overnight Fund Direct Plan - Growth,1433.2787,2026-04-14
 146978,,INF277K019T3,TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1000.0008,2026-04-14
 146980,INF277K018T5,,Tata Overnight Fund-Direct Plan-Growth,1424.6081,2026-04-14
+147003,INF582M01FA2,,Union Overnight Fund - Direct Plan - Growth Option,1420.5257,2026-04-14
 147157,INF00XX01283,,ITI Liquid Fund - Direct Plan - Growth Option,1438.3777,2026-04-14
+147196,INF955L01HV4,,Baroda BNP Paribas Overnight Fund - Direct Plan - Growth,1417.467,2026-04-14
+147287,INF336L01OF6,,HSBC Overnight Fund - Direct Growth,1412.2919,2026-04-14
 147450,INF666M01GL8,,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Growth Option,1390.3865,2026-04-14
 147451,INF666M01GN4,INF666M01GO2,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1002.345,2026-04-14
 147452,INF666M01GP9,INF666M01GQ7,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1215.4157,2026-04-14
@@ -47,6 +58,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148839,INF0GCD01305,INF0GCD01297,TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal,1203.0096,2026-04-14
 148841,INF0GCD01255,,TRUSTMF Liquid Fund-Direct Plan-Growth,1339.6815,2026-04-14
 148842,,INF0GCD01263,TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal,1273.1702,2026-04-14
+149664,INF173K01GU0,,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Direct Plan - Growth Option,2444.9581,2026-04-14
 149797,INF0GCD01453,,TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH,1276.0798,2026-04-14
 149826,INF192K01MK9,,JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan,1073.9936,2026-04-14
 149829,INF192K01MI3,,JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan,1367.8062,2026-04-14
@@ -61,5 +73,10 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 153436,INF0R8F01075,,Zerodha Overnight Fund - Direct Plan - Growth Option,10.5612,2026-04-14
 153438,INF0QA701AF0,,Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years Redemption Plan,1058.529,2026-04-14
 153570,INF1MIY01056,,Unifi Liquid Fund- Direct Growth,1052.1603,2026-04-14
+153650,INF22M001036,,JioBlackRock Overnight Fund - Direct Plan - Growth Option,1042.0758,2026-04-14
+153651,INF22M001010,,JioBlackRock Liquid Fund - Direct Plan - Growth Option,1049.2608,2026-04-14
 153703,INF579M01BG4,,360 ONE Overnight Fund - Direct Plan - Growth,1041.3965,2026-04-14
+153883,INF2F0001081,,THE WEALTH COMPANY LIQUID FUND DIRECT GROWTH,1033.1826,2026-04-14
+153887,,INF2F0001073,THE WEALTH COMPANY LIQUID FUND DIRECT DAILY ICDW,1002.0,2026-04-14
+153889,INF2F0001123,INF2F0001115,THE WEALTH COMPANY LIQUID FUND DIRECT WEEKLY,1002.1497,2026-04-14
 154011,INF226401034,,Capitalmind Liquid Fund - Direct-Growth,1026.4311,2026-04-14
