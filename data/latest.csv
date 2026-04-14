@@ -134,17 +134,6 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 131061,INF109KA1O37,,ICICI Prudential Constant Maturity Gilt Fund - Direct Plan - Growth,25.8148,2026-04-13
 120137,INF200K01SK7,,SBI CONSTANT MATURITY 10 YEAR GILT FUND - DIRECT PLAN - GROWTH,67.4531,2026-04-13
 150410,INF789F1AVR7,,UTI Gilt Fund with 10 year Constant Duration - Direct Plan - Growth Option,13.0082,2026-04-13
-154051,INF2JJD01029,,Abakkus Liquid Fund - Direct Plan - Growth,101.9017,2026-04-13
-119568,INF209K01VA3,,Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan,447.0259,2026-04-13
-120389,INF846K01CX4,,Axis Liquid Fund - Direct Plan - Growth Option,3078.1047,2026-04-13
-118364,INF194K01I60,,BANDHAN LIQUID Fund -Direct Plan-Growth,3341.2214,2026-04-13
-119125,INF740K01QL4,,DSP Liquidity Fund - Direct Plan - Growth,3957.5804,2026-04-13
-118577,INF090I01JV2,,Franklin India Liquid Fund - Super Institutional - Direct - Growth,4158.3177,2026-04-13
-120197,INF109K01Q49,,ICICI Prudential Liquid Fund - Direct Plan - Growth,409.4132,2026-04-13
-120537,INF205K01MF9,,Invesco India Liquid Fund - Direct Plan - Growth,3797.1549,2026-04-13
-118859,INF769K01CM1,,Mirae Asset Liquid Fund - Direct Plan - Growth,2922.1594,2026-04-13
-119164,INF959L01GF1,,Navi Liquid Fund-Direct Plan-Growth Option,29.9296,2026-04-13
-119800,INF200K01UT4,,SBI Liquid Fund - DIRECT PLAN -Growth,4325.1083,2026-04-13
 150484,INF209KB17J2,,Aditya Birla Sun Life Long Duration Fund-Direct Growth,13.0678,2026-04-13
 151179,INF846K014L3,,Axis Long Duration Fund - Direct Plan - Growth,1230.0893,2026-04-13
 152520,INF194KB1HY2,,Bandhan Long Duration Fund - Direct Plan - Growth,11.0875,2026-04-13
@@ -244,17 +233,6 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 150513,INF0GCD01503,,TRUSTMF MONEY MARKET FUND-DIRECT PLAN-GROWTH,1286.9427,2026-04-13
 149117,INF582M01HG5,,Union Money Market Fund - Direct Plan -  Growth Option,1331.9862,2026-04-13
 120299,INF789F01XV6,,UTI MMF - Direct Plan - Growth Option,3282.2059,2026-04-13
-145486,INF209KB1ZH2,,ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH,1459.3771,2026-04-13
-146675,INF846K01N65,,Axis Overnight Fund - Direct Plan - Growth Option,1428.364,2026-04-13
-146191,INF194KB1447,,BANDHAN Overnight Fund - Direct Plan - Growth,1439.0637,2026-04-13
-146062,INF740KA1MC8,,DSP Overnight Fund - Direct Plan - Growth,1445.3921,2026-04-13
-147214,INF090I01SS9,,Franklin India Overnight Fund- Growth - Direct,1407.5348,2026-04-13
-145536,INF109KC11G1,,ICICI Prudential Overnight Fund - Direct Plan - Growth,1454.0591,2026-04-13
-149409,INF109KC17H6,,ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Stable Scheme,1000.0,2026-04-13
-149410,INF109KC15H0,,ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Transitory Scheme,1282.9561,2026-04-13
-147883,INF205KA1163,,Invesco India Overnight Fund - Direct Plan - Growth,1363.3082,2026-04-13
-147736,INF769K01FG6,,Mirae Asset Overnight Fund Direct Plan Growth,1383.8122,2026-04-13
-119833,INF200K01TK5,,SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH,4387.3878,2026-04-13
 119498,INF209K01XK8,,Aditya Birla Sun Life Short Term Fund - Growth - Direct Plan,53.7841,2026-04-13
 120510,INF846K01EI1,,Axis Short Duration Fund - Direct Plan - Growth Option,35.3127,2026-04-13
 118407,INF194K01U07,,Bandhan Short Duration Fund - Direct Plan - Growth,63.9466,2026-04-13
@@ -1770,9 +1748,9 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 151586,INF846K011Q8,,Axis Fixed Term Plan - Series 113 (1228 Days) - Direct Plan - Growth,12.4824,2026-04-13
 146701,INF194KB1777,,BANDHAN Fixed Term Plan Series 179 DIRECT PLAN-GROWTH (3652 days),17.6468,2026-04-13
 149190,INF740KA1QH8,,DSP FMP Series - 264 - 60M - 17D - Direct - Growth,13.1415,2026-04-13
-150842,INF740KA1RI4,,DSP FMP Series - 267 - 1246 Days - Direct - Growth,12.7112,2026-04-13
+150842,INF740KA1RI4,,DSP FMP Series - 267 - 1246 Days - Direct - Growth,12.7129,2026-04-13
 150885,INF740KA1RO2,,DSP FMP Series - 268 - 1281 Days - Direct - Growth,12.6906,2026-04-13
-151449,INF740KA1SN2,,DSP FMP Series - 270 - 1144 Days - Direct - Growth,12.4746,2026-04-13
+151449,INF740KA1SN2,,DSP FMP Series - 270 - 1144 Days - Direct - Growth,12.4762,2026-04-13
 151225,INF179KC1EN0,,HDFC FMP 1204D December - Growth Option - Direct Plan,12.5376,2026-04-13
 151565,,,HDFC FMP 1269D March 2023 - Growth Option - Direct Plan,12.4421,2026-04-13
 150655,,,HDFC FMP 1359D September - Growth Option - Direct Plan,12.8607,2026-04-13
