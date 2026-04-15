@@ -421,6 +421,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147492,INF582M01FS4,,Union Focused Fund - Direct Plan - Growth Option,26.78,2026-04-13
 149091,INF789F1AVA3,,UTI Focused Fund - Direct Plan - Growth Option,15.7006,2026-04-13
 119436,INF209K01VH8,,Aditya Birla Sun Life Large & Mid Cap Fund - Growth - Direct Plan,986.64,2026-04-13
+145110,INF846K01J46,,Axis Large & Mid Cap Fund - Direct Plan - Growth,35.39,2026-04-13
 152408,INF0QA701763,,Bajaj Finserv Large and Mid Cap Fund- Direct Plan- Growth,12.032,2026-04-13
 118419,INF194K01V89,,Bandhan Large & Mid Cap Fund - Direct Plan - Growth,155.321,2026-04-13
 119300,INF761K01629,,BANK OF INDIA Large & Mid Cap Fund Direct Plan- Bonus,52.33,2026-04-13
@@ -1127,6 +1128,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147889,INF846K01U09,,Axis Income Plus Arbitrage Active FOF - Direct Plan - Growth Option,15.3281,2026-04-13
 153924,INF846KA1283,,Axis Income Plus Arbitrage Passive FOF - Direct Plan - Growth Option,10.2489,2026-04-13
 149847,INF846K011G9,,Axis Multi Factor Passive FoF - Direct Plan - Growth Option,15.2877,2026-04-13
+153960,INF846KA1366,,Axis Multi-Asset Active FoF - Direct Plan - Growth,10.155,2026-04-13
 149243,INF846K017C5,,Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Direct Plan - Growth Option,12.8006,2026-04-13
 150615,INF846K015J4,,Axis Silver Fund of Fund- Direct Plan-Growth Option,40.2985,2026-04-13
 118485,INF194K012B6,,Bandhan Aggressive Hybrid Passive FOF - Direct Plan - Growth,50.4429,2026-04-13
@@ -1748,9 +1750,9 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 151586,INF846K011Q8,,Axis Fixed Term Plan - Series 113 (1228 Days) - Direct Plan - Growth,12.4824,2026-04-13
 146701,INF194KB1777,,BANDHAN Fixed Term Plan Series 179 DIRECT PLAN-GROWTH (3652 days),17.6468,2026-04-13
 149190,INF740KA1QH8,,DSP FMP Series - 264 - 60M - 17D - Direct - Growth,13.1415,2026-04-13
-150842,INF740KA1RI4,,DSP FMP Series - 267 - 1246 Days - Direct - Growth,12.7129,2026-04-13
+150842,INF740KA1YL4,,DSP FMP Series - 267 - 1172 Days - Direct - Growth,12.7129,2026-04-13
 150885,INF740KA1RO2,,DSP FMP Series - 268 - 1281 Days - Direct - Growth,12.6906,2026-04-13
-151449,INF740KA1SN2,,DSP FMP Series - 270 - 1144 Days - Direct - Growth,12.4762,2026-04-13
+151449,INF740KA1YR1,,DSP FMP Series - 270 - 1172 Days - Direct - Growth,12.4762,2026-04-13
 151225,INF179KC1EN0,,HDFC FMP 1204D December - Growth Option - Direct Plan,12.5376,2026-04-13
 151565,,,HDFC FMP 1269D March 2023 - Growth Option - Direct Plan,12.4421,2026-04-13
 150655,,,HDFC FMP 1359D September - Growth Option - Direct Plan,12.8607,2026-04-13
