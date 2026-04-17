@@ -806,6 +806,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 133800,INF178L01AK1,INF178L01AJ3,Kotak Infrastructure & Economic Reform Fund- Direct Plan- Payout of Income Distribution cum capital withdrawal option,77.803,2026-04-16
 149841,INF174KA1IF4,,Kotak Manufacture in India Fund - Direct Plan Growth,21.321,2026-04-16
 152910,INF174KA1TG9,,Kotak MNC Fund-Direct Plan-Growth,11.228,2026-04-16
+147727,INF174KA1EZ1,,Kotak Pioneer Fund- Direct Plan- Growth Option,34.719,2026-04-16
+147725,INF174KA1EX6,INF174KA1EY4,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,34.714,2026-04-16
 151881,INF174KA1OL0,,Kotak Quant Fund - Direct Plan - Growth Option,14.842,2026-04-16
 153970,INF174KA1XW8,,Kotak Rural Opportunities Fund - Direct Plan - Growth,9.91,2026-04-16
 154149,INF174KA1YV8,,Kotak Services Fund - Direct - Growth,10.333,2026-04-16
@@ -1244,6 +1246,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 153552,INF251K01UO8,,Baroda BNP Paribas Multi Asset Active FOF Direct Growth,11.2859,2026-04-16
 152183,INF740KA1TK6,,DSP Gold ETF Fund of Fund - Direct - Growth,23.9339,2026-04-16
 130493,INF740K01Z50,,DSP Income Plus Arbitrage Omni FoF - Direct Plan - Growth,23.3778,2026-04-16
+154167,INF740KA1YE9,,DSP Multi Asset Omni Fund of Funds - Direct - Growth,9.9546,2026-04-16
 153487,INF740KA1VZ0,,DSP Silver ETF Fund of Fund - Direct - Growth,25.8829,2026-04-16
 149401,INF754K01NY5,,BHARAT Bond ETF FOF - April 2032 Direct Growth,13.1121,2026-04-16
 150989,INF754K01RC2,,BHARAT Bond ETF FOF - April 2033 - Direct Plan - Growth,12.8109,2026-04-16
@@ -1386,6 +1389,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148063,INF754K01LB7,,Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth,35.1426,2026-04-16
 140274,INF843K01EC1,,Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option,43.9569,2026-04-16
 118551,INF090I01JR0,,Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth,95.9269,2026-04-16
+149180,INF179KC1BO4,,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,19.914,2026-04-16
 120035,INF336L01BY4,,HSBC Brazil Fund - Growth Direct,12.7376,2026-04-16
 120043,INF336L01CJ3,,HSBC Global Emerging Market Fund - Growth Direct,34.6977,2026-04-16
 123654,INF109KA1CE0,,ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth,34.29,2026-04-16
@@ -1396,6 +1400,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 126353,INF205K01A24,,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - Growth Option,27.1364,2026-04-16
 119779,INF174K01LW4,,Kotak Global Emerging Market overseas Equity Omni FOF - Growth - Direct,39.545,2026-04-16
 119778,INF174K01LX2,INF174K01LY0,Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct,39.712,2026-04-16
+149059,INF174KA1HG4,,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,14.296,2026-04-16
 148646,INF174KA1FO2,,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth,12.2189,2026-04-16
 148649,INF174KA1FN4,INF174KA1FP9,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option,12.2188,2026-04-16
 154287,INF174KA1ZI2,,Kotak Quality Overseas Equity Omni FOF - Direct Plan - Growth-,10.324,2026-04-16
@@ -1410,6 +1415,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 138528,INF223J01NF2,,PGIM India Global Equity Opportunities Fund of Fund- Direct Plan - Growth,54.11,2026-04-16
 149298,INF663L01W63,,PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option,13.66,2026-04-16
 148760,INF200KA1U28,,SBI US Specific Equity Active FoF - Direct Plan - Growth,24.0059,2026-04-16
+119602,INF903J01OB6,,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,45.0812,2026-04-16
 153736,INF209KC1589,,Aditya Birla Sun Life BSE 500 Momentum 50 Index Fund-Direct Growth,10.2866,2026-04-16
 153740,INF209KC1613,,Aditya Birla Sun Life BSE 500 Quality 50 Index Fund - Direct Growth,10.5004,2026-04-16
 153081,INF209KC1332,,Aditya Birla Sun Life BSE India Infrastructure Index Fund-Direct Growth,9.6226,2026-04-16
