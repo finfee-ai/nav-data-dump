@@ -134,33 +134,9 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 131061,INF109KA1O37,,ICICI Prudential Constant Maturity Gilt Fund - Direct Plan - Growth,25.7748,2026-04-30
 120137,INF200K01SK7,,SBI CONSTANT MATURITY 10 YEAR GILT FUND - DIRECT PLAN - GROWTH,67.3193,2026-04-30
 150410,INF789F1AVR7,,UTI Gilt Fund with 10 year Constant Duration - Direct Plan - Growth Option,12.9703,2026-04-30
-125345,INF579M01621,,360 ONE LIQUID FUND DIRECT PLAN  GROWTH,2124.7981,2026-04-30
 119568,INF209K01VA3,,Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan,448.07,2026-04-30
-120389,INF846K01CX4,,Axis Liquid Fund - Direct Plan - Growth Option,3085.3342,2026-04-30
-151833,INF0QA701011,,Bajaj Finserv Liquid Fund - Direct Plan - Growth,1210.2023,2026-04-30
-118364,INF194K01I60,,BANDHAN LIQUID Fund -Direct Plan-Growth,3349.0434,2026-04-30
-119369,INF761K01785,,BANK OF INDIA Liquid Fund- Direct Plan- Growth,3193.7814,2026-04-30
-119415,INF955L01AL0,,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - GROWTH OPTION,3196.6779,2026-04-30
-154011,INF226401034,,Capitalmind Liquid Fund - Direct-Growth,1028.7451,2026-04-30
-119125,INF740K01QL4,,DSP Liquidity Fund - Direct Plan - Growth,3966.7633,2026-04-30
-118577,INF090I01JV2,,Franklin India Liquid Fund - Super Institutional - Direct - Growth,4167.9335,2026-04-30
 119091,INF179KB1HP9,,HDFC Liquid Fund - Growth Option - Direct Plan,5446.1636,2026-04-30
-120038,INF336L01CC8,,HSBC Liquid Fund -  Growth Direct,2762.9986,2026-04-30
-120197,INF109K01Q49,,ICICI Prudential Liquid Fund - Direct Plan - Growth,410.3636,2026-04-30
-120537,INF205K01MF9,,Invesco India Liquid Fund - Direct Plan - Growth,3805.9666,2026-04-30
-147157,INF00XX01283,,ITI Liquid Fund - Direct Plan - Growth Option,1441.3563,2026-04-30
-153651,INF22M001010,,JioBlackRock Liquid Fund - Direct Plan - Growth Option,1051.5916,2026-04-30
 118859,INF769K01CM1,,Mirae Asset Liquid Fund - Direct Plan - Growth,2928.7836,2026-04-30
-119164,INF959L01GF1,,Navi Liquid Fund-Direct Plan-Growth Option,29.9956,2026-04-30
-120837,INF966L01820,,quant Liquid Fund - Growth Option - Direct Plan,44.4879,2026-04-30
-119800,INF200K01UT4,,SBI Liquid Fund - DIRECT PLAN -Growth,4334.9496,2026-04-30
-149664,INF173K01GU0,,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Direct Plan - Growth Option,2450.2537,2026-04-30
-153887,,INF2F0001073,THE WEALTH COMPANY LIQUID FUND DIRECT DAILY ICDW,1002.0,2026-04-30
-153883,INF2F0001081,,THE WEALTH COMPANY LIQUID FUND DIRECT GROWTH,1035.3861,2026-04-30
-153889,INF2F0001123,INF2F0001115,THE WEALTH COMPANY LIQUID FUND DIRECT WEEKLY,1002.3069,2026-04-30
-119303,INF582M01674,,Union Liquid Fund - Direct Plan - Growth Option,2675.2579,2026-04-30
-120304,INF789F01XQ6,,UTI-  Liquid Cash Plan - Direct Plan - Growth Option,4547.0026,2026-04-30
-145971,INF03VN01043,,WhiteOak Capital Liquid Fund- Direct plan-Growth Option,1484.7747,2026-04-30
 150484,INF209KB17J2,,Aditya Birla Sun Life Long Duration Fund-Direct Growth,13.0236,2026-04-30
 151179,INF846K014L3,,Axis Long Duration Fund - Direct Plan - Growth,1228.6041,2026-04-30
 152520,INF194KB1HY2,,Bandhan Long Duration Fund - Direct Plan - Growth,11.1082,2026-04-30
@@ -260,31 +236,11 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 150513,INF0GCD01503,,TRUSTMF MONEY MARKET FUND-DIRECT PLAN-GROWTH,1288.733,2026-04-30
 149117,INF582M01HG5,,Union Money Market Fund - Direct Plan -  Growth Option,1334.5212,2026-04-30
 120299,INF789F01XV6,,UTI MMF - Direct Plan - Growth Option,3286.3968,2026-04-30
-153703,INF579M01BG4,,360 ONE Overnight Fund - Direct Plan - Growth,1043.7238,2026-04-30
 145486,INF209KB1ZH2,,ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH,1462.7335,2026-04-30
-146675,INF846K01N65,,Axis Overnight Fund - Direct Plan - Growth Option,1431.6782,2026-04-30
-153438,INF0QA701AF0,,Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years Redemption Plan,1060.665,2026-04-30
-151849,INF0QA701177,,Bajaj Finserv Overnight Fund - Direct Plan - Growth,1186.6344,2026-04-30
-146191,INF194KB1447,,BANDHAN Overnight Fund - Direct Plan - Growth,1442.3952,2026-04-30
-147951,INF761K01EU7,,BANK OF INDIA Overnight Fund Direct Plan Growth,1373.5675,2026-04-30
-147196,INF955L01HV4,,Baroda BNP Paribas Overnight Fund - Direct Plan - Growth,1420.5631,2026-04-30
-146062,INF740KA1MC8,,DSP Overnight Fund - Direct Plan - Growth,1448.7159,2026-04-30
-147214,INF090I01SS9,,Franklin India Overnight Fund- Growth - Direct,1410.8065,2026-04-30
 119110,INF179KB1HT1,,HDFC Overnight Fund - Growth Option - Direct Plan,4009.2815,2026-04-30
-147287,INF336L01OF6,,HSBC Overnight Fund - Direct Growth,1415.3321,2026-04-30
-145536,INF109KC11G1,,ICICI Prudential Overnight Fund - Direct Plan - Growth,1457.4187,2026-04-30
 149409,INF109KC17H6,,ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Stable Scheme,1000.0,2026-04-30
 149410,INF109KC15H0,,ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Transitory Scheme,1285.9202,2026-04-30
-147883,INF205KA1163,,Invesco India Overnight Fund - Direct Plan - Growth,1366.4519,2026-04-30
-147713,INF00XX01564,,ITI Overnight Fund - Direct Plan - Growth Option,1368.6896,2026-04-30
-153650,INF22M001036,,JioBlackRock Overnight Fund - Direct Plan - Growth Option,1044.3471,2026-04-30
 147736,INF769K01FG6,,Mirae Asset Overnight Fund Direct Plan Growth,1387.0098,2026-04-30
-151190,INF966L01AZ7,,quant Overnight Fund - Growth Option - Direct Plan,12.3598,2026-04-30
-119833,INF200K01TK5,,SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH,4397.4876,2026-04-30
-146963,INF903JA1HG5,,Sundaram Overnight Fund Direct Plan - Growth,1436.3822,2026-04-30
-147003,INF582M01FA2,,Union Overnight Fund - Direct Plan - Growth Option,1423.6573,2026-04-30
-120785,INF789FB1S71,,UTI - Overnight Fund - Direct Plan - Growth Option,3702.1468,2026-04-30
-153436,INF0R8F01075,,Zerodha Overnight Fund - Direct Plan - Growth Option,10.5836,2026-04-30
 119498,INF209K01XK8,,Aditya Birla Sun Life Short Term Fund - Growth - Direct Plan,53.8398,2026-04-30
 120510,INF846K01EI1,,Axis Short Duration Fund - Direct Plan - Growth Option,35.3415,2026-04-30
 118407,INF194K01U07,,Bandhan Short Duration Fund - Direct Plan - Growth,63.9223,2026-04-30
