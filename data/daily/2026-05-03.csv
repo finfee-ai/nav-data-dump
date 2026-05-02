@@ -11,11 +11,14 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 119303,INF582M01674,,Union Liquid Fund - Direct Plan - Growth Option,2676.5883,2026-05-03
 119369,INF761K01785,,BANK OF INDIA Liquid Fund- Direct Plan- Growth,3195.3588,2026-05-03
 119415,INF955L01AL0,,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - GROWTH OPTION,3198.2541,2026-05-03
+119861,INF277K01YE6,,Tata Liquid Fund- Direct Plan-Growth Option,4380.0424,2026-05-03
 120038,INF336L01CC8,,HSBC Liquid Fund -  Growth Direct,2764.3824,2026-05-03
 120249,INF767K01DN1,,LIC MF Liquid Fund-Direct Plan-Growth,5037.5699,2026-05-03
+120304,INF789F01XQ6,,UTI-  Liquid Cash Plan - Direct Plan - Growth Option,4549.2652,2026-05-03
 120389,INF846K01CX4,,Axis Liquid Fund - Direct Plan - Growth Option,3086.8753,2026-05-03
 120406,INF192K01CM6,,JM Liquid Fund (Direct) - Growth Option,75.7001,2026-05-03
 120537,INF205K01MF9,,Invesco India Liquid Fund - Direct Plan - Growth,3807.8886,2026-05-03
+120785,INF789FB1S71,,UTI - Overnight Fund - Direct Plan - Growth Option,3703.7351,2026-05-03
 120837,INF966L01820,,quant Liquid Fund - Growth Option - Direct Plan,44.5077,2026-05-03
 125345,INF579M01621,,360 ONE LIQUID FUND DIRECT PLAN  GROWTH,2125.8145,2026-05-03
 138299,INF223J01NS5,,PGIM India Liquid Fund - Direct Plan - Growth,362.019,2026-05-03
@@ -28,6 +31,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 146062,INF740KA1MC8,,DSP Overnight Fund - Direct Plan - Growth,1449.3426,2026-05-03
 146675,INF846K01N65,,Axis Overnight Fund - Direct Plan - Growth Option,1432.298,2026-05-03
 146963,INF903JA1HG5,,Sundaram Overnight Fund Direct Plan - Growth,1436.9953,2026-05-03
+146978,,INF277K019T3,TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1000.0,2026-05-03
+146980,INF277K018T5,,Tata Overnight Fund-Direct Plan-Growth,1428.3379,2026-05-03
 147003,INF582M01FA2,,Union Overnight Fund - Direct Plan - Growth Option,1424.275,2026-05-03
 147157,INF00XX01283,,ITI Liquid Fund - Direct Plan - Growth Option,1442.0432,2026-05-03
 147196,INF955L01HV4,,Baroda BNP Paribas Overnight Fund - Direct Plan - Growth,1421.1766,2026-05-03
