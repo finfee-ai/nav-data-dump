@@ -330,7 +330,9 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 119949,INF277K01QR4,,Tata Short Term Bond Fund - Direct Plan - Growth Option,55.17,2026-05-15
 119953,INF277K01OX7,,Tata Gilt Securities Fund- Direct Plan - Growth Option,87.4151,2026-05-15
 120030,INF336L01CM7,,HSBC Large Cap Fund - Direct Growth,507.8957,2026-05-15
+120035,INF336L01BY4,,HSBC Brazil Fund - Growth Direct,11.4668,2026-05-15
 120038,INF336L01CC8,,HSBC Liquid Fund -  Growth Direct,2769.3573,2026-05-15
+120043,INF336L01CJ3,,HSBC Global Emerging Market Fund - Growth Direct,38.0922,2026-05-15
 120046,INF336L01DH5,,HSBC Flexi Cap Fund - Direct Growth,245.8825,2026-05-15
 120059,INF336L01DE2,,HSBC Medium to Long Duration Fund - Direct Growth,47.6849,2026-05-15
 120073,INF336L01DW4,,HSBC Conservative Hybrid Fund - Direct Growth,69.6647,2026-05-15
@@ -534,6 +536,9 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 129046,INF247L01502,,Motilal Oswal Flexi cap Fund Direct Plan-Growth Option,61.7452,2026-05-15
 129052,INF179KA1KT6,,HDFC ARBITRAGE FUND - Wholesale Growth Option - Direct Plan,21.308,2026-05-15
 129188,INF205K01B49,,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - Growth,40.5198,2026-05-15
+129193,INF336L01IJ0,,HSBC Multi Asset Active FOF - Growth Direct,43.1147,2026-05-15
+129197,INF336L01IP7,,HSBC Income Plus Arbitrage Active FOF - Growth Direct,23.6673,2026-05-15
+129200,INF336L01ID3,,HSBC Aggressive Hybrid Active FOF - Growth Direct,42.9364,2026-05-15
 129212,INF903J01F92,,Sundaram Infrastructure Advantage Fund Direct Plan - Growth,108.9301,2026-05-15
 129649,INF582M01BU9,,Union Small Cap Fund - Direct Plan - Growth Option,59.38,2026-05-15
 130050,INF204KA1QF1,,Nippon India Medium Duration Fund - Direct Plan - Growth Option,17.8807,2026-05-15
@@ -1080,6 +1085,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149822,INF200KA19D2,,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Growth,12.9252,2026-05-15
 149826,INF192K01MK9,,JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan,1073.9936,2026-05-15
 149829,INF192K01MI3,,JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan,1373.4213,2026-05-15
+149830,INF959L01FV0,,Navi Total Stock Market US Specific Equity Passive FoF- Direct Plan- Growth,22.096,2026-05-15
 149832,INF194KB1CR7,,BANDHAN NIFTY 100 INDEX FUND - DIRECT PLAN - GROWTH,14.6816,2026-05-15
 149838,INF209KB10G3,,Aditya Birla Sun Life Nifty Next 50 Index Fund-Direct Growth,17.2045,2026-05-15
 149841,INF174KA1IF4,,Kotak Manufacture in India Fund - Direct Plan Growth,21.575,2026-05-15
@@ -1095,6 +1101,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149882,INF200KA18E2,,SBI Multicap Fund- Direct Plan- Growth option,17.0679,2026-05-15
 149892,INF959L01FX6,,Navi Nifty Midcap 150 Index Fund Direct Plan- Growth,21.0501,2026-05-15
 149894,INF846K013H3,,Axis Nifty Smallcap 50 Index Fund - Direct Plan - Growth Option,18.7459,2026-05-15
+149910,INF959L01FZ1,,Navi NASDAQ100 US Specific Equity Passive FOF- Direct- Growth,24.9324,2026-05-15
 149917,INF204KC1477,,Nippon India Fixed Maturity Plan-XLIII-Series 5- Direct Plan-Growth Option,13.2496,2026-05-15
 149919,INF247L01AY5,,Motilal Oswal BSE Low Volatility Index Fund-Direct plan,16.1782,2026-05-15
 149924,INF179KC1CC7,,HDFC FMP 1861D March 2022 - Growth Option - Direct Plan,13.1237,2026-05-15
@@ -1873,6 +1880,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154279,INF769K01QS8,,Mirae Asset Silver ETF FOF - Direct Plan - Growth,11.693,2026-05-15
 154287,INF174KA1ZI2,,Kotak Quality Overseas Equity Omni FOF - Direct Plan - Growth-,10.814,2026-05-15
 154292,INF846KA1481,,Axis Fixed Maturity Plan - Series 130 (92 Days) - Direct Plan - Growth,10.1365,2026-05-15
+154295,INF336L01SB6,,HSBC Gold ETF Fund of fund - Direct Growth,10.7864,2026-05-15
 154301,INF2KCX01020,,Choice Nifty 50 Index Fund - Direct Plan Growth,10.1813,2026-05-15
 154304,INF2KCX01046,,Choice Nifty Next 50 Index Fund - Direct Plan Growth,10.7757,2026-05-15
 154306,INF0R8F01190,,Zerodha Nifty MidSmallcap400 50:50 Index Fund - Direct Plan - Growth Option,10.6803,2026-05-15
