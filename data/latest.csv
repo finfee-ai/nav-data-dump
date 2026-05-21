@@ -1247,6 +1247,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 153552,INF251K01UO8,,Baroda BNP Paribas Multi Asset Active FOF Direct Growth,11.3602,2026-05-20
 152183,INF740KA1TK6,,DSP Gold ETF Fund of Fund - Direct - Growth,24.8028,2026-05-20
 130493,INF740K01Z50,,DSP Income Plus Arbitrage Omni FoF - Direct Plan - Growth,23.3195,2026-05-20
+154167,INF740KA1YE9,,DSP Multi Asset Omni Fund of Funds - Direct - Growth,9.8556,2026-05-20
 153487,INF740KA1VZ0,,DSP Silver ETF Fund of Fund - Direct - Growth,27.5113,2026-05-20
 149401,INF754K01NY5,,BHARAT Bond ETF FOF - April 2032 Direct Growth,12.9797,2026-05-20
 150989,INF754K01RC2,,BHARAT Bond ETF FOF - April 2033 - Direct Plan - Growth,12.7185,2026-05-20
@@ -1281,10 +1282,14 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154295,INF336L01SB6,,HSBC Gold ETF Fund of fund - Direct Growth,10.85,2026-05-20
 129197,INF336L01IP7,,HSBC Income Plus Arbitrage Active FOF - Growth Direct,23.6292,2026-05-20
 129193,INF336L01IJ0,,HSBC Multi Asset Active FOF - Growth Direct,43.2534,2026-05-20
+120700,INF109K01X40,,ICICI Prudential Aggressive Hybrid Active FOF - Direct Plan - Growth,235.3772,2026-05-20
 143903,INF109KC1FX1,,ICICI Prudential BHARAT 22 FOF - Direct Plan Cumulative Option,35.1683,2026-05-20
 149331,INF109KC1V91,,ICICI Prudential BSE 500 ETF FOF - Direct Plan - Growth,15.4149,2026-05-20
 120702,INF109K01X73,,ICICI Prudential Diversified Debt Strategy Active FOF  - Direct Plan - Growth,48.4876,2026-05-20
 154266,INF109K1A468,,ICICI Prudential Diversified Equity All Cap Active FOF - Direct Plan - Growth,10.4362,2026-05-20
+148035,INF109KC1I49,,ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - Growth,31.428,2026-05-20
+120679,INF109K01X16,,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - Growth,135.1116,2026-05-20
+147648,INF109KC1F34,,ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option,22.8686,2026-05-20
 120685,INF109K01U92,,ICICI Prudential Gold ETF FOF - Direct Plan - Growth,50.3082,2026-05-20
 120313,INF109K01W82,,ICICI Prudential Income plus Arbitrage Omni FOF - Direct Plan - Growth,70.2489,2026-05-20
 120242,INF109K01W58,,ICICI Prudential Multi Sector Passive FOF - Direct Plan - Growth,172.7243,2026-05-20
@@ -1385,6 +1390,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148063,INF754K01LB7,,Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth,40.8338,2026-05-20
 140274,INF843K01EC1,,Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option,46.3181,2026-05-20
 118551,INF090I01JR0,,Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth,104.5549,2026-05-20
+149180,INF179KC1BO4,,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,21.447,2026-05-20
 120035,INF336L01BY4,,HSBC Brazil Fund - Growth Direct,11.7593,2026-05-20
 120043,INF336L01CJ3,,HSBC Global Emerging Market Fund - Growth Direct,37.7689,2026-05-20
 123654,INF109KA1CE0,,ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth,35.32,2026-05-20
