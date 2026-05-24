@@ -466,6 +466,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 118269,INF760K01FR2,,CANARA ROBECO LARGE CAP FUND - DIRECT PLAN - GROWTH OPTION,69.54,2026-05-22
 119250,INF740K01PR3,,DSP Large Cap Fund - Direct Plan - Growth,497.217,2026-05-22
 118617,INF754K01BW4,,Edelweiss Large Cap Fund - Direct Plan-Growth option,93.64,2026-05-22
+118531,INF090I01FN7,,Franklin India Large Cap Fund- Direct - Growth,1090.2967,2026-05-22
 119133,INF666M01600,,Groww Largecap Fund (formerly known as Indiabulls Blue Chip Fund) - Direct Plan - Growth Option,50.34,2026-05-22
 119134,INF666M01626,INF666M01618,Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),29.15,2026-05-22
 140814,INF666M01CQ6,INF666M01CR4,Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Direct Plan- Half Yearly -Income Distribution cum capital withdrawal Option (Payout & Reinvestment),28.29,2026-05-22
@@ -630,8 +631,11 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154108,INF754K01WH1,,Edelweiss Financial Services Fund - Direct Plan - Growth Option,9.2654,2026-05-22
 142388,INF754K01ML4,,Edelweiss Recently Listed IPO Fund Direct Plan Growth,30.4549,2026-05-22
 152437,INF754K01SK3,,Edelweiss Technology Fund - Direct Plan - Growth,12.0982,2026-05-22
+118559,INF090I01IZ5,,Franklin Asian Equity Fund - Direct - Growth,48.2497,2026-05-22
 118557,INF090I01JF5,,Franklin Build India Fund - Direct - Growth,167.6145,2026-05-22
 153942,INF090I01YQ1,,Franklin India Multi-Factor Fund- Direct- Growth,9.4648,2026-05-22
+118539,INF090I01GC8,,Franklin India Opportunities Fund - Direct - Growth,273.8999,2026-05-22
+118537,INF090I01FE6,,Franklin India Technology Fund - Direct - Growth,497.0244,2026-05-22
 152254,INF666M01HS1,,Groww Banking & Financial Services Fund - Direct Plan - Growth,12.5687,2026-05-22
 148986,INF179KC1BG0,,HDFC Banking & Financial Services Fund - Growth Option - Direct Plan,18.28,2026-05-22
 150805,INF179KC1DY9,,HDFC Business Cycle Fund - Growth Option - Direct Plan,14.66,2026-05-22
@@ -1150,6 +1154,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 153712,INF754K01VF7,,Edelweiss Income Plus Arbitrage Active Fund of Funds - Direct Plan Growth,10.4046,2026-05-22
 153776,INF754K01VN1,,Edelweiss Multi Asset Omni Fund of Fund- Direct Plan - Growth,11.5021,2026-05-22
 154072,INF754K01VZ5,,Edelweiss Silver ETF Fund of Fund - Direct Plan Growth Option,11.5019,2026-05-22
+118543,INF090I01HV6,,Franklin India Dynamic Asset Allocation Active Fund Of Funds - Direct - Growth,184.8468,2026-05-22
+132989,INF090I01LH7,,Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan - Direct,24.8154,2026-05-22
 154200,INF666M01NX9,,Groww BSE Hospitals ETF FOF Direct Growth,10.6837,2026-05-22
 153745,INF666M01LN4,,Groww BSE Power ETF FOF Direct Growth,12.3666,2026-05-22
 152980,INF666M01IX9,,Groww Gold ETF FOF - DIRECT - GROWTH,19.3337,2026-05-22
@@ -1277,6 +1283,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 140243,INF843K01AU1,,Edelweiss Greater China Equity Off-shore Fund - Direct Plan - Growth Option,75.331,2026-05-22
 148063,INF754K01LB7,,Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth,41.9916,2026-05-22
 140274,INF843K01EC1,,Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option,46.457,2026-05-22
+118551,INF090I01JR0,,Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth,104.0761,2026-05-22
 120035,INF336L01BY4,,HSBC Brazil Fund - Growth Direct,11.5193,2026-05-22
 120043,INF336L01CJ3,,HSBC Global Emerging Market Fund - Growth Direct,38.499,2026-05-22
 123654,INF109KA1CE0,,ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth,35.33,2026-05-22

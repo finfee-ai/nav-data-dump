@@ -50,12 +50,18 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 118508,INF090I01LK1,,Franklin India Floating Rate Fund - Direct - Growth,47.04,2026-05-22
 118510,INF090I01IN1,,Franklin India Large & Mid Cap Fund - Direct - Growth,202.1416,2026-05-22
 118525,INF090I01IQ4,,Franklin India Small Cap Fund - Direct - Growth,192.2596,2026-05-22
+118531,INF090I01FN7,,Franklin India Large Cap Fund- Direct - Growth,1090.2967,2026-05-22
 118533,INF090I01FH9,,Franklin India Mid Cap Fund - Direct - Growth,3034.9018,2026-05-22
 118535,INF090I01FK3,,Franklin India Flexi Cap Fund - Direct - Growth,1733.8721,2026-05-22
+118537,INF090I01FE6,,Franklin India Technology Fund - Direct - Growth,497.0244,2026-05-22
+118539,INF090I01GC8,,Franklin India Opportunities Fund - Direct - Growth,273.8999,2026-05-22
 118540,INF090I01JS8,,Franklin India ELSS Tax Saver Fund - Direct - Growth,1544.9286,2026-05-22
+118543,INF090I01HV6,,Franklin India Dynamic Asset Allocation Active Fund Of Funds - Direct - Growth,184.8468,2026-05-22
 118546,INF090I01FZ1,,Franklin India Aggressive Hybrid Fund - Direct - Growth,299.8427,2026-05-22
 118548,INF090I01JZ3,,Franklin India Retirement Fund - Direct - Growth,235.9495,2026-05-22
+118551,INF090I01JR0,,Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth,104.0761,2026-05-22
 118557,INF090I01JF5,,Franklin Build India Fund - Direct - Growth,167.6145,2026-05-22
+118559,INF090I01IZ5,,Franklin Asian Equity Fund - Direct - Growth,48.2497,2026-05-22
 118564,INF090I01IW2,,Franklin India Focused Equity Fund - Direct - Growth,113.0085,2026-05-22
 118569,INF090I01FW8,,Franklin India Corporate Debt Fund - Direct - GROWTH,113.4248,2026-05-22
 118574,INF090I01GF1,,Franklin India Conservative Hybrid Fund - Direct - GROWTH,100.1415,2026-05-22
@@ -562,6 +568,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 132185,INF084M01ET2,,Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct Plan - Growth Option,45.324,2026-05-22
 132186,INF084M01EW6,,Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF- Direct Plan - Growth Option,59.7147,2026-05-22
 132756,INF277K01I86,,Tata ELSS Fund-Growth-Direct Plan,51.8575,2026-05-22
+132989,INF090I01LH7,,Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan - Direct,24.8154,2026-05-22
 132995,INF209KA1TP9,,Aditya Birla Sun Life Equity Savings Fund - Direct Plan - Growth,25.41,2026-05-22
 133035,INF174K01F00,,Kotak Aggressive Hybrid Fund - Direct Plan -Growth,74.648,2026-05-22
 133054,INF109KA11J9,,ICICI Prudential Equity Savings Fund - Direct Plan - Cumulative option,24.73,2026-05-22
