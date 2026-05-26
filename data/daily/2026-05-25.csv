@@ -835,6 +835,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147666,INF846K01S29,,Axis Nifty 100 Index Fund - Direct Plan - Growth Option,22.3175,2026-05-25
 147704,INF247L01999,,Motilal Oswal Large and Midcap Fund - Direct Plan Growth,38.0653,2026-05-25
 147713,INF00XX01564,,ITI Overnight Fund - Direct Plan - Growth Option,1373.2428,2026-05-25
+147725,INF174KA1EX6,INF174KA1EY4,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,36.637,2026-05-25
+147727,INF174KA1EZ1,,Kotak Pioneer Fund- Direct Plan- Growth Option,36.643,2026-05-25
 147731,INF174V01887,,Mahindra Manulife Ultra Short Duration Fund - Direct Plan -Growth,1487.3165,2026-05-25
 147736,INF769K01FG6,,Mirae Asset Overnight Fund Direct Plan Growth,1391.9061,2026-05-25
 147750,INF582M01GA0,,Union Large & Midcap Fund - Direct Plan - Growth Option,27.92,2026-05-25
@@ -1401,6 +1403,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 152449,INF760K01KY8,INF760K01KX0,Canara Robeco Manufacturing Fund - Direct Plan - IDWC Option,13.76,2026-05-25
 152450,INF760K01KZ5,,Canara Robeco Manufacturing Fund - Direct Plan - Growth Option,13.76,2026-05-25
 152459,INF769K01LG4,,Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Direct Plan - Growth,10.111,2026-05-25
+152462,INF174KA1QZ5,,Kotak Technology Fund - Direct Plan - Growth Option,10.015,2026-05-25
 152468,INF879O01266,,Parag Parikh Dynamic Asset Allocation Fund - Direct Plan Growth,11.6585,2026-05-25
 152470,INF251K01TE1,,Baroda BNP Paribas Innovation Fund Direct plan - Growth Option,13.2814,2026-05-25
 152474,INF082J01457,,Quantum Multi Asset Allocation Fund - Direct Plan Growth Option,12.32,2026-05-25
