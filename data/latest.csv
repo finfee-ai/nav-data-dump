@@ -808,6 +808,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 133800,INF178L01AK1,INF178L01AJ3,Kotak Infrastructure & Economic Reform Fund- Direct Plan- Payout of Income Distribution cum capital withdrawal option,79.596,2026-05-26
 149841,INF174KA1IF4,,Kotak Manufacture in India Fund - Direct Plan Growth,21.968,2026-05-26
 152910,INF174KA1TG9,,Kotak MNC Fund-Direct Plan-Growth,12.253,2026-05-26
+147727,INF174KA1EZ1,,Kotak Pioneer Fund- Direct Plan- Growth Option,36.776,2026-05-26
+147725,INF174KA1EX6,INF174KA1EY4,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,36.771,2026-05-26
 151881,INF174KA1OL0,,Kotak Quant Fund - Direct Plan - Growth Option,15.215,2026-05-26
 153970,INF174KA1XW8,,Kotak Rural Opportunities Fund - Direct Plan - Growth,9.701,2026-05-26
 154149,INF174KA1YV8,,Kotak Services Fund - Direct - Growth,10.005,2026-05-26
@@ -1400,6 +1402,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 126353,INF205K01A24,,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - Growth Option,28.446,2026-05-26
 119779,INF174K01LW4,,Kotak Global Emerging Market overseas Equity Omni FOF - Growth - Direct,44.368,2026-05-26
 119778,INF174K01LX2,INF174K01LY0,Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct,44.555,2026-05-26
+149059,INF174KA1HG4,,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,15.3264,2026-05-26
 148646,INF174KA1FO2,,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth,12.3839,2026-05-26
 148649,INF174KA1FN4,INF174KA1FP9,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option,12.3839,2026-05-26
 154287,INF174KA1ZI2,,Kotak Quality Overseas Equity Omni FOF - Direct Plan - Growth-,10.976,2026-05-26
