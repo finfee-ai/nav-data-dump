@@ -135,30 +135,12 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 120137,INF200K01SK7,,SBI CONSTANT MATURITY 10 YEAR GILT FUND - DIRECT PLAN - GROWTH,67.7451,2026-05-27
 150410,INF789F1AVR7,,UTI Gilt Fund with 10 year Constant Duration - Direct Plan - Growth Option,13.0548,2026-05-27
 125345,INF579M01621,,360 ONE LIQUID FUND DIRECT PLAN  GROWTH,2132.9919,2026-05-27
-154051,INF2JJD01029,,Abakkus Liquid Fund - Direct Plan - Growth,102.5281,2026-05-27
 119568,INF209K01VA3,,Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan,449.8655,2026-05-27
 118364,INF194K01I60,,BANDHAN LIQUID Fund -Direct Plan-Growth,3362.9873,2026-05-27
 119125,INF740K01QL4,,DSP Liquidity Fund - Direct Plan - Growth,3982.8101,2026-05-27
-118577,INF090I01JV2,,Franklin India Liquid Fund - Super Institutional - Direct - Growth,4185.2257,2026-05-27
-119135,INF666M01451,,Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option,2700.0268,2026-05-27
-119136,,INF666M01469,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),1002.0907,2026-05-27
-119138,INF666M01501,INF666M01485,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1002.0914,2026-05-27
-119139,INF666M01519,INF666M01493,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1033.2057,2026-05-27
-119137,INF666M01527,INF666M01477,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1002.1106,2026-05-27
-119091,INF179KB1HP9,,HDFC Liquid Fund - Growth Option - Direct Plan,5468.689,2026-05-27
-120038,INF336L01CC8,,HSBC Liquid Fund -  Growth Direct,2774.4586,2026-05-27
 120197,INF109K01Q49,,ICICI Prudential Liquid Fund - Direct Plan - Growth,412.071,2026-05-27
-153651,INF22M001010,,JioBlackRock Liquid Fund - Direct Plan - Growth Option,1055.8689,2026-05-27
-120406,INF192K01CM6,,JM Liquid Fund (Direct) - Growth Option,75.9808,2026-05-27
-148414,,,JM Liquid Fund - Unclaimed Application Refund Amount I.E.F. (Direct) - Growth Plan,41.4437,2026-05-27
-148413,,,JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan,41.4437,2026-05-27
-119764,,INF174K01NH1,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1222.81,2026-05-27
-119766,INF174K01NE8,,Kotak Liquid Fund - Direct Plan - Growth,5625.4838,2026-05-27
 118859,INF769K01CM1,,Mirae Asset Liquid Fund - Direct Plan - Growth,2940.3445,2026-05-27
-118701,INF204K01ZH0,,Nippon India Liquid Fund - Direct Plan Growth Plan - Growth Option,6816.9287,2026-05-27
-138299,INF223J01NS5,,PGIM India Liquid Fund - Direct Plan - Growth,363.3639,2026-05-27
 119800,INF200K01UT4,,SBI Liquid Fund - DIRECT PLAN -Growth,4353.2471,2026-05-27
-149664,INF173K01GU0,,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Direct Plan - Growth Option,2460.5194,2026-05-27
 153887,,INF2F0001073,THE WEALTH COMPANY LIQUID FUND DIRECT DAILY ICDW,1002.0,2026-05-27
 153883,INF2F0001081,,THE WEALTH COMPANY LIQUID FUND DIRECT GROWTH,1039.6596,2026-05-27
 153889,INF2F0001123,INF2F0001115,THE WEALTH COMPANY LIQUID FUND DIRECT WEEKLY,1002.3383,2026-05-27
@@ -267,30 +249,11 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 145486,INF209KB1ZH2,,ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH,1468.2392,2026-05-27
 146191,INF194KB1447,,BANDHAN Overnight Fund - Direct Plan - Growth,1447.862,2026-05-27
 146062,INF740KA1MC8,,DSP Overnight Fund - Direct Plan - Growth,1454.1887,2026-05-27
-147214,INF090I01SS9,,Franklin India Overnight Fund- Growth - Direct,1416.2181,2026-05-27
-147458,,INF666M01GM6,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),1001.4669,2026-05-27
-147452,INF666M01GP9,INF666M01GQ7,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1215.0881,2026-05-27
-147450,INF666M01GL8,,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Growth Option,1398.5633,2026-05-27
-147453,INF666M01GR5,INF666M01GS3,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1004.4753,2026-05-27
-147451,INF666M01GN4,INF666M01GO2,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1002.4952,2026-05-27
-119110,INF179KB1HT1,,HDFC Overnight Fund - Growth Option - Direct Plan,4024.2335,2026-05-27
-147287,INF336L01OF6,,HSBC Overnight Fund - Direct Growth,1420.6767,2026-05-27
 145536,INF109KC11G1,,ICICI Prudential Overnight Fund - Direct Plan - Growth,1462.9148,2026-05-27
 149409,INF109KC17H6,,ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Stable Scheme,1000.0,2026-05-27
 149410,INF109KC15H0,,ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Transitory Scheme,1290.7692,2026-05-27
-153650,INF22M001036,,JioBlackRock Overnight Fund - Direct Plan - Growth Option,1048.2896,2026-05-27
-147837,INF192K01MB8,,JM Overnight Fund - (Direct) - Growth,1375.6305,2026-05-27
-149829,INF192K01MI3,,JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan,1375.6505,2026-05-27
-149826,INF192K01MK9,,JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan,1073.9936,2026-05-27
-146141,INF174KA1BF9,,Kotak Overnight Fund -Direct Plan-Growth Option,1448.4653,2026-05-27
-146140,,INF174KA1BE2,Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option,1003.6055,2026-05-27
 147736,INF769K01FG6,,Mirae Asset Overnight Fund Direct Plan Growth,1392.3013,2026-05-27
-145810,INF204KB1R31,,Nippon India Overnight Fund - Direct Plan - Growth Option,145.8389,2026-05-27
-147606,INF663L01T01,,PGIM India Overnight Fund - Direct Plan - Growth Option,1399.4868,2026-05-27
-150631,INF0K1H01040,,Samco Overnight Fund - Direct Plan - Growth Option,1239.4615,2026-05-27
 119833,INF200K01TK5,,SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH,4414.0139,2026-05-27
-146963,INF903JA1HG5,,Sundaram Overnight Fund Direct Plan - Growth,1441.7967,2026-05-27
-153436,INF0R8F01075,,Zerodha Overnight Fund - Direct Plan - Growth Option,10.6229,2026-05-27
 119498,INF209K01XK8,,Aditya Birla Sun Life Short Term Fund - Growth - Direct Plan,53.8341,2026-05-27
 120510,INF846K01EI1,,Axis Short Duration Fund - Direct Plan - Growth Option,35.3826,2026-05-27
 118407,INF194K01U07,,Bandhan Short Duration Fund - Direct Plan - Growth,64.0177,2026-05-27
@@ -761,6 +724,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 133800,INF178L01AK1,INF178L01AJ3,Kotak Infrastructure & Economic Reform Fund- Direct Plan- Payout of Income Distribution cum capital withdrawal option,80.507,2026-05-27
 149841,INF174KA1IF4,,Kotak Manufacture in India Fund - Direct Plan Growth,22.241,2026-05-27
 152910,INF174KA1TG9,,Kotak MNC Fund-Direct Plan-Growth,12.359,2026-05-27
+147727,INF174KA1EZ1,,Kotak Pioneer Fund- Direct Plan- Growth Option,36.958,2026-05-27
+147725,INF174KA1EX6,INF174KA1EY4,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,36.952,2026-05-27
 151881,INF174KA1OL0,,Kotak Quant Fund - Direct Plan - Growth Option,15.26,2026-05-27
 153970,INF174KA1XW8,,Kotak Rural Opportunities Fund - Direct Plan - Growth,9.719,2026-05-27
 154149,INF174KA1YV8,,Kotak Services Fund - Direct - Growth,10.025,2026-05-27
@@ -1346,6 +1311,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149455,INF109KC1Z55,,ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan Growth,29.9704,2026-05-27
 119779,INF174K01LW4,,Kotak Global Emerging Market overseas Equity Omni FOF - Growth - Direct,45.137,2026-05-27
 119778,INF174K01LX2,INF174K01LY0,Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct,45.328,2026-05-27
+149059,INF174KA1HG4,,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,15.4724,2026-05-27
 154287,INF174KA1ZI2,,Kotak Quality Overseas Equity Omni FOF - Direct Plan - Growth-,11.052,2026-05-27
 148662,INF174KA1FQ7,,Kotak US Specific Equity Passive FOF- Direct Plan - Growth,29.0837,2026-05-27
 150595,INF769K01IQ9,,Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Direct Plan - Growth,19.611,2026-05-27
