@@ -1,4 +1,11 @@
 scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
+119091,INF179KB1HP9,,HDFC Liquid Fund - Growth Option - Direct Plan,5488.4264,2026-06-13
+119110,INF179KB1HT1,,HDFC Overnight Fund - Growth Option - Direct Plan,4033.8869,2026-06-13
+119125,INF740K01QL4,,DSP Liquidity Fund - Direct Plan - Growth,3997.8152,2026-06-13
+119303,INF582M01674,,Union Liquid Fund - Direct Plan - Growth Option,2696.1539,2026-06-13
+119764,,INF174K01NH1,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1223.0234,2026-06-13
+119766,INF174K01NE8,,Kotak Liquid Fund - Direct Plan - Growth,5646.3168,2026-06-13
+120038,INF336L01CC8,,HSBC Liquid Fund -  Growth Direct,2784.5878,2026-06-13
 120249,INF767K01DN1,,LIC MF Liquid Fund-Direct Plan-Growth,5073.5904,2026-06-13
 120304,INF789F01XQ6,,UTI-  Liquid Cash Plan - Direct Plan - Growth Option,4582.7026,2026-06-13
 120406,INF192K01CM6,,JM Liquid Fund (Direct) - Growth Option,76.2435,2026-06-13
@@ -8,6 +15,12 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 140194,INF754K01GY9,,Edelweiss Liquid Fund - Direct Plan - Bonus Option,2102.0851,2026-06-13
 140196,INF754K01GM4,,Edelweiss Liquid Fund - Direct Plan - Growth Option,3613.1896,2026-06-13
 143269,INF879O01068,,Parag Parikh Liquid Fund- Direct Plan- Growth,1545.4876,2026-06-13
+146062,INF740KA1MC8,,DSP Overnight Fund - Direct Plan - Growth,1457.6842,2026-06-13
+146140,,INF174KA1BE2,Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option,1003.7466,2026-06-13
+146141,INF174KA1BF9,,Kotak Overnight Fund -Direct Plan-Growth Option,1451.95,2026-06-13
+146963,INF903JA1HG5,,Sundaram Overnight Fund Direct Plan - Growth,1445.2522,2026-06-13
+147003,INF582M01FA2,,Union Overnight Fund - Direct Plan - Growth Option,1432.5119,2026-06-13
+147287,INF336L01OF6,,HSBC Overnight Fund - Direct Growth,1424.0742,2026-06-13
 147515,INF767K01QI3,,LIC MF Overnight Fund-Direct Plan-Growth,1410.6662,2026-06-13
 147564,INF174V01838,,Mahindra Manulife Overnight Fund - Direct Plan -Growth,1408.4457,2026-06-13
 147570,INF754K01JV9,,Edelweiss Overnight Fund - Direct Plan - Growth,1407.6388,2026-06-13
@@ -19,8 +32,13 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148839,INF0GCD01305,INF0GCD01297,TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal,1210.7914,2026-06-13
 148841,INF0GCD01255,,TRUSTMF Liquid Fund-Direct Plan-Growth,1352.8164,2026-06-13
 148842,,INF0GCD01263,TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal,1281.6015,2026-06-13
+149664,INF173K01GU0,,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Direct Plan - Growth Option,2469.2392,2026-06-13
 149797,INF0GCD01453,,TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH,1286.6251,2026-06-13
 149826,INF192K01MK9,,JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan,1073.9936,2026-06-13
 149829,INF192K01MI3,,JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan,1378.828,2026-06-13
+153035,INF680P01430,,Shriram Liquid Fund - Direct Plan Growth Option,1103.8622,2026-06-13
+153436,INF0R8F01075,,Zerodha Overnight Fund - Direct Plan - Growth Option,10.6479,2026-06-13
 153570,INF1MIY01056,,Unifi Liquid Fund- Direct Growth,1061.2423,2026-06-13
+153585,INF174KA1WL3,INF174KA1WJ7,Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,1001.5168,2026-06-13
 154011,INF226401034,,Capitalmind Liquid Fund - Direct-Growth,1036.369,2026-06-13
+154394,INF680P01497,,Shriram Overnight Fund- Direct Growth,1256.6438,2026-06-13
