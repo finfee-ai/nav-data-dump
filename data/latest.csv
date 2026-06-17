@@ -811,6 +811,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 133800,INF178L01AK1,INF178L01AJ3,Kotak Infrastructure & Economic Reform Fund- Direct Plan- Payout of Income Distribution cum capital withdrawal option,80.669,2026-06-16
 149841,INF174KA1IF4,,Kotak Manufacture in India Fund - Direct Plan Growth,22.214,2026-06-16
 152910,INF174KA1TG9,,Kotak MNC Fund-Direct Plan-Growth,12.411,2026-06-16
+147727,INF174KA1EZ1,,Kotak Pioneer Fund- Direct Plan- Growth Option,37.089,2026-06-16
+147725,INF174KA1EX6,INF174KA1EY4,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,37.083,2026-06-16
 151881,INF174KA1OL0,,Kotak Quant Fund - Direct Plan - Growth Option,15.108,2026-06-16
 153970,INF174KA1XW8,,Kotak Rural Opportunities Fund - Direct Plan - Growth,9.576,2026-06-16
 154149,INF174KA1YV8,,Kotak Services Fund - Direct - Growth,10.235,2026-06-16
@@ -1249,6 +1251,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 153552,INF251K01UO8,,Baroda BNP Paribas Multi Asset Active FOF Direct Growth,11.3421,2026-06-16
 152183,INF740KA1TK6,,DSP Gold ETF Fund of Fund - Direct - Growth,23.6403,2026-06-16
 130493,INF740K01Z50,,DSP Income Plus Arbitrage Omni FoF - Direct Plan - Growth,23.6115,2026-06-16
+154167,INF740KA1YE9,,DSP Multi Asset Omni Fund of Funds - Direct - Growth,9.944,2026-06-16
 153487,INF740KA1VZ0,,DSP Silver ETF Fund of Fund - Direct - Growth,25.7072,2026-06-16
 149401,INF754K01NY5,,BHARAT Bond ETF FOF - April 2032 Direct Growth,13.2753,2026-06-16
 150989,INF754K01RC2,,BHARAT Bond ETF FOF - April 2033 - Direct Plan - Growth,12.9337,2026-06-16
@@ -1283,10 +1286,14 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154295,INF336L01SB6,,HSBC Gold ETF Fund of fund - Direct Growth,10.2677,2026-06-16
 129197,INF336L01IP7,,HSBC Income Plus Arbitrage Active FOF - Growth Direct,23.8798,2026-06-16
 129193,INF336L01IJ0,,HSBC Multi Asset Active FOF - Growth Direct,43.6257,2026-06-16
+120700,INF109K01X40,,ICICI Prudential Aggressive Hybrid Active FOF - Direct Plan - Growth,238.6239,2026-06-16
 143903,INF109KC1FX1,,ICICI Prudential BHARAT 22 FOF - Direct Plan Cumulative Option,35.1054,2026-06-16
 149331,INF109KC1V91,,ICICI Prudential BSE 500 ETF FOF - Direct Plan - Growth,15.7628,2026-06-16
 120702,INF109K01X73,,ICICI Prudential Diversified Debt Strategy Active FOF  - Direct Plan - Growth,49.192,2026-06-16
 154266,INF109K1A468,,ICICI Prudential Diversified Equity All Cap Active FOF - Direct Plan - Growth,10.6746,2026-06-16
+148035,INF109KC1I49,,ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - Growth,32.1609,2026-06-16
+120679,INF109K01X16,,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - Growth,137.402,2026-06-16
+147648,INF109KC1F34,,ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option,22.8345,2026-06-16
 120685,INF109K01U92,,ICICI Prudential Gold ETF FOF - Direct Plan - Growth,48.0146,2026-06-16
 120313,INF109K01W82,,ICICI Prudential Income plus Arbitrage Omni FOF - Direct Plan - Growth,71.0124,2026-06-16
 120242,INF109K01W58,,ICICI Prudential Multi Sector Passive FOF - Direct Plan - Growth,176.0515,2026-06-16
@@ -1387,6 +1394,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148063,INF754K01LB7,,Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth,43.0981,2026-06-16
 140274,INF843K01EC1,,Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option,47.5456,2026-06-16
 118551,INF090I01JR0,,Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth,105.4261,2026-06-16
+149180,INF179KC1BO4,,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,21.428,2026-06-16
 120035,INF336L01BY4,,HSBC Brazil Fund - Growth Direct,10.9,2026-06-16
 120043,INF336L01CJ3,,HSBC Global Emerging Market Fund - Growth Direct,39.8038,2026-06-16
 123654,INF109KA1CE0,,ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth,34.62,2026-06-16
@@ -1397,6 +1405,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 126353,INF205K01A24,,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - Growth Option,28.6129,2026-06-16
 119779,INF174K01LW4,,Kotak Global Emerging Market overseas Equity Omni FOF - Growth - Direct,45.445,2026-06-16
 119778,INF174K01LX2,INF174K01LY0,Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct,45.636,2026-06-16
+149059,INF174KA1HG4,,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,15.4966,2026-06-16
 148646,INF174KA1FO2,,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth,12.3835,2026-06-16
 148649,INF174KA1FN4,INF174KA1FP9,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option,12.3834,2026-06-16
 154287,INF174KA1ZI2,,Kotak Quality Overseas Equity Omni FOF - Direct Plan - Growth-,10.923,2026-06-16
