@@ -845,6 +845,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147666,INF846K01S29,,Axis Nifty 100 Index Fund - Direct Plan - Growth Option,22.2876,2026-06-23
 147704,INF247L01999,,Motilal Oswal Large and Midcap Fund - Direct Plan Growth,39.4705,2026-06-23
 147713,INF00XX01564,,ITI Overnight Fund - Direct Plan - Growth Option,1378.6089,2026-06-23
+147725,INF174KA1EX6,INF174KA1EY4,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,37.481,2026-06-23
+147727,INF174KA1EZ1,,Kotak Pioneer Fund- Direct Plan- Growth Option,37.487,2026-06-23
 147731,INF174V01887,,Mahindra Manulife Ultra Short Duration Fund - Direct Plan -Growth,1499.3711,2026-06-23
 147736,INF769K01FG6,,Mirae Asset Overnight Fund Direct Plan Growth,1397.6124,2026-06-23
 147750,INF582M01GA0,,Union Large & Midcap Fund - Direct Plan - Growth Option,28.49,2026-06-23
@@ -970,6 +972,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149039,INF959L01FP2,,Navi Nifty 50 Index Fund-Direct Plan-Growth,15.6921,2026-06-23
 149043,INF200KA1X41,,SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Direct Plan - Growth,13.5078,2026-06-23
 149049,INF846K014A6,,Axis Floater Fund - Direct Plan - Growth,1403.0713,2026-06-23
+149059,INF174KA1HG4,,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,15.2345,2026-06-23
 149062,INF209KB16A3,,Aditya Birla Sun Life Fixed Term Plan - Series TJ (1838 days) - Direct Plan - Growth Option,13.5699,2026-06-23
 149071,INF277KA1166,,Tata Business Cycle Fund-Direct Plan-Growth,20.5036,2026-06-23
 149076,INF0GCD01370,,TRUSTMF Short Duration Fund-Direct Plan-Growth,1345.0771,2026-06-23
