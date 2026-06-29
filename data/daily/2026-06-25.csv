@@ -3,7 +3,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 103734,INF082J01127,,Quantum Liquid Fund - Direct Plan Growth Option,37.2519,2026-06-25
 111549,INF082J01069,,Quantum ELSS Tax Saver Fund - Direct Plan Growth Option,124.63,2026-06-25
 112039,INF082J01093,,Quantum Diversified Equity All Cap Active FOF - Direct Plan Growth Option,85.429,2026-06-25
-115132,INF082J01150,,Quantum Gold Savings Fund - Direct Plan Growth Option,53.1863,2026-06-25
+115132,INF082J01150,,Quantum Gold ETF FOF - Direct Plan Growth Option,53.1863,2026-06-25
 117608,INF082J01168,,Quantum Multi Asset Active FOF - Direct Plan Growth Option,36.7707,2026-06-25
 118267,INF760K01FO9,,CANARA ROBECO INFRASTRUCTURE FUND - DIRECT PLAN - GROWTH OPTION,194.47,2026-06-25
 118269,INF760K01FR2,,CANARA ROBECO LARGE CAP FUND - DIRECT PLAN - GROWTH OPTION,71.41,2026-06-25
@@ -258,6 +258,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 119595,INF903J01NH5,,Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund Direct Plan - Growth),99.6197,2026-06-25
 119597,INF903J01NB8,,Sundaram Financial Services Opportunities Fund Direct Plan - Growth,124.2029,2026-06-25
 119598,INF200K01QX4,,SBI Large Cap FUND-DIRECT PLAN -GROWTH,105.2202,2026-06-25
+119602,INF903J01OB6,,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,45.4382,2026-06-25
 119605,INF209K01XP7,,Aditya Birla Sun Life Government Securities Fund - Growth - Direct Plan,88.9373,2026-06-25
 119609,INF200K01RY0,,SBI EQUITY HYBRID FUND - DIRECT PLAN - Growth,347.7312,2026-06-25
 119620,INF209K01Q30,,Aditya Birla Sun Life Midcap Fund - Growth - Direct Plan,933.64,2026-06-25
@@ -597,7 +598,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 134017,INF767K01NK6,,LIC MF Banking and Financial Services Fund-Direct Plan-Growth,24.5373,2026-06-25
 134387,INF209KA1K88,,Aditya Birla Sun Life Credit Risk Fund - Direct Plan - Growth,27.6663,2026-06-25
 134388,INF209KA1L12,,Aditya Birla Sun Life Credit Risk Fund - Direct Plan - Bonus,27.6651,2026-06-25
-134494,INF082J01176,,Quantum Dynamic Bond Fund - Direct Plan Growth Option,22.7719,2026-06-25
+134494,INF082J01176,,Quantum Dynamic Term Fund - Direct Plan Growth Option,22.7719,2026-06-25
 134503,INF789FB1KE6,,UTI Medium Duration Fund - Direct Plan - Growth Option,20.6179,2026-06-25
 134547,INF204KA1U53,,Nippon India Banking and PSU  Fund- Direct Plan-Growth Plan- Growth Option,22.7692,2026-06-25
 134552,INF204KA1U61,,Nippon India Banking and PSU Fund- Direct Plan-Growth Plan- Bonus Option,22.7685,2026-06-25
@@ -1011,6 +1012,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149166,INF846K010C0,,Axis Value Fund - Direct Plan - Growth,20.58,2026-06-25
 149170,INF769K01HR9,,Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth,27.272,2026-06-25
 149174,INF200KA1Z64,,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth,13.2695,2026-06-25
+149180,INF179KC1BO4,,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,20.996,2026-06-25
 149185,INF174KA1HV3,,Kotak Multicap Fund-Direct Plan-Growth,21.38,2026-06-25
 149190,INF740KA1QH8,,DSP FMP Series - 264 - 60M - 17D - Direct - Growth,13.2967,2026-06-25
 149195,INF200KA10A7,,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Growth,13.2596,2026-06-25
@@ -1144,7 +1146,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 150369,INF0J8L01081,,NJ Overnight Fund - Direct Plan - Growth Option,1261.3648,2026-06-25
 150376,INF754K01OP1,,Edelweiss Focused Fund - Direct Plan - Growth,17.579,2026-06-25
 150387,INF251K01QZ2,,Baroda BNP Paribas Flexi Cap Fund - Direct Plan - Growth Option,16.5035,2026-06-25
-150390,INF082J01416,,Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth,14.312,2026-06-25
+150390,INF082J01416,,Quantum Nifty 50 ETF FOF - Direct Plan - Growth,14.312,2026-06-25
 150392,INF767K01RE0,,LIC MF Money Market Fund-Direct Plan-Growth,1282.7125,2026-06-25
 150404,INF194KB1DJ2,,BANDHAN MIDCAP FUND - GROWTH - DIRECT PLAN,19.649,2026-06-25
 150407,INF582M01HW2,,Union Gilt Fund - Direct Plan - Growth Option,12.5665,2026-06-25
