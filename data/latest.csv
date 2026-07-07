@@ -309,7 +309,6 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147453,INF666M01GR5,INF666M01GS3,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1002.0747,2026-07-06
 147451,INF666M01GN4,INF666M01GO2,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1002.2543,2026-07-06
 119110,INF179KB1HT1,,HDFC Overnight Fund - Growth Option - Direct Plan,4046.9804,2026-07-06
-152152,INF0R8701079,,Helios Overnight Fund - Direct Plan - Growth Option,1170.6629,2026-07-06
 147287,INF336L01OF6,,HSBC Overnight Fund - Direct Growth,1428.7382,2026-07-06
 145536,INF109KC11G1,,ICICI Prudential Overnight Fund - Direct Plan - Growth,1471.2038,2026-07-06
 149409,INF109KC17H6,,ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Stable Scheme,1000.0,2026-07-06
@@ -1134,7 +1133,6 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 118615,INF754K01BS2,,Edelweiss Balanced Advantage Fund -Direct Plan-Growth Option,60.53,2026-07-06
 150481,INF090I01WQ5,,Franklin India Balanced Advantage Fund- Growth- Direct,15.4974,2026-07-06
 118968,INF179K01WA6,,HDFC Balanced Advantage Fund - Growth Plan - Direct Plan,572.924,2026-07-06
-152509,INF0R8701145,,Helios Balanced Advantage Fund- Direct Plan- Growth Option,12.04,2026-07-06
 151129,INF917K01IN1,,HSBC Balanced Advantage Fund - Direct Growth,51.6461,2026-07-06
 120377,INF109K012B0,,ICICI Prudential Balanced Advantage Fund - Direct Plan -  Growth,88.02,2026-07-06
 120333,INF205K01LN5,,Invesco India Balanced Advantage Fund - Direct Plan - Growth,63.4,2026-07-06
@@ -1225,7 +1223,9 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 152787,INF582M01JY4,,Union Multi Asset Allocation Fund- Direct Plan - Growth Option,12.48,2026-07-06
 120760,INF789F01VE6,,UTI Multi Asset Allocation Fund - Direct Plan - Growth Option,88.3592,2026-07-06
 151745,INF03VN01761,,WhiteOak Capital Multi Asset Allocation Fund Direct Plan Growth,16.458,2026-07-06
+152509,INF0R8701145,,Helios Balanced Advantage Fund- Direct Plan- Growth Option,12.04,2026-07-06
 154413,,,Choice Overnight Fund - Growth Option - Direct Plan,100.048,2026-07-06
+152152,INF0R8701079,,Helios Overnight Fund - Direct Plan - Growth Option,1170.6629,2026-07-06
 153736,INF209KC1589,,Aditya Birla Sun Life BSE 500 Momentum 50 Index Fund-Direct Growth,10.6936,2026-07-06
 153740,INF209KC1613,,Aditya Birla Sun Life BSE 500 Quality 50 Index Fund - Direct Growth,10.8144,2026-07-06
 153081,INF209KC1332,,Aditya Birla Sun Life BSE India Infrastructure Index Fund-Direct Growth,9.6353,2026-07-06
@@ -1429,6 +1429,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 138528,INF223J01NF2,,PGIM India Global Equity Opportunities Fund of Fund- Direct Plan - Growth,61.3,2026-07-06
 149298,INF663L01W63,,PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option,14.04,2026-07-06
 148760,INF200KA1U28,,SBI US Specific Equity Active FoF - Direct Plan - Growth,25.2766,2026-07-06
+119602,INF903J01OB6,,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,47.4241,2026-07-06
 150702,INF209KB14N1,,Aditya Birla Sun Life Crisil IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund-Direct Growth,13.2632,2026-07-06
 150353,INF209KB19H2,,Aditya Birla Sun Life Crisil IBX 60:40 SDL+AAA PSU-Apr 2027 Index Fund-Direct Growth,13.0435,2026-07-06
 150778,INF209KB12O3,,Aditya Birla Sun Life Crisil IBX Gilt-Apr-2029 Index Fund-Direct Growth,13.3911,2026-07-06
