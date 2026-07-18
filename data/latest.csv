@@ -129,30 +129,6 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 131061,INF109KA1O37,,ICICI Prudential Constant Maturity Gilt Fund - Direct Plan - Growth,26.7037,2026-07-17
 120137,INF200K01SK7,,SBI CONSTANT MATURITY 10 YEAR GILT FUND - DIRECT PLAN - GROWTH,69.5613,2026-07-17
 150410,INF789F1AVR7,,UTI Gilt Fund with 10 year Constant Duration - Direct Plan - Growth Option,13.4022,2026-07-17
-125345,INF579M01621,,360 ONE LIQUID FUND DIRECT PLAN  GROWTH,2152.9621,2026-07-17
-119568,INF209K01VA3,,Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan,454.5656,2026-07-17
-120389,INF846K01CX4,,Axis Liquid Fund - Direct Plan - Growth Option,3130.2932,2026-07-17
-118364,INF194K01I60,,BANDHAN LIQUID Fund -Direct Plan-Growth,3397.0159,2026-07-17
-118305,INF760K01FU6,,CANARA ROBECO LIQUID FUND - DIRECT PLAN - GROWTH OPTION,3371.4395,2026-07-17
-119125,INF740K01QL4,,DSP Liquidity Fund - Direct Plan - Growth,4023.8756,2026-07-17
-118577,INF090I01JV2,,Franklin India Liquid Fund - Super Institutional - Direct - Growth,4229.5141,2026-07-17
-120197,INF109K01Q49,,ICICI Prudential Liquid Fund - Direct Plan - Growth,416.2725,2026-07-17
-120537,INF205K01MF9,,Invesco India Liquid Fund - Direct Plan - Growth,3860.8282,2026-07-17
-147157,INF00XX01283,,ITI Liquid Fund - Direct Plan - Growth Option,1460.4818,2026-07-17
-153651,INF22M001010,,JioBlackRock Liquid Fund - Direct Plan - Growth Option,1066.8353,2026-07-17
-120406,INF192K01CM6,,JM Liquid Fund (Direct) - Growth Option,76.735,2026-07-17
-148414,,,JM Liquid Fund - Unclaimed Application Refund Amount I.E.F. (Direct) - Growth Plan,41.4437,2026-07-17
-148413,,,JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan,41.4437,2026-07-17
-119764,,INF174K01NH1,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1222.81,2026-07-17
-119766,INF174K01NE8,,Kotak Liquid Fund - Direct Plan - Growth,5683.4564,2026-07-17
-153585,INF174KA1WL3,INF174KA1WJ7,Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,1008.1037,2026-07-17
-118859,INF769K01CM1,,Mirae Asset Liquid Fund - Direct Plan - Growth,2969.4301,2026-07-17
-120837,INF966L01820,,quant Liquid Fund - Growth Option - Direct Plan,45.055,2026-07-17
-119800,INF200K01UT4,,SBI Liquid Fund - DIRECT PLAN -Growth,4397.4521,2026-07-17
-149664,INF173K01GU0,,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Direct Plan - Growth Option,2487.6928,2026-07-17
-153887,,INF2F0001073,THE WEALTH COMPANY LIQUID FUND DIRECT DAILY ICDW,1002.0036,2026-07-17
-153883,INF2F0001081,,THE WEALTH COMPANY LIQUID FUND DIRECT GROWTH,1050.3438,2026-07-17
-153889,INF2F0001123,INF2F0001115,THE WEALTH COMPANY LIQUID FUND DIRECT WEEKLY,1002.6487,2026-07-17
 150484,INF209KB17J2,,Aditya Birla Sun Life Long Duration Fund-Direct Growth,13.4711,2026-07-17
 151179,INF846K014L3,,Axis Long Duration Fund - Direct Plan - Growth,1272.1564,2026-07-17
 152520,INF194KB1HY2,,Bandhan Long Duration Fund - Direct Plan - Growth,11.5116,2026-07-17
@@ -252,31 +228,6 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 150513,INF0GCD01503,,TRUSTMF MONEY MARKET FUND-DIRECT PLAN-GROWTH,1308.3477,2026-07-17
 149117,INF582M01HG5,,Union Money Market Fund - Direct Plan -  Growth Option,1355.0727,2026-07-17
 120299,INF789F01XV6,,UTI MMF - Direct Plan - Growth Option,3336.6399,2026-07-17
-153703,INF579M01BG4,,360 ONE Overnight Fund - Direct Plan - Growth,1055.2361,2026-07-17
-145486,INF209KB1ZH2,,ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH,1478.9094,2026-07-17
-146675,INF846K01N65,,Axis Overnight Fund - Direct Plan - Growth Option,1447.5387,2026-07-17
-146191,INF194KB1447,,BANDHAN Overnight Fund - Direct Plan - Growth,1458.3305,2026-07-17
-147531,INF760K01JM5,,CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - GROWTH OPTION,1411.3938,2026-07-17
-146062,INF740KA1MC8,,DSP Overnight Fund - Direct Plan - Growth,1464.7151,2026-07-17
-147214,INF090I01SS9,,Franklin India Overnight Fund- Growth - Direct,1426.5975,2026-07-17
-145536,INF109KC11G1,,ICICI Prudential Overnight Fund - Direct Plan - Growth,1473.4932,2026-07-17
-149409,INF109KC17H6,,ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Stable Scheme,1000.0,2026-07-17
-149410,INF109KC15H0,,ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Transitory Scheme,1300.1025,2026-07-17
-147883,INF205KA1163,,Invesco India Overnight Fund - Direct Plan - Growth,1381.6305,2026-07-17
-147713,INF00XX01564,,ITI Overnight Fund - Direct Plan - Growth Option,1383.0553,2026-07-17
-153650,INF22M001036,,JioBlackRock Overnight Fund - Direct Plan - Growth Option,1055.8665,2026-07-17
-147837,INF192K01MB8,,JM Overnight Fund - (Direct) - Growth,1385.3079,2026-07-17
-149829,INF192K01MI3,,JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan,1385.3282,2026-07-17
-149826,INF192K01MK9,,JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan,1073.9936,2026-07-17
-146141,INF174KA1BF9,,Kotak Overnight Fund -Direct Plan-Growth Option,1458.9792,2026-07-17
-146140,,INF174KA1BE2,Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option,1003.6055,2026-07-17
-147736,INF769K01FG6,,Mirae Asset Overnight Fund Direct Plan Growth,1402.3618,2026-07-17
-150369,INF0J8L01081,,NJ Overnight Fund - Direct Plan - Growth Option,1265.4067,2026-07-17
-151190,INF966L01AZ7,,quant Overnight Fund - Growth Option - Direct Plan,12.4924,2026-07-17
-150631,INF0K1H01040,,Samco Overnight Fund - Direct Plan - Growth Option,1248.1788,2026-07-17
-119833,INF200K01TK5,,SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH,4445.8548,2026-07-17
-146963,INF903JA1HG5,,Sundaram Overnight Fund Direct Plan - Growth,1452.2581,2026-07-17
-153436,INF0R8F01075,,Zerodha Overnight Fund - Direct Plan - Growth Option,10.6984,2026-07-17
 119498,INF209K01XK8,,Aditya Birla Sun Life Short Term Fund - Growth - Direct Plan,54.9595,2026-07-17
 120510,INF846K01EI1,,Axis Short Duration Fund - Direct Plan - Growth Option,36.0672,2026-07-17
 118407,INF194K01U07,,Bandhan Short Duration Fund - Direct Plan - Growth,65.406,2026-07-17
