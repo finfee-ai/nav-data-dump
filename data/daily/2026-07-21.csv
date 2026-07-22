@@ -304,6 +304,10 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 119772,INF174K01LJ1,,Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct,58.224,2026-07-21
 119773,INF174K01LI3,,Kotak ELSS Tax Saver Fund-Growth - Direct,138.995,2026-07-21
 119775,INF174K01LT0,,Kotak Midcap Fund - Direct Plan - Growth,172.431,2026-07-21
+119776,INF174K01LO1,INF174K01LP8,Kotak Multi Asset Omni FOF - Direct Payout of Income Distribution cum capital withdrawal option,272.068,2026-07-21
+119777,INF174K01LN3,,Kotak Multi Asset Omni FOF - Direct Growth - Direct,277.052,2026-07-21
+119778,INF174K01LX2,INF174K01LY0,Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct,42.3,2026-07-21
+119779,INF174K01LW4,,Kotak Global Emerging Market overseas Equity Omni FOF - Growth - Direct,42.122,2026-07-21
 119780,INF174K01MQ4,INF174K01MR2,Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option- Direct,57.5011,2026-07-21
 119781,INF174K01MP6,,Kotak Gold Fund Growth - Direct,57.5016,2026-07-21
 119783,INF200K01UP2,,SBI HEALTHCARE OPPORTUNITIES FUND - DIRECT PLAN -GROWTH,588.6244,2026-07-21
@@ -342,6 +346,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 120164,INF174K01KT2,,Kotak-Small Cap Fund - Growth - Direct,320.365,2026-07-21
 120165,INF174K01LQ6,INF174K01LR4,Kotak Flexicap Fund - Payout of Income Distribution cum capital withdrawal option- Direct,59.759,2026-07-21
 120166,INF174K01LS2,,Kotak Flexicap Fund - Growth - Direct,97.851,2026-07-21
+120186,INF109K01Z71,,ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth,85.54,2026-07-21
 120197,INF109K01Q49,,ICICI Prudential Liquid Fund - Direct Plan - Growth,416.5222,2026-07-21
 120211,INF109K01R14,,ICICI Prudential Money Market Fund Option - Direct Plan -  Growth,410.8893,2026-07-21
 120242,INF109K01W58,,ICICI Prudential Multi Sector Passive FOF - Direct Plan - Growth,178.199,2026-07-21
@@ -444,12 +449,14 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 120670,INF109K015A5,,ICICI Prudential Medium Term Bond Fund - Direct Plan - Growth,53.3633,2026-07-21
 120674,INF789F01SK9,,UTI Aggressive Hybrid Fund -Direct Plan - Growth,442.1923,2026-07-21
 120676,INF109K01T04,,ICICI Prudential Ultra Short Term Fund - Direct Plan -  Growth,32.0939,2026-07-21
+120679,INF109K01X16,,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - Growth,139.397,2026-07-21
 120682,INF789F01UD0,,UTI - MNC Fund - Growth Option - Direct,447.0186,2026-07-21
 120684,INF109K01Y80,,ICICI Prudential Nifty Next 50 Index Fund - Direct Plan -  Growth,67.5863,2026-07-21
 120685,INF109K01U92,,ICICI Prudential Gold ETF FOF - Direct Plan - Growth,45.577,2026-07-21
 120688,INF109K01W25,,ICICI Prudential Exports & Services Fund - Direct Plan - Growth,184.33,2026-07-21
 120689,INF789F01SQ6,,UTI Medium to Long Duration Fund-Growth - Direct,83.244,2026-07-21
 120692,INF109K016B1,,ICICI Prudential Corporate Bond Fund - Direct Plan - Growth,33.4036,2026-07-21
+120700,INF109K01X40,,ICICI Prudential Aggressive Hybrid Active FOF - Direct Plan - Growth,243.8295,2026-07-21
 120702,INF109K01X73,,ICICI Prudential Diversified Debt Strategy Active FOF  - Direct Plan - Growth,49.7125,2026-07-21
 120705,INF209K01XH4,,Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Direct Plan,79.2227,2026-07-21
 120711,INF109K01V00,,ICICI Prudential Credit Risk Fund - Direct Plan - Growth,38.3039,2026-07-21
@@ -497,6 +504,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 122646,INF209K01UX7,,Aditya Birla Sun Life Floating Rate Fund-Direct Plan-Growth,382.0777,2026-07-21
 122715,INF579M01266,,360 ONE Dynamic Bond Fund Direct Plan Growth,25.519,2026-07-21
 123646,INF789F01VW8,,UTI Annual Interval Fund - I - Direct Plan - Growth Option,36.7257,2026-07-21
+123654,INF109KA1CE0,,ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth,35.76,2026-07-21
 123692,INF174K01KK1,INF174K01KL9,Kotak Banking and PSU Debt Direct - Monthly Payout of Income Distribution cum capital withdrawal option,10.2503,2026-07-21
 123693,INF174K01KH7,,Kotak Banking and PSU Debt Direct - Growth,72.5876,2026-07-21
 123704,INF666M01AC0,,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option,2543.028,2026-07-21
@@ -630,7 +638,10 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 138330,INF223J01OO2,,PGIM India Corporate Bond Fund - Direct Plan - Growth,50.9496,2026-07-21
 138358,INF223J01QO7,,PGIM India Ultra Short Duration Fund - Direct Plan - Growth,37.9935,2026-07-21
 138376,INF223J01QD0,,PGIM India Equity Savings Fund - Direct Plan - Growth,58.2559,2026-07-21
+138386,INF663L01GX2,,PGIM India Aggressive Hybrid Equity Fund - Direct Plan - Growth,158.02,2026-07-21
+138456,INF223J01NL0,,PGIM India Emerging Markets Equity Fund of Fund - Direct Plan - Growth,25.41,2026-07-21
 138472,INF223J01ND7,,PGIM India Gilt Fund - Direct Plan - Growth,33.5955,2026-07-21
+138528,INF223J01NF2,,PGIM India Global Equity Opportunities Fund of Fund- Direct Plan - Growth,59.13,2026-07-21
 138875,INF223J013N7,,PGIM India Arbitrage Fund - Direct Plan - Growth,20.9416,2026-07-21
 139527,INF761K01DM6,,BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - DIRECT PLAN GROWTH,46.46,2026-07-21
 139538,INF174V01044,,Mahindra Manulife Liquid Fund - Direct Plan -Growth,1833.1863,2026-07-21
@@ -643,8 +654,13 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 140196,INF754K01GM4,,Edelweiss Liquid Fund - Direct Plan - Growth Option,3639.2054,2026-07-21
 140228,INF843K01AO4,,Edelweiss Mid Cap Fund - Direct Plan - Growth Option,128.64,2026-07-21
 140237,INF843K01CE1,,Edelweiss Money Market Fund - Direct Plan - Growth Option,33.5317,2026-07-21
+140243,INF843K01AU1,,Edelweiss Greater China Equity Off-shore Fund - Direct Plan - Growth Option,72.201,2026-07-21
+140256,INF843K01AW7,,Edelweiss ASEAN Equity Off-shore Fund - Direct Plan - Growth Option,42.474,2026-07-21
+140274,INF843K01EC1,,Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option,48.7459,2026-07-21
 140286,INF843K01FC8,,Edelweiss Banking and PSU Debt Fund - Direct Plan - Growth Option,26.8893,2026-07-21
+140296,INF843K01GI3,,Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Direct Plan,34.5938,2026-07-21
 140298,INF843K01GS2,,Edelweiss Government Securities Fund - Direct Plan - Growth Option,26.8352,2026-07-21
+140327,INF843K01IZ3,,Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Direct Plan - Growth Option,30.6972,2026-07-21
 140347,INF843K01KC8,,Edelweiss Equity Savings Fund - Direct Plan - Growth Option,30.1498,2026-07-21
 140350,INF843K01KD6,,Edelweiss Equity Savings Fund - Direct Plan - Bonus Option,30.163,2026-07-21
 140353,INF843K01KK1,,Edelweiss Flexi Cap Fund - Direct Plan - Growth Option,45.648,2026-07-21
@@ -834,6 +850,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147622,INF247L01916,,Motilal Oswal Nifty Midcap 150 Index Fund - Direct Plan,42.0217,2026-07-21
 147623,INF247L01932,,Motilal Oswal Nifty Smallcap 250 Index Fund- Direct Plan,40.5311,2026-07-21
 147625,INF247L01957,,Motilal Oswal Nifty 500 Index Fund - Direct Plan,27.2564,2026-07-21
+147648,INF109KC1F34,,ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option,22.8467,2026-07-21
 147662,INF109KC1F91,,ICICI Prudential Commodities Fund - Direct Plan - Growth Option,51.19,2026-07-21
 147666,INF846K01S29,,Axis Nifty 100 Index Fund - Direct Plan - Growth Option,22.6246,2026-07-21
 147704,INF247L01999,,Motilal Oswal Large and Midcap Fund - Direct Plan Growth,39.6125,2026-07-21
@@ -854,6 +871,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147837,INF192K01MB8,,JM Overnight Fund - (Direct) - Growth,1386.0649,2026-07-21
 147840,INF174V01945,,Mahindra Manulife Large & Mid Cap Fund - Direct Plan -Growth,30.9249,2026-07-21
 147844,INF209KB1O82,,Aditya Birla Sun Life PSU Equity Fund-Direct Plan-Growth,40.15,2026-07-21
+147857,INF754K01KY1,,Bharat Bond FOF - April 2030 - Direct Plan - Growth Option,15.9864,2026-07-21
 147883,INF205KA1163,,Invesco India Overnight Fund - Direct Plan - Growth,1382.4222,2026-07-21
 147889,INF846K01U09,,Axis Income Plus Arbitrage Active FOF - Direct Plan - Growth Option,15.6367,2026-07-21
 147908,INF336L01OR1,,HSBC Ultra Short Duration Fund - Direct Growth,1467.1657,2026-07-21
@@ -861,7 +879,9 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147928,INF846K01W23,,Axis ESG Integration Strategy Fund - Direct Plan - Growth Option,22.75,2026-07-21
 147946,INF194KB1AL4,,BANDHAN SMALL CAP FUND - DIRECT PLAN GROWTH,55.877,2026-07-21
 147951,INF761K01EU7,,BANK OF INDIA Overnight Fund Direct Plan Growth,1391.903,2026-07-21
+148035,INF109KC1I49,,ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - Growth,33.1324,2026-07-21
 148053,INF277K019Y3,,Tata Multi Asset Allocation Fund-Direct Plan-Growth,28.2757,2026-07-21
+148063,INF754K01LB7,,Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth,40.2048,2026-07-21
 148073,INF582M01GI3,,Union Midcap Fund - Direct Plan - Growth Option,56.87,2026-07-21
 148161,INF663L01T84,,PGIM India Money Market Fund - Direct Plan - Growth Option,1460.1069,2026-07-21
 148353,INF00XX01804,,ITI Large Cap Fund - Direct Plan - Growth Option,19.3635,2026-07-21
@@ -873,6 +893,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148413,,,JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan,41.4437,2026-07-21
 148414,,,JM Liquid Fund - Unclaimed Application Refund Amount I.E.F. (Direct) - Growth Plan,41.4437,2026-07-21
 148419,INF769K01FY9,,Mirae Asset Banking and PSU Fund - Direct Plan - Growth,13.9695,2026-07-21
+148450,INF754K01LO0,,BHARAT Bond FOF- April 2031- Direct Plan- Growth Option,14.4075,2026-07-21
 148457,INF204KB19V4,,Nippon India Multi Asset Allocation Fund - Direct Plan - Growth Option,26.7425,2026-07-21
 148468,INF174V01AA0,,Mahindra Manulife Arbitrage Fund - Direct Plan -Growth,13.6765,2026-07-21
 148474,INF955L01JU2,,Baroda BNP Paribas Large and Mid Cap Fund- Direct Plan -Growth Option,30.0353,2026-07-21
@@ -887,6 +908,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148534,INF00XX01861,,ITI Banking & PSU Debt Fund - Direct Plan - Growth Option,14.1371,2026-07-21
 148539,INF209KB1T79,,Aditya Birla Sun Life Special Opportunities Fund-Direct-Growth,30.56,2026-07-21
 148550,INF200KA1R64,,SBI Floating Rate Debt Fund - Direct Plan - Growth,14.4054,2026-07-21
+148555,INF754K01LV5,,Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth,24.3151,2026-07-21
 148564,INF966L01AD4,,quant ESG Integration Strategy Fund - Growth Option - Direct Plan,43.0673,2026-07-21
 148567,INF174V01AG7,,Mahindra Manulife Focused Fund - Direct Plan -Growth,29.8689,2026-07-21
 148574,INF769K01GQ3,,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund Direct Growth,18.497,2026-07-21
@@ -900,8 +922,11 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148634,INF846K01X71,,Axis Innovation Fund - Direct Plan - Growth Option,21.7,2026-07-21
 148637,INF209KB1U76,,Aditya Birla Sun Life ESG Integration Strategy Fund-Direct Plan-Growth,19.38,2026-07-21
 148642,INF204KB16X6,,Nippon India Diversified Equity Flexicap Passive FoF - Direct Plan - Growth Option,21.4788,2026-07-21
+148646,INF174KA1FO2,,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth,12.6586,2026-07-21
+148649,INF174KA1FN4,INF174KA1FP9,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option,12.6585,2026-07-21
 148651,INF109KC1P24,,ICICI Prudential Business Cycle Fund Direct Plan Growth,26.46,2026-07-21
 148658,INF663L01V49,,PGIM India Balanced Advantage Fund -  Direct Plan - Growth Option,16.7,2026-07-21
+148662,INF174KA1FQ7,,Kotak US Specific Equity Passive FOF- Direct Plan - Growth,28.4756,2026-07-21
 148666,INF204KB16Y4,,Nippon India Multi - Asset Omni FoF - Direct Plan - Growth Option,24.8779,2026-07-21
 148683,INF200KA1S55,,SBI Retirement Benefit Fund - Aggressive Plan - Direct Plan - Growth,21.6311,2026-07-21
 148685,INF200KA1S97,,SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Direct Plan - Growth,20.6786,2026-07-21
@@ -975,11 +1000,13 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149166,INF846K010C0,,Axis Value Fund - Direct Plan - Growth,21.07,2026-07-21
 149170,INF769K01HR9,,Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth,28.066,2026-07-21
 149174,INF200KA1Z64,,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth,13.3188,2026-07-21
+149180,INF179KC1BO4,,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,21.637,2026-07-21
 149185,INF174KA1HV3,,Kotak Multicap Fund-Direct Plan-Growth,21.676,2026-07-21
 149190,INF740KA1QH8,,DSP FMP Series - 264 - 60M - 17D - Direct - Growth,13.3465,2026-07-21
 149195,INF200KA10A7,,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Growth,13.309,2026-07-21
 149199,INF209KB18B7,,Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60:40 Index Fund-Direct Growth,13.2221,2026-07-21
 149210,INF109KC1S88,,ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index Fund - Direct Plan Growth,13.2832,2026-07-21
+149219,INF109KC1U50,,ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - Growth,24.4116,2026-07-21
 149230,INF174V01AY0,,Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - Growth,11.4173,2026-07-21
 149232,INF200KA14A9,,SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Direct Plan - Growth,13.2888,2026-07-21
 149240,INF247L01AQ1,,Motilal Oswal 5 Year G-Sec Fund Of Fund Direct -Growth,13.2632,2026-07-21
@@ -994,6 +1021,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149288,INF179KC1BQ9,,HDFC NIFTY Next 50 Index Fund - Direct Plan - Growth Option,17.1937,2026-07-21
 149291,INF209KB18C5,,Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth,23.0246,2026-07-21
 149295,INF209KB14D2,,Aditya Birla Sun Life Business Cycle Fund-Direct Growth,16.87,2026-07-21
+149298,INF663L01W63,,PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option,14.47,2026-07-21
 149303,INF194KB1CL0,,BANDHAN MULTI CAP FUND - GROWTH - DIRECT PLAN,18.775,2026-07-21
 149307,INF200KA12B1,,SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Growth,13.2882,2026-07-21
 149318,INF579M01AI2,,360 ONE QUANT FUND DIRECT GROWTH,19.8197,2026-07-21
@@ -1011,12 +1039,15 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149381,INF769K01HU3,,Mirae AssetHang Seng TECH ETF Fund of Fund Direct Plan - Growth Option,11.857,2026-07-21
 149383,INF846K013E0,,Axis Multicap Fund - Direct Growth,20.06,2026-07-21
 149389,INF109KC1W58,,ICICI Prudential Nifty Midcap 150 Index Fund - Direct Plan - Growth,20.7196,2026-07-21
+149401,INF754K01NY5,,BHARAT Bond ETF FOF - April 2032 Direct Growth,13.4415,2026-07-21
 149406,INF174V01BE0,,Mahindra Manulife Balanced Advantage Fund - Direct Plan - Growth,16.1254,2026-07-21
 149409,INF109KC17H6,,ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Stable Scheme,1000.0,2026-07-21
 149410,INF109KC15H0,,ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Transitory Scheme,1300.8461,2026-07-21
 149431,INF200KA14C5,,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Growth,13.174,2026-07-21
+149441,INF109KC1Y15,,ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - Growth,17.0315,2026-07-21
 149447,INF959L01FR8,,Navi Nifty Next 50 Index Fund- Direct Plan- Growth,17.3225,2026-07-21
 149450,INF0K1H01024,,Samco Flexi Cap Fund - Direct Plan - Growth Option,10.43,2026-07-21
+149455,INF109KC1Z55,,ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan Growth,29.9504,2026-07-21
 149460,INF200KA18C6,,SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Growth,13.291,2026-07-21
 149466,INF846K019E7,,Axis Nifty Next 50 Index Fund - Direct Plan - Growth,18.0479,2026-07-21
 149474,INF200KA13D5,,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund - Direct Plan - Growth,13.123,2026-07-21
@@ -1126,6 +1157,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 150545,INF192K01MP8,,JM Short Duration Fund (Direct) - Growth,13.0579,2026-07-21
 150554,INF582M01IK5,,Union Retirement Fund - Direct Plan - Growth Option,17.55,2026-07-21
 150571,INF903JA1LE2,,Sundaram Flexicap Fund Direct Growth,15.2538,2026-07-21
+150581,INF754K01OX5,,Edelweiss Gold and Silver ETF FOF - Direct Plan - Growth,32.552,2026-07-21
 150584,INF03VN01597,,WhiteOak Capital Mid Cap Fund Direct Plan Growth,23.218,2026-07-21
 150587,INF03VN01621,,WhiteOak Capital ELSS Tax Saver Fund Direct Plan Growth,19.089,2026-07-21
 150591,INF194KB1DP9,,BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - GROWTH - DIRECT PLAN,15.6856,2026-07-21
@@ -1185,6 +1217,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 150915,INF174V01BK7,,Mahindra Manulife Small Cap Fund - Direct Plan - Growth,22.8582,2026-07-21
 150920,INF204KC1AC0,,Nippon India Nifty G-Sec Jun 2036 Maturity Index Fund-Direct Plan-Growth Option,13.2854,2026-07-21
 150930,INF109KC11M9,,ICICI Prudential Nifty Pharma Index Fund - Direct Plan - Growth,20.1996,2026-07-21
+150989,INF754K01RC2,,BHARAT Bond ETF FOF - April 2033 - Direct Plan - Growth,13.0881,2026-07-21
 150996,INF917K01HN3,,HSBC Corporate Bond Fund - Direct Growth,82.7278,2026-07-21
 151014,INF917K01FI7,,HSBC Gilt Fund - Direct Growth,77.6107,2026-07-21
 151036,INF917K01FZ1,,HSBC Midcap Fund - Direct Growth,523.2134,2026-07-21
@@ -1394,10 +1427,12 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 152422,INF846K012V6,,Axis BSE Sensex Index Fund - Direct Plan - Growth,10.8925,2026-07-21
 152430,INF179KC1IC4,,HDFC NIFTY200 Momentum 30 Index Fund - Direct Plan,10.2892,2026-07-21
 152431,INF666M01HY9,,Groww Nifty Smallcap 250 Index Fund - Direct Plan - Growth,12.0764,2026-07-21
+152437,INF754K01SK3,,Edelweiss Technology Fund - Direct Plan - Growth,12.7429,2026-07-21
 152443,INF174V01BW2,,Mahindra Manulife Multi Asset Allocation Fund- Direct Plan - Growth,14.3228,2026-07-21
 152449,INF760K01KY8,INF760K01KX0,Canara Robeco Manufacturing Fund - Direct Plan - IDWC Option,14.2,2026-07-21
 152450,INF760K01KZ5,,Canara Robeco Manufacturing Fund - Direct Plan - Growth Option,14.2,2026-07-21
 152459,INF769K01LG4,,Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Direct Plan - Growth,10.591,2026-07-21
+152462,INF174KA1QZ5,,Kotak Technology Fund - Direct Plan - Growth Option,10.355,2026-07-21
 152468,INF879O01266,,Parag Parikh Dynamic Asset Allocation Fund - Direct Plan Growth,11.8642,2026-07-21
 152470,INF251K01TE1,,Baroda BNP Paribas Innovation Fund Direct plan - Growth Option,13.8458,2026-07-21
 152474,INF082J01457,,Quantum Multi Asset Allocation Fund - Direct Plan Growth Option,12.26,2026-07-21
@@ -1689,6 +1724,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 153703,INF579M01BG4,,360 ONE Overnight Fund - Direct Plan - Growth,1055.8325,2026-07-21
 153704,INF666M01KT3,,Groww Nifty 50 Index Fund Direct Growth,9.6922,2026-07-21
 153705,INF966L01EC8,,quant Equity Savings Fund - Growth Option - Direct Plan,10.9305,2026-07-21
+153712,INF754K01VF7,,Edelweiss Income Plus Arbitrage Active Fund of Funds - Direct Plan Growth,10.5594,2026-07-21
 153718,INF200KB1936,,SBI Nifty100 Low Volatility 30 Index Fund- Direct Plan- Growth,10.2411,2026-07-21
 153722,INF194KB1JX0,,Bandhan Multi-Factor Fund - Direct Plan - Growth,10.132,2026-07-21
 153728,INF761K01GY4,,Bank of India Mid Cap Fund - Direct Plan Growth,10.48,2026-07-21
@@ -1702,6 +1738,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 153757,INF0R8F01117,,Zerodha Multi Asset Passive FoF - Direct - Growth,11.4126,2026-07-21
 153758,INF0QA701BT9,,BAJAJ FINSERV EQUITY SAVINGS FUND - DIRECT - GROWTH,10.481,2026-07-21
 153774,INF579M01BM2,,360 ONE Multi Asset Allocation Fund - Direct Plan - Growth,12.25,2026-07-21
+153776,INF754K01VN1,,Edelweiss Multi Asset Omni Fund of Fund- Direct Plan - Growth,11.5151,2026-07-21
 153781,INF174KA1XG1,,Kotak Nifty Alpha 50 Index Fund - Direct Plan - Growth,10.56,2026-07-21
 153786,INF666M01LT1,,Groww Nifty Next 50 Index Fund Direct Growth,10.7641,2026-07-21
 153787,INF22M001044,,JioBlackRock Nifty 50 Index Fund - Direct Plan - Growth Option,9.7948,2026-07-21
@@ -1749,6 +1786,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 153948,INF767K01SD0,,LIC MF Consumption Fund-Direct Plan-Growth,9.877,2026-07-21
 153956,INF1J2R01122,,ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND - DIRECT GROWTH,10.1077,2026-07-21
 153959,INF179KC1JY6,,HDFC BSE India Sector Leaders India Fund - Direct Plan - Growth Option,9.5546,2026-07-21
+153960,INF846KA1366,,Axis Multi-Asset Active FoF - Direct Plan - Growth,10.6482,2026-07-21
 153970,INF174KA1XW8,,Kotak Rural Opportunities Fund - Direct Plan - Growth,9.907,2026-07-21
 153972,INF194KB1KF5,,Bandhan Healthcare Fund - Direct Plan - Growth,11.1,2026-07-21
 153979,INF0S5R01125,,Old Bridge Arbitrage Fund Direct Growth,10.4469,2026-07-21
@@ -1762,11 +1800,13 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154018,INF740KA1XH4,,DSP Nifty Smallcap 250 Index Fund - Direct - Growth,11.118,2026-07-21
 154020,INF582M01MH3,,Union Consumption Fund - Direct Plan - Growth Option,9.75,2026-07-21
 154027,INF959L01HR4,,Navi Nifty midsmallcap 400 Index Fund- Direct - Growth,10.8046,2026-07-21
+154028,INF666M01NC3,,Groww Multi Asset Omni FOF Direct Growth,10.3869,2026-07-21
 154032,INF174KA1YC8,,Kotak Nifty500 Momentum 50 Index Fund - Direct Plan - Growth,10.152,2026-07-21
 154043,INF2JJD01136,,Abakkus Flexi Cap Fund - Direct - Growth,11.112,2026-07-21
 154051,INF2JJD01029,,Abakkus Liquid Fund - Direct Plan - Growth,103.5681,2026-07-21
 154063,INF666M01NJ8,,Groww Small Cap Fund-Direct-Growth,12.0855,2026-07-21
 154066,INF277KA1EP8,,Tata BSE Multicap Consumption 50:30:20 Index Fund - Direct Plan Growth Option,9.7778,2026-07-21
+154072,INF754K01VZ5,,Edelweiss Silver ETF Fund of Fund - Direct Plan Growth Option,9.6717,2026-07-21
 154076,INF22M001101,,JioBlackRock Arbitrage Fund - Direct Plan - Growth Option,10.4164,2026-07-21
 154078,INF846KA1408,,Axis Gold and Silver Passive FOF - Direct Plan - Growth,10.4465,2026-07-21
 154079,INF22M001143,,JioBlackRock Short Duration Fund - Direct Plan - Growth Option,1032.4803,2026-07-21
@@ -1791,6 +1831,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154157,INF00XX01DM9,,ITI Business Cycle Fund- Direct Plan- Growth,10.5057,2026-07-21
 154161,INF03VN01AD3,,WhiteOak Capital Consumption Opportunities Fund Direct Plan Growth,10.307,2026-07-21
 154164,INF666M01NR1,,Groww Nifty PSE ETF FOF Direct Growth,9.6833,2026-07-21
+154167,INF740KA1YE9,,DSP Multi Asset Omni Fund of Funds - Direct - Growth,10.0108,2026-07-21
 154171,INF846KA1424,,Axis BSE India Sectors Leaders Index Fund- Direct Plan- Growth Option,9.6586,2026-07-21
 154177,INF200KB1AG6,,SBI Quality Fund - Direct Plan - Growth,10.5797,2026-07-21
 154178,INF200KB1AH4,INF200KB1AI2,SBI Quality Fund - Direct Plan - Income Distribution Cum Capital Withdrawal,10.5797,2026-07-21
@@ -1802,6 +1843,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154200,INF666M01NX9,,Groww BSE Hospitals ETF FOF Direct Growth,11.3046,2026-07-21
 154204,INF0QA701CF6,,Bajaj Finserv Low Duration Fund - Direct - Growth,1027.2861,2026-07-21
 154206,INF1J2R01155,,ANGEL ONE SILVER ETF FOF -DIRECT GROWTH,7.6981,2026-07-21
+154208,INF754K01WP4,,Edelweiss Gold ETF Fund of Fund Direct Plan Growth Option,8.8257,2026-07-21
 154210,INF0GCD01875,,TRUSTMF MID CAP FUND -DIRECT -GROWTH,11.92,2026-07-21
 154215,INF2JJD01177,,Abakkus Small Cap Fund - Direct Plan - Growth,12.359,2026-07-21
 154216,INF769K01QM1,,Mirae Asset Nifty Metal ETF FOF - Direct Plan - Growth,10.179,2026-07-21
@@ -1820,6 +1862,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154275,INF174KA1ZG6,,Kotak Multi Factor Passive FOF - Direct- Growth,11.097,2026-07-21
 154278,INF666M01OH0,,Groww Nifty PSU Bank Index Fund Direct Growth,10.1799,2026-07-21
 154279,INF769K01QS8,,Mirae Asset Silver ETF FOF - Direct Plan - Growth,9.878,2026-07-21
+154287,INF174KA1ZI2,,Kotak Quality Overseas Equity Omni FOF - Direct Plan - Growth-,11.086,2026-07-21
 154295,INF336L01SB6,,HSBC Gold ETF Fund of fund - Direct Growth,9.7936,2026-07-21
 154301,INF2KCX01020,,Choice Nifty 50 Index Fund - Direct Plan Growth,10.4623,2026-07-21
 154304,INF2KCX01046,,Choice Nifty Next 50 Index Fund - Direct Plan Growth,11.2935,2026-07-21
@@ -1827,6 +1870,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154307,INF22M001176,,JioBlackRock Large Cap Fund - Direct Plan - Growth Option,10.0219,2026-07-21
 154308,INF179KC1KI7,,HDFC CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Growth Plan,10.2585,2026-07-21
 154310,INF754K01WR0,,Edelweiss Nifty LargeMidcap 250 Plus 8-13 yr G-Sec 70-30 Index Fund Direct Plan Growth,10.869,2026-07-21
+154316,INF174KA1ZO0,,Kotak Multi Asset Active FOF - Direct - Growth,10.191,2026-07-21
 154320,INF666M01ON8,,Groww Arbitrage Fund Direct Growth,10.1433,2026-07-21
 154321,INF0R8F01208,,Zerodha Nifty LargeMidcap250 Plus 8-13 Yr G-Sec 70:30 Index Fund - Direct Plan - Growth Option,10.2531,2026-07-21
 154326,INF846KA1523,,Axis Nifty India Defence Index Fund - Direct Plan - Growth,10.4572,2026-07-21
@@ -1854,4 +1898,5 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 154427,INF179KC1KQ0,,HDFC Nifty Auto Index Fund- Direct Plan- Growth Option,9.974,2026-07-21
 154436,,,Zerodha Life Cycle Fund 2036 - Direct - Growth,9.9973,2026-07-21
 154437,,,Zerodha Life Cycle Fund 2041 - Direct - Growth,9.9984,2026-07-21
+154449,INF109K1A559,,ICICI Prudential Multi-Asset Active FOF - Direct Plan - Growth,10.0266,2026-07-21
 154467,INF200KB1BO8,,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - Growth,10.0,2026-07-21
