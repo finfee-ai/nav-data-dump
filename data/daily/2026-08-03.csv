@@ -258,6 +258,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 119595,INF903J01NH5,,Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund Direct Plan - Growth),107.0515,2026-08-03
 119597,INF903J01NB8,,Sundaram Financial Services Opportunities Fund Direct Plan - Growth,126.0604,2026-08-03
 119598,INF200K01QX4,,SBI Large Cap FUND-DIRECT PLAN -GROWTH,106.7776,2026-08-03
+119602,INF903J01OB6,,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,48.35,2026-08-03
 119605,INF209K01XP7,,Aditya Birla Sun Life Government Securities Fund - Growth - Direct Plan,88.5591,2026-08-03
 119609,INF200K01RY0,,SBI EQUITY HYBRID FUND - DIRECT PLAN - Growth,357.7254,2026-08-03
 119620,INF209K01Q30,,Aditya Birla Sun Life Midcap Fund - Growth - Direct Plan,956.45,2026-08-03
@@ -851,6 +852,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147666,INF846K01S29,,Axis Nifty 100 Index Fund - Direct Plan - Growth Option,23.2121,2026-08-03
 147704,INF247L01999,,Motilal Oswal Large and Midcap Fund - Direct Plan Growth,39.3291,2026-08-03
 147713,INF00XX01564,,ITI Overnight Fund - Direct Plan - Growth Option,1386.1506,2026-08-03
+147725,INF174KA1EX6,INF174KA1EY4,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,38.92,2026-08-03
+147727,INF174KA1EZ1,,Kotak Pioneer Fund- Direct Plan- Growth Option,38.926,2026-08-03
 147731,INF174V01887,,Mahindra Manulife Ultra Short Duration Fund - Direct Plan -Growth,1511.8425,2026-08-03
 147736,INF769K01FG6,,Mirae Asset Overnight Fund Direct Plan Growth,1405.7413,2026-08-03
 147750,INF582M01GA0,,Union Large & Midcap Fund - Direct Plan - Growth Option,29.69,2026-08-03
@@ -974,6 +977,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149029,INF00XX01BC4,,ITI Dynamic Term Fund - Direct Plan - Growth Option,13.51,2026-08-03
 149039,INF959L01FP2,,Navi Nifty 50 Index Fund-Direct Plan-Growth,16.36,2026-08-03
 149049,INF846K014A6,,Axis Floater Fund - Direct Plan - Growth,1420.1108,2026-08-03
+149059,INF174KA1HG4,,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,15.3703,2026-08-03
 149071,INF277KA1166,,Tata Business Cycle Fund-Direct Plan-Growth,21.006,2026-08-03
 149076,INF0GCD01370,,TRUSTMF Short Duration Fund-Direct Plan-Growth,1355.1542,2026-08-03
 149077,,INF0GCD01388,TRUSTMF Short Duration Fund-Direct Plan-Weekly Income Distribution Cum Capital Withdrawal,1136.7719,2026-08-03
