@@ -236,7 +236,6 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 120689,INF789F01SQ6,,UTI Medium to Long Duration Fund-Growth - Direct,83.4007,2026-08-04
 119511,INF209K01UU3,,Aditya Birla Sun Life Money Manager Fund - Growth - Direct Plan,402.2993,2026-08-04
 147567,INF846K01Q62,,Axis Money Market Fund - Direct Plan - Growth Option,1550.9996,2026-08-04
-151889,INF0QA701334,,Bajaj Finserv Money Market Fund-Direct Plan-Growth,1246.1175,2026-08-04
 118384,INF194K01M80,,Bandhan Money Market Fund -Direct Plan-Growth,46.8897,2026-08-04
 153294,INF761K01GO5,,Bank of India Money Market Fund - Direct - Growth,11.1049,2026-08-04
 147377,INF955L01ID0,,Baroda BNP Paribas Money Market Fund- Direct Plan - Growth,1501.0107,2026-08-04
@@ -729,6 +728,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 133800,INF178L01AK1,INF178L01AJ3,Kotak Infrastructure & Economic Reform Fund- Direct Plan- Payout of Income Distribution cum capital withdrawal option,82.515,2026-08-04
 149841,INF174KA1IF4,,Kotak Manufacture in India Fund - Direct Plan Growth,23.592,2026-08-04
 152910,INF174KA1TG9,,Kotak MNC Fund-Direct Plan-Growth,12.801,2026-08-04
+147727,INF174KA1EZ1,,Kotak Pioneer Fund- Direct Plan- Growth Option,39.121,2026-08-04
+147725,INF174KA1EX6,INF174KA1EY4,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,39.115,2026-08-04
 151881,INF174KA1OL0,,Kotak Quant Fund - Direct Plan - Growth Option,15.593,2026-08-04
 153970,INF174KA1XW8,,Kotak Rural Opportunities Fund - Direct Plan - Growth,10.083,2026-08-04
 154149,INF174KA1YV8,,Kotak Services Fund - Direct - Growth,10.664,2026-08-04
@@ -1221,6 +1222,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 153585,INF174KA1WL3,INF174KA1WJ7,Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,1010.1138,2026-08-04
 120304,INF789F1AD46,,UTI Liquid Fund - Direct Plan - Growth Option,462.6724,2026-08-04
 149011,INF205KA1429,,Invesco India Medium Duration Fund - Direct Plan - Growth,1358.5513,2026-08-04
+151889,INF0QA701334,,Bajaj Finserv Money Market Fund-Direct Plan-Growth,1246.1175,2026-08-04
 153982,INF666M01MW3,,Groww Money Market Fund Direct Growth,10.4122,2026-08-04
 120507,INF205K01RY9,,Invesco India Money Market Fund - Direct Plan - Growth,3378.8753,2026-08-04
 119746,INF174K01MW2,,Kotak Money Market Fund - (Growth) - Direct,4865.8699,2026-08-04
@@ -1428,12 +1430,14 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148063,INF754K01LB7,,Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth,39.7755,2026-08-04
 140274,INF843K01EC1,,Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option,49.3334,2026-08-04
 118551,INF090I01JR0,,Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth,105.7053,2026-08-04
+149180,INF179KC1BO4,,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,22.023,2026-08-04
 120035,INF336L01BY4,,HSBC Brazil Fund - Growth Direct,11.5646,2026-08-04
 120043,INF336L01CJ3,,HSBC Global Emerging Market Fund - Growth Direct,37.0937,2026-08-04
 123654,INF109KA1CE0,,ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth,36.65,2026-08-04
 149455,INF109KC1Z55,,ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan Growth,30.0106,2026-08-04
 119779,INF174K01LW4,,Kotak Global Emerging Market overseas Equity Omni FOF - Growth - Direct,41.738,2026-08-04
 119778,INF174K01LX2,INF174K01LY0,Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct,41.914,2026-08-04
+149059,INF174KA1HG4,,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,15.7359,2026-08-04
 148646,INF174KA1FO2,,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth,12.6683,2026-08-04
 148649,INF174KA1FN4,INF174KA1FP9,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option,12.6682,2026-08-04
 154287,INF174KA1ZI2,,Kotak Quality Overseas Equity Omni FOF - Direct Plan - Growth-,11.419,2026-08-04
@@ -1448,6 +1452,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 138528,INF223J01NF2,,PGIM India Global Equity Opportunities Fund of Fund- Direct Plan - Growth,58.2,2026-08-04
 149298,INF663L01W63,,PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option,14.16,2026-08-04
 148760,INF200KA1U28,,SBI US Specific Equity Active FoF - Direct Plan - Growth,25.4711,2026-08-04
+119602,INF903J01OB6,,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,48.8341,2026-08-04
 150702,INF209KB14N1,,Aditya Birla Sun Life Crisil IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund-Direct Growth,13.3153,2026-08-04
 150353,INF209KB19H2,,Aditya Birla Sun Life Crisil IBX 60:40 SDL+AAA PSU-Apr 2027 Index Fund-Direct Growth,13.0987,2026-08-04
 150778,INF209KB12O3,,Aditya Birla Sun Life Crisil IBX Gilt-Apr-2029 Index Fund-Direct Growth,13.4288,2026-08-04
