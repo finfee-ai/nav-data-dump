@@ -565,6 +565,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 131670,INF084M01DJ5,,Aditya Birla Sun Life Balanced Advantage Fund - Direct Plan - Growth Option,131.54,2026-08-14
 131865,INF084M01DM9,,Aditya Birla Sun Life Multi Asset Omni FoF- Direct Plan - Growth Option,41.45,2026-08-14
 131898,INF084M01DP2,,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Direct Plan - Growth Option,42.1865,2026-08-14
+132009,INF084M01EH7,,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option,47.7602,2026-08-14
+132140,INF084M01EB0,,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option,35.974,2026-08-14
 132183,INF084M01EQ8,,Aditya Birla Sun Life Conservative Hybrid Active FOF- Direct Plan - Growth Option,38.2602,2026-08-14
 132185,INF084M01ET2,,Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct Plan - Growth Option,47.7755,2026-08-14
 132186,INF084M01EW6,,Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF- Direct Plan - Growth Option,63.1094,2026-08-14
@@ -856,6 +858,8 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 147666,INF846K01S29,,Axis Nifty 100 Index Fund - Direct Plan - Growth Option,22.9009,2026-08-14
 147704,INF247L01999,,Motilal Oswal Large and Midcap Fund - Direct Plan Growth,40.7267,2026-08-14
 147713,INF00XX01564,,ITI Overnight Fund - Direct Plan - Growth Option,1388.1041,2026-08-14
+147725,INF174KA1EX6,INF174KA1EY4,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,39.677,2026-08-14
+147727,INF174KA1EZ1,,Kotak Pioneer Fund- Direct Plan- Growth Option,39.683,2026-08-14
 147731,INF174V01887,,Mahindra Manulife Ultra Short Duration Fund - Direct Plan -Growth,1515.9013,2026-08-14
 147736,INF769K01FG6,,Mirae Asset Overnight Fund Direct Plan Growth,1407.8579,2026-08-14
 147750,INF582M01GA0,,Union Large & Midcap Fund - Direct Plan - Growth Option,29.97,2026-08-14
@@ -914,6 +918,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 148567,INF174V01AG7,,Mahindra Manulife Focused Fund - Direct Plan -Growth,29.863,2026-08-14
 148574,INF769K01GQ3,,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund Direct Growth,18.608,2026-08-14
 148592,INF582M01GY0,,Union Aggressive Hybrid Fund - Direct Plan - Growth Option,20.15,2026-08-14
+148595,INF740KA1PP3,,DSP Value Fund - Direct Plan - Growth,25.068,2026-08-14
 148600,INF109KC1O66,,ICICI Prudential Quant Fund Direct Plan Growth,24.22,2026-08-14
 148605,INF174KA1FH6,INF174KA1FJ2,Kotak ESG Exclusionary Strategy Fund - Direct Plan - Payout of Income Distribution cum capital withdrawal option,18.764,2026-08-14
 148606,INF174KA1FI4,,Kotak ESG Exclusionary Strategy Fund - Direct Plan - Growth Option,18.763,2026-08-14
@@ -979,6 +984,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149029,INF00XX01BC4,,ITI Dynamic Term Fund - Direct Plan - Growth Option,13.5604,2026-08-14
 149039,INF959L01FP2,,Navi Nifty 50 Index Fund-Direct Plan-Growth,16.0953,2026-08-14
 149049,INF846K014A6,,Axis Floater Fund - Direct Plan - Growth,1429.9336,2026-08-14
+149059,INF174KA1HG4,,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,16.2428,2026-08-14
 149071,INF277KA1166,,Tata Business Cycle Fund-Direct Plan-Growth,20.7043,2026-08-14
 149076,INF0GCD01370,,TRUSTMF Short Duration Fund-Direct Plan-Growth,1359.3168,2026-08-14
 149077,,INF0GCD01388,TRUSTMF Short Duration Fund-Direct Plan-Weekly Income Distribution Cum Capital Withdrawal,1139.5596,2026-08-14
@@ -1076,6 +1082,7 @@ scheme_code,isin_growth,isin_div_reinv,scheme_name,nav,date
 149800,INF247L01AV1,,Motilal Oswal Nifty 200 Momentum 30 Index Fund-Direct Plan,15.4882,2026-08-14
 149803,INF789F1AVD7,,UTI BSE Sensex Index Fund - Direct Plan - Growth Option,14.1145,2026-08-14
 149804,INF959L01FT4,,Navi Nifty Bank Index Fund- Direct Plan- Growth,15.1782,2026-08-14
+149816,INF740KA1QP1,,DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth,23.3849,2026-08-14
 149826,INF192K01MK9,,JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan,1073.9936,2026-08-14
 149829,INF192K01MI3,,JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan,1390.4342,2026-08-14
 149830,INF959L01FV0,,Navi Total Stock Market US Specific Equity Passive FoF- Direct Plan- Growth,23.2774,2026-08-14
